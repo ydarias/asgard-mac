@@ -1,0 +1,253 @@
+{
+    "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+    "settings": {
+        "language": "EN",
+        "MACversion": "0.3"
+    },
+    "aboutMe": {
+        "profile": {
+            "name": "Yeray",
+            "surnames": "Darias",
+            "avatar": {
+                "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/22/16965d34-7603-4dec-b132-a29f39d7d840_bc91c9d44654771f5e9d.bc91c9d44654771f5e9de85fa1eadb47"
+            }
+        },
+        "relevantLinks": [
+            {
+                "type": "github",
+                "URL": "https://github.com/ydarias"
+            },
+            {
+                "type": "twitter",
+                "URL": "https://twitter.com/ydarias"
+            }
+        ],
+        "interestingFacts": [],
+        "recommendations": [
+            {
+                "type": "reading",
+                "URL": "https://corporate-rebels.com/iceberg-of-ignorance/",
+                "authors": [
+                    {
+                        "name": "Joost",
+                        "surnames": "Minnaar",
+                        "title": "Author"
+                    }
+                ]
+            }
+        ]
+    },
+    "experience": {
+        "jobs": [
+            {
+                "organization": {
+                    "name": "Avantic Estudio de Ingenieros",
+                    "URL": null
+                },
+                "roles": [
+                    {
+                        "startDate": "2007-11-01",
+                        "finishDate": "2013-12-31",
+                        "challenges": [
+                            {}
+                        ],
+                        "competences": [
+                            {
+                                "name": "JAVA",
+                                "type": "technology"
+                            },
+                            {
+                                "name": "JavaScript",
+                                "type": "technology"
+                            },
+                            {
+                                "name": "Scala",
+                                "type": "technology"
+                            },
+                            {
+                                "name": "Spring",
+                                "type": "technology"
+                            },
+                            {
+                                "name": "Cordova",
+                                "type": "technology"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "organization": {
+                    "name": "Otogami",
+                    "URL": null
+                },
+                "roles": [
+                    {
+                        "startDate": "2014-01-01",
+                        "finishDate": "2017-02-28",
+                        "challenges": [
+                            {}
+                        ],
+                        "competences": [
+                            {
+                                "name": "JAVA",
+                                "type": "technology"
+                            },
+                            {
+                                "name": "JavaScript",
+                                "type": "technology"
+                            },
+                            {
+                                "name": "Groovy",
+                                "type": "technology"
+                            },
+                            {
+                                "name": "PostgreSQL",
+                                "type": "technology"
+                            },
+                            {
+                                "name": "shiro",
+                                "type": "technology"
+                            },
+                            {
+                                "name": "antlr",
+                                "type": "technology"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "organization": {
+                    "name": "IBM Research",
+                    "URL": null
+                },
+                "roles": [
+                    {
+                        "startDate": "2018-02-01",
+                        "challenges": [
+                            {}
+                        ],
+                        "competences": [
+                            {
+                                "name": "TypeScript",
+                                "type": "technology"
+                            },
+                            {
+                                "name": "visual-studio-code",
+                                "type": "technology"
+                            },
+                            {
+                                "name": "antlr4",
+                                "type": "technology"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "organization": {
+                    "name": "Fon Technology",
+                    "image": {
+                        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/22/2e0efbf7-faef-4d71-8071-b22e1e8a7273_au50p.jpg"
+                    },
+                    "URL": "http://www.fon.com"
+                },
+                "roles": [
+                    {
+                        "startDate": "2017-03-01",
+                        "finishDate": "2018-02-28",
+                        "challenges": [
+                            {}
+                        ],
+                        "competences": [
+                            {
+                                "name": "JAVA",
+                                "type": "technology"
+                            },
+                            {
+                                "name": "Spring",
+                                "type": "technology"
+                            },
+                            {
+                                "name": "Vert.x",
+                                "type": "technology"
+                            },
+                            {
+                                "name": "Docker",
+                                "type": "technology"
+                            },
+                            {
+                                "name": "Groovy",
+                                "type": "technology"
+                            },
+                            {
+                                "name": "netflix-zuul",
+                                "type": "technology"
+                            },
+                            {
+                                "name": "MongoDB",
+                                "type": "technology"
+                            },
+                            {
+                                "name": "Hazelcast",
+                                "type": "technology"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "projects": [],
+        "publicArtifacts": [
+            {
+                "details": {
+                    "URL": "http://developerscookbook.blogspot.com.es/2014/09/runnics-en-betabeers-madrid.html",
+                    "image": {
+                        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/22/3b70f5e3-e20c-4299-9cbc-281887f463d5_xfomd.jpg"
+                    }
+                },
+                "type": "post",
+                "publishingDate": "2014-09-01",
+                "relatedCompetences": []
+            },
+            {
+                "details": {
+                    "URL": "https://speakerdeck.com/ydarias/betabeers-salamanca",
+                    "image": {
+                        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/22/0e189c66-0c6f-43cd-95d6-00c8931fcf24_vsp6c.jpg"
+                    }
+                },
+                "type": "post",
+                "publishingDate": "2018-01-01",
+                "relatedCompetences": []
+            },
+            {
+                "details": {
+                    "URL": "https://speakerdeck.com/ydarias/the-java-and-the-furious-jmx",
+                    "image": {
+                        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/22/bf800485-9c5b-4505-b600-83c6028c2631_hfe4o.jpg"
+                    }
+                },
+                "type": "post",
+                "publishingDate": "2016-11-01",
+                "relatedCompetences": [
+                    {
+                        "name": "JAVA",
+                        "type": "technology"
+                    },
+                    {
+                        "name": "jmx",
+                        "type": "technology"
+                    }
+                ]
+            }
+        ]
+    },
+    "knowledge": {
+        "studies": []
+    },
+    "careerPreferences": {
+        "contact": {}
+    }
+}
