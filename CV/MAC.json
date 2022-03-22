@@ -7,7 +7,9 @@
     "aboutMe": {
         "profile": {
             "name": "Yeray",
-            "surnames": "Darias",
+            "surnames": "Darias Camacho",
+            "title": "Developer at otogami.com",
+            "description": "",
             "avatar": {
                 "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/22/16965d34-7603-4dec-b132-a29f39d7d840_bc91c9d44654771f5e9d.bc91c9d44654771f5e9de85fa1eadb47"
             }
