@@ -68,52 +68,15 @@
     "jobs": [
       {
         "organization": {
-          "name": "Avantic Estudio de Ingenieros"
+          "name": "Manfred"
         },
         "roles": [
           {
-            "startDate": "2007-11-01",
-            "finishDate": "2013-12-31",
+            "name": "Software Developer",
+            "startDate": "2022-02-01",
             "competences": [
               {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "Spring",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "Cordova",
-                "type": "technology"
-              },
-              {
-                "name": "Scala",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Otogami"
-        },
-        "roles": [
-          {
-            "startDate": "2014-01-01",
-            "finishDate": "2017-02-28",
-            "competences": [
-              {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
+                "name": "Express",
                 "type": "technology"
               },
               {
@@ -121,15 +84,11 @@
                 "type": "technology"
               },
               {
-                "name": "Groovy",
+                "name": "TypeScript",
                 "type": "technology"
               },
               {
-                "name": "shiro",
-                "type": "technology"
-              },
-              {
-                "name": "antlr",
+                "name": "intellij-idea",
                 "type": "technology"
               }
             ]
@@ -149,11 +108,11 @@
                 "type": "technology"
               },
               {
-                "name": "visual-studio-code",
+                "name": "antlr4",
                 "type": "technology"
               },
               {
-                "name": "antlr4",
+                "name": "visual-studio-code",
                 "type": "technology"
               }
             ]
@@ -162,47 +121,49 @@
       },
       {
         "organization": {
-          "name": "Fon Technology",
+          "name": "Razeware",
           "image": {
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/22/2e0efbf7-faef-4d71-8071-b22e1e8a7273_au50p.jpg"
+            "alt": "Razeware",
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/087792e0-c251-48b4-897d-4e8a4d755944_vpijf6wnqeeywtcb8ezu.jpg"
           },
-          "URL": "http://www.fon.com"
+          "URL": "https://www.raywenderlich.com/"
         },
         "roles": [
           {
-            "startDate": "2017-03-01",
-            "finishDate": "2018-02-28",
+            "name": "Author / Technical Editor / Presenter",
+            "startDate": "2017-07-01",
+            "challenges": [
+              {
+                "description": "Creator, editor and presenter of articles, books, and videos at **[RayWenderlich.com](https://www.raywenderlich.com/),** the premier tutorial site for mobile developers.\n\n*   Co-author of **_[iOS Apprentice, 8th edition](https://store.raywenderlich.com/products/ios-apprentice/)_**, RayWenderlich.com’s “flagship” book. Completely revised two major sections of the book to cover developing apps using the SwiftUI framework. Rewrote two of the four apps presented in the book to reflect the new material. Co-wrote both the 2019 and 2020 editions.\n*   Author and presenter of **_[Beginning ARKit](https://www.raywenderlich.com/737368-beginning-arkit/)_**, a video course covering augmented reality app development for iOS devices. Designed and developed 4 original apps for this course.\n*   Technical editor of **_[ARKit by Tutorials](https://store.raywenderlich.com/products/arkit-by-tutorials/)_**, a book covering augmented reality app development for iOS devices.\n*   Presenter: The only speaker at the RWDevCon 2018 conference to do 2 presentations: **[a two-hour introductory presentation on ARKit](https://www.raywenderlich.com/5156-rwdevcon-2018-vault/lessons/13),** and an in-depth four-hour workshop on the same topic. Became the highest-rated speaker at the conference, based on their attendee survey.\n*   Android article author:\n    *   **_[Augmented Reality in Android with Google’s Face API](https://www.raywenderlich.com/523-augmented-reality-in-android-with-google-s-face-api)_**\n    *   **_[What’s New in Kotlin 1.3](https://www.raywenderlich.com/3871338-what-s-new-in-kotlin-1-3)_**\n    *   **_[Kotlin Cheat Sheet and Quick Reference](https://www.raywenderlich.com/6649-kotlin-cheat-sheet-and-quick-reference)_**"
+              }
+            ],
             "competences": [
+              {
+                "name": "Android",
+                "type": "technology"
+              },
               {
                 "name": "JAVA",
                 "type": "technology"
               },
               {
-                "name": "Spring",
+                "name": "Kotlin",
                 "type": "technology"
               },
               {
-                "name": "MongoDB",
+                "name": "Objective-C",
                 "type": "technology"
               },
               {
-                "name": "Docker",
+                "name": "Swift",
                 "type": "technology"
               },
               {
-                "name": "Groovy",
+                "name": "arkit",
                 "type": "technology"
               },
               {
-                "name": "Vert.x",
-                "type": "technology"
-              },
-              {
-                "name": "Hazelcast",
-                "type": "technology"
-              },
-              {
-                "name": "netflix-zuul",
+                "name": "iOS",
                 "type": "technology"
               }
             ]
@@ -225,7 +186,45 @@
             ],
             "competences": [
               {
+                "name": "Objective-C",
+                "type": "technology"
+              },
+              {
+                "name": "Swift",
+                "type": "technology"
+              },
+              {
                 "name": "iOS",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Joey deVilla Mobile Development"
+        },
+        "roles": [
+          {
+            "name": "Mobile Development Army of One",
+            "startDate": "2013-11-01",
+            "challenges": [
+              {
+                "description": "In my spare time, to keep my hand in “the programming game”, I take on mobile app development side projects for people with interesting app ideas. My primary development platform is iOS, although I can also develop Android apps, as well as cross-platform apps using Xamarin. Recent projects include:\n\n*   [Aspirations Winery’s Wine Crush](https://itunes.apple.com/us/app/aspirations-winerys-wine-crush/id1131103492?mt=8): A free iOS app written to promote a friend’s winery and wine shop in Clearwater, Florida. It’s a wine-themed game in the style of Candy Crush, and a promotional tool that other wineries won't have. It's available for free on the App Store. Unlike other free games, there aren't any \"poison pills\" to extract money from players — this game's just about simple, unadulterated fun. • Mind Quieting, an audio player that guides the user through mind quieting exercises developed by Dr. Alan Banack, a Toronto-based psychotherapist, and based on techniques developed over years of working with patients to help counter stress."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Android",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Kotlin",
                 "type": "technology"
               },
               {
@@ -234,6 +233,327 @@
               },
               {
                 "name": "Swift",
+                "type": "technology"
+              },
+              {
+                "name": "iOS",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Global Nerdy",
+          "URL": "http://globalnerdy.com"
+        },
+        "roles": [
+          {
+            "name": "Editor",
+            "startDate": "2006-08-01",
+            "challenges": [
+              {
+                "description": "Global Nerdy is my technology and software development blog, to which I have been posting articles and tutorials since 2006. Since its inception, it has received nearly 8.7 million pageviews."
+              }
+            ],
+            "competences": [
+              {
+                "name": "C#",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Kotlin",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Ruby",
+                "type": "technology"
+              },
+              {
+                "name": "Swift",
+                "type": "technology"
+              },
+              {
+                "name": "VB.NET",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Lilypad Solutions",
+          "URL": "http://www.lilypad.co"
+        },
+        "roles": [
+          {
+            "name": "Mobile developer",
+            "startDate": "2019-09-01",
+            "finishDate": "2020-04-30",
+            "challenges": [
+              {
+                "description": "Cross-platform mobile developer for **[Lilypad](https://www.lilypad.co/)**, a sales tool and CRM app for the beverage alcohol industry.\n\n*   Owned and delivered a major upgrade to the [Android version of Lilypad](https://play.google.com/store/apps/details?id=com.lilypadsolutions.lilypadappV2&hl=en_US), bringing it to feature parity with the iOS version. I was also working on improving the performance of the Android version so that it would be on par with the [iOS version](https://apps.apple.com/us/app/lilypad-sales/id921371352). Cleaned up the Android user interface and started making performance improvements that made some features 60% faster.\n*   Fixed bugs, upgraded existing capabilities, and added new features to the app. Built apps for both iOS and Android in JavaScript using [Axway’s](https://www.appcelerator.com/) [Titanium](https://www.appcelerator.com/Titanium/) SDK (formerly known as Appcelerator Titanium).\n*   Took charge of internal developer documentation. While Lilypad’s back end and web application were written by senior developers, the mobile app’s 360,000+ lines of source code were largely written by junior developers and interns. With managerial approval, devoted 20% of development time to writing much-needed internal documentation of the mobile app, refactoring the code, and upgrading it to a more current version of JavaScript.\n*   Established coding standards for the mobile app. The mobile code was developed by a series of junior developers, each coding in their own style. Defined a standard to be used for mobile development and have applied it to the codebase during development.\n*   Built a new mobile process and team: Key participant in weekly mobile development strategy meetings with the CTO to improve the mobile app development process. Interviewed developers for the mobile team."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Android",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "appcelerator",
+                "type": "technology"
+              },
+              {
+                "name": "appcelerator-mobile",
+                "type": "technology"
+              },
+              {
+                "name": "iOS",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "IBM",
+          "URL": "https://www.linkedin.com/company/ibm?trk=public_profile_experience-item_profile-section-card_subtitle-click"
+        },
+        "roles": [
+          {
+            "name": "Software Developer @ IBM Research",
+            "startDate": "2018-02-01",
+            "finishDate": "2022-02-28"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Sourcetoad, LLC",
+          "image": {
+            "alt": "Sourcetoad, LLC",
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/4d469185-8cae-4bcf-bf23-ae89f770b6fd_okpdcbzdradzp4npqdb5.okpdcbzdradzp4npqdb5"
+          },
+          "URL": "http://www.sourcetoad.com"
+        },
+        "roles": [
+          {
+            "name": "Lead Product Manager",
+            "startDate": "2017-07-01",
+            "finishDate": "2019-06-30",
+            "challenges": [
+              {
+                "description": "Provided technical, strategic, and customer management leadership to Sourcetoad as the company was entering a phase in which it takes on larger clients, more complex projects, and new markets.\n\nGathered requirements, wrote specifications, and product managed a number of applications, including:\n\n*   Note-taking web application for pharmacists conducting reconciling patient’s medications in online interviews.\n*   Mobile app where customers submit photos of prescriptions and participating pharmacies respond with offers and prices for the submitted prescriptions.\n*   Investor-facing “Crunchbase for pharma” web application that tracks companies, conferences, executives, and researchers in the pharmacology and healthcare industries and the relations among them using a unique graph navigation system.\n*   iPad-based self-serve kiosk for shipping via FedEx, UPS, or USPS.\n*   Mobile app that allows general contractors to rate their customers on their interactions and payments.\n*   Mobile app for the construction industry that tracks tickets for the delivery and removal of construction material from sites.\n\nSales, marketing, and community relations:\n\n*   Actively participated in sales meetings, showcasing its application development capabilities and strengths to prospective clients. This led to a number of contract signings, including those for the projects list above.\n*   Delivered several technical talks as an official Sourcetoad representative, including talks on data science, machine learning, and alternative programming platforms.\n*   Represented Sourcetoad at various events they sponsored, including [BarCamp Tampa Bay](https://barcamptampabay.org/), [Tampa Hospitality Hackathon](https://www.sourcetoad.com/cruise/hack-hospitality-cruise-challenge-winners/), and [DevFest Florida](https://www.youtube.com/watch?v=epfM9isTmK8).\n*   [Narrated the video](https://www.youtube.com/watch?v=zuKPwOjHNsY) for Sourcetoad’s flagship software product, Cruise Director.\n*   Grew the company’s Twitter profile tenfold, and wrote several articles for the company blog.\n*   Helped develop the company’s guidelines for interacting with clients."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Fon Technology",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/22/2e0efbf7-faef-4d71-8071-b22e1e8a7273_au50p.jpg"
+          },
+          "URL": "http://www.fon.com"
+        },
+        "roles": [
+          {
+            "startDate": "2017-03-01",
+            "finishDate": "2018-02-28",
+            "competences": [
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Groovy",
+                "type": "technology"
+              },
+              {
+                "name": "Hazelcast",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
+                "type": "technology"
+              },
+              {
+                "name": "Vert.x",
+                "type": "technology"
+              },
+              {
+                "name": "netflix-zuul",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Fon",
+          "URL": "https://www.linkedin.com/company/fon?trk=public_profile_experience-item_profile-section-card_subtitle-click"
+        },
+        "roles": [
+          {
+            "name": "Software developer",
+            "startDate": "2017-03-01",
+            "finishDate": "2018-02-28"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Smartrac",
+          "image": {
+            "alt": "Smartrac",
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/8d999695-dfb8-4b76-9b37-9bf605066c4f_ef4g0.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Technology Evangelist",
+            "startDate": "2016-10-01",
+            "finishDate": "2017-03-31",
+            "challenges": [
+              {
+                "description": "Technical marketer and developer evangelist for the company during their pivot from RFID tag/inlay manufacturer to provider of an integrated RFID/cloud software solution to seamlessly connect real-world objects to their digital representations.\n\n*   Product owner: Gathered requirements, and then specified the functionality and workflows for a hardware/software system for embedding RFID tags in luxury goods for tracking them through the manufacturing process and the sales cycle, and as an anti-counterfeiting measure.\n*   Led documentation effort and and wrote code examples for Smart Cosmos Objects, Smarttrac’s platform for connecting real-world objects with RFID tags to their cloud-based data representations.\n*   Promoted Smartrac to various technical and non-technical audiences, specifically business and technical decision-makers at prospective partners and clients in the medical, supply chain management, and retail industries. Provided technical information to developers at partner organizations (including Catalyst, Blue Bite, and Temera) who build solutions that integrate with the Smart Cosmos platform.\n*   Presented the Lifecycles solution at the Smartrac booth at “Retail’s Big Show 2017”, the National Retail Federation’s flagship conference in New York City. Brought a major prospective customer ($100M revenue in 2016) to Smartrac for an initial meeting."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Ruby",
+                "type": "technology"
+              },
+              {
+                "name": "Swift",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "8Kdata",
+          "URL": "https://www.linkedin.com/company/8kdata?trk=public_profile_experience-item_profile-section-card_subtitle-click"
+        },
+        "roles": [
+          {
+            "name": "Desarrollador de software",
+            "startDate": "2016-04-01",
+            "finishDate": "2017-02-28"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "GSG",
+          "image": {
+            "alt": "GSG",
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/285eff8f-8ddc-4e02-a12c-ceedfc447c21_euskciydmqcenyzmh440.png"
+          },
+          "URL": "http://gsgtelco.com/"
+        },
+        "roles": [
+          {
+            "name": "Platform Evangelist / Partner Technical Analyst",
+            "startDate": "2014-03-01",
+            "finishDate": "2016-09-30",
+            "challenges": [
+              {
+                "description": "Oversaw and overhauled GSG’s marketing efforts, creating all the messaging and sales materials for the enterprise communications services specialist.\n\n*   Communications and technical specialist on IBM’s Network Infrastructure Cost Optimization team. Designed/managed development of the application for performing quick evaluations of client network infrastructure. Wrote, produced, and narrated the official NICO promotional video, and created all NICO promotional material.\n*   Created sales and marketing materials for GSG and its channel partners: presentations, case studies, white papers, sell sheets, videos, and even mobile applications. Created documentation and training material for GSG’s SaaS applications, such as written documentation, demo scripts, and training videos. Wrote and hosted joint presentations and webinars with channel partners, including Honeywell and Pomeroy.\n*   Grew GSG’s online presence 10x. Managed their web site redesign, maintained the site’s content, regularly posted articles on the blog, created promotional and informational videos, and expanded the company’s following on LinkedIn (300 to 1,500) and Twitter (100 to 1,100)."
+              }
+            ],
+            "competences": [
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Swift",
+                "type": "technology"
+              },
+              {
+                "name": "telecom",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Otogami"
+        },
+        "roles": [
+          {
+            "startDate": "2014-01-01",
+            "finishDate": "2017-02-28",
+            "competences": [
+              {
+                "name": "Groovy",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "antlr",
+                "type": "technology"
+              },
+              {
+                "name": "shiro",
                 "type": "technology"
               }
             ]
@@ -265,21 +585,27 @@
       },
       {
         "organization": {
-          "name": "Sourcetoad, LLC",
-          "image": {
-            "alt": "Sourcetoad, LLC",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/4d469185-8cae-4bcf-bf23-ae89f770b6fd_okpdcbzdradzp4npqdb5.okpdcbzdradzp4npqdb5"
-          },
-          "URL": "http://www.sourcetoad.com"
+          "name": "Shopify",
+          "URL": "http://shopify.com"
         },
         "roles": [
           {
-            "name": "Lead Product Manager",
-            "startDate": "2017-07-01",
-            "finishDate": "2019-06-30",
+            "name": "Platform Evangelist",
+            "startDate": "2011-05-01",
+            "finishDate": "2012-04-30",
             "challenges": [
               {
-                "description": "Provided technical, strategic, and customer management leadership to Sourcetoad as the company was entering a phase in which it takes on larger clients, more complex projects, and new markets.\n\nGathered requirements, wrote specifications, and product managed a number of applications, including:\n\n*   Note-taking web application for pharmacists conducting reconciling patient’s medications in online interviews.\n*   Mobile app where customers submit photos of prescriptions and participating pharmacies respond with offers and prices for the submitted prescriptions.\n*   Investor-facing “Crunchbase for pharma” web application that tracks companies, conferences, executives, and researchers in the pharmacology and healthcare industries and the relations among them using a unique graph navigation system.\n*   iPad-based self-serve kiosk for shipping via FedEx, UPS, or USPS.\n*   Mobile app that allows general contractors to rate their customers on their interactions and payments.\n*   Mobile app for the construction industry that tracks tickets for the delivery and removal of construction material from sites.\n\nSales, marketing, and community relations:\n\n*   Actively participated in sales meetings, showcasing its application development capabilities and strengths to prospective clients. This led to a number of contract signings, including those for the projects list above.\n*   Delivered several technical talks as an official Sourcetoad representative, including talks on data science, machine learning, and alternative programming platforms.\n*   Represented Sourcetoad at various events they sponsored, including [BarCamp Tampa Bay](https://barcamptampabay.org/), [Tampa Hospitality Hackathon](https://www.sourcetoad.com/cruise/hack-hospitality-cruise-challenge-winners/), and [DevFest Florida](https://www.youtube.com/watch?v=epfM9isTmK8).\n*   [Narrated the video](https://www.youtube.com/watch?v=zuKPwOjHNsY) for Sourcetoad’s flagship software product, Cruise Director.\n*   Grew the company’s Twitter profile tenfold, and wrote several articles for the company blog.\n*   Helped develop the company’s guidelines for interacting with clients."
+                "description": "Raised the company’s profile during a critical growth phase, promoted it to three major audiences: merchants who were considering using Shopify to host their ecommerce sites, developers who were considering development of apps for Shopify stores and designers who were considering developing store themes.\n\n*   Managed the company’s first major developer outreach initiative, a $1 million fund used to encourage developers to build apps of the Shopify platform.\n*   Wrote the documentation and sample code for Shopify’s developer API, as well as documentation for store theme designers. Edited and wrote technical articles Shopify’s technology blog, whose primary audience was developers and designers.\n*   Represented Shopify at a number of conferences, including the [2011 BarCamp Tour](https://www.prweb.com/releases/2011/5/prweb8382118.htm), a multi-city tour of nine BarCamp “unconferences” across the United States.\n*   Wrote Shopify’s tweets and doubled the company’s Twitter followers."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Ruby",
+                "type": "technology"
+              },
+              {
+                "name": "Ruby on Rails",
+                "type": "technology"
               }
             ]
           }
@@ -306,11 +632,7 @@
             ],
             "competences": [
               {
-                "name": "C#",
-                "type": "technology"
-              },
-              {
-                "name": "SQL",
+                "name": "ASP.net",
                 "type": "technology"
               },
               {
@@ -318,7 +640,11 @@
                 "type": "technology"
               },
               {
-                "name": "ASP.net",
+                "name": "C#",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
                 "type": "technology"
               },
               {
@@ -330,191 +656,19 @@
                 "type": "technology"
               },
               {
-                "name": "silverlight",
-                "type": "technology"
-              },
-              {
                 "name": "asp.net-mvc",
                 "type": "technology"
               },
               {
-                "name": "xna",
+                "name": "silverlight",
                 "type": "technology"
               },
               {
                 "name": "windows-phone-7",
                 "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Joey deVilla Mobile Development"
-        },
-        "roles": [
-          {
-            "name": "Mobile Development Army of One",
-            "startDate": "2013-11-01",
-            "challenges": [
-              {
-                "description": "In my spare time, to keep my hand in “the programming game”, I take on mobile app development side projects for people with interesting app ideas. My primary development platform is iOS, although I can also develop Android apps, as well as cross-platform apps using Xamarin. Recent projects include:\n\n*   [Aspirations Winery’s Wine Crush](https://itunes.apple.com/us/app/aspirations-winerys-wine-crush/id1131103492?mt=8): A free iOS app written to promote a friend’s winery and wine shop in Clearwater, Florida. It’s a wine-themed game in the style of Candy Crush, and a promotional tool that other wineries won't have. It's available for free on the App Store. Unlike other free games, there aren't any \"poison pills\" to extract money from players — this game's just about simple, unadulterated fun. • Mind Quieting, an audio player that guides the user through mind quieting exercises developed by Dr. Alan Banack, a Toronto-based psychotherapist, and based on techniques developed over years of working with patients to help counter stress."
-              }
-            ],
-            "competences": [
-              {
-                "name": "JAVA",
-                "type": "technology"
               },
               {
-                "name": "Kotlin",
-                "type": "technology"
-              },
-              {
-                "name": "iOS",
-                "type": "technology"
-              },
-              {
-                "name": "Objective-C",
-                "type": "technology"
-              },
-              {
-                "name": "Swift",
-                "type": "technology"
-              },
-              {
-                "name": "Android",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Global Nerdy",
-          "URL": "http://globalnerdy.com"
-        },
-        "roles": [
-          {
-            "name": "Editor",
-            "startDate": "2006-08-01",
-            "challenges": [
-              {
-                "description": "Global Nerdy is my technology and software development blog, to which I have been posting articles and tutorials since 2006. Since its inception, it has received nearly 8.7 million pageviews."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Python",
-                "type": "technology"
-              },
-              {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "Kotlin",
-                "type": "technology"
-              },
-              {
-                "name": "Ruby",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "C#",
-                "type": "technology"
-              },
-              {
-                "name": "Swift",
-                "type": "technology"
-              },
-              {
-                "name": "VB.NET",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Razeware",
-          "image": {
-            "alt": "Razeware",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/087792e0-c251-48b4-897d-4e8a4d755944_vpijf6wnqeeywtcb8ezu.jpg"
-          },
-          "URL": "https://www.raywenderlich.com/"
-        },
-        "roles": [
-          {
-            "name": "Author / Technical Editor / Presenter",
-            "startDate": "2017-07-01",
-            "challenges": [
-              {
-                "description": "Creator, editor and presenter of articles, books, and videos at **[RayWenderlich.com](https://www.raywenderlich.com/),** the premier tutorial site for mobile developers.\n\n*   Co-author of **_[iOS Apprentice, 8th edition](https://store.raywenderlich.com/products/ios-apprentice/)_**, RayWenderlich.com’s “flagship” book. Completely revised two major sections of the book to cover developing apps using the SwiftUI framework. Rewrote two of the four apps presented in the book to reflect the new material. Co-wrote both the 2019 and 2020 editions.\n*   Author and presenter of **_[Beginning ARKit](https://www.raywenderlich.com/737368-beginning-arkit/)_**, a video course covering augmented reality app development for iOS devices. Designed and developed 4 original apps for this course.\n*   Technical editor of **_[ARKit by Tutorials](https://store.raywenderlich.com/products/arkit-by-tutorials/)_**, a book covering augmented reality app development for iOS devices.\n*   Presenter: The only speaker at the RWDevCon 2018 conference to do 2 presentations: **[a two-hour introductory presentation on ARKit](https://www.raywenderlich.com/5156-rwdevcon-2018-vault/lessons/13),** and an in-depth four-hour workshop on the same topic. Became the highest-rated speaker at the conference, based on their attendee survey.\n*   Android article author:\n    *   **_[Augmented Reality in Android with Google’s Face API](https://www.raywenderlich.com/523-augmented-reality-in-android-with-google-s-face-api)_**\n    *   **_[What’s New in Kotlin 1.3](https://www.raywenderlich.com/3871338-what-s-new-in-kotlin-1-3)_**\n    *   **_[Kotlin Cheat Sheet and Quick Reference](https://www.raywenderlich.com/6649-kotlin-cheat-sheet-and-quick-reference)_**"
-              }
-            ],
-            "competences": [
-              {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "Kotlin",
-                "type": "technology"
-              },
-              {
-                "name": "iOS",
-                "type": "technology"
-              },
-              {
-                "name": "Objective-C",
-                "type": "technology"
-              },
-              {
-                "name": "Swift",
-                "type": "technology"
-              },
-              {
-                "name": "Android",
-                "type": "technology"
-              },
-              {
-                "name": "arkit",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Shopify",
-          "URL": "http://shopify.com"
-        },
-        "roles": [
-          {
-            "name": "Platform Evangelist",
-            "startDate": "2011-05-01",
-            "finishDate": "2012-04-30",
-            "challenges": [
-              {
-                "description": "Raised the company’s profile during a critical growth phase, promoted it to three major audiences: merchants who were considering using Shopify to host their ecommerce sites, developers who were considering development of apps for Shopify stores and designers who were considering developing store themes.\n\n*   Managed the company’s first major developer outreach initiative, a $1 million fund used to encourage developers to build apps of the Shopify platform.\n*   Wrote the documentation and sample code for Shopify’s developer API, as well as documentation for store theme designers. Edited and wrote technical articles Shopify’s technology blog, whose primary audience was developers and designers.\n*   Represented Shopify at a number of conferences, including the [2011 BarCamp Tour](https://www.prweb.com/releases/2011/5/prweb8382118.htm), a multi-city tour of nine BarCamp “unconferences” across the United States.\n*   Wrote Shopify’s tweets and doubled the company’s Twitter followers."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Ruby",
-                "type": "technology"
-              },
-              {
-                "name": "Ruby on Rails",
+                "name": "xna",
                 "type": "technology"
               }
             ]
@@ -559,134 +713,15 @@
       },
       {
         "organization": {
-          "name": "GSG",
-          "image": {
-            "alt": "GSG",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/285eff8f-8ddc-4e02-a12c-ceedfc447c21_euskciydmqcenyzmh440.png"
-          },
-          "URL": "http://gsgtelco.com/"
+          "name": "Avantic Estudio de Ingenieros"
         },
         "roles": [
           {
-            "name": "Platform Evangelist / Partner Technical Analyst",
-            "startDate": "2014-03-01",
-            "finishDate": "2016-09-30",
-            "challenges": [
-              {
-                "description": "Oversaw and overhauled GSG’s marketing efforts, creating all the messaging and sales materials for the enterprise communications services specialist.\n\n*   Communications and technical specialist on IBM’s Network Infrastructure Cost Optimization team. Designed/managed development of the application for performing quick evaluations of client network infrastructure. Wrote, produced, and narrated the official NICO promotional video, and created all NICO promotional material.\n*   Created sales and marketing materials for GSG and its channel partners: presentations, case studies, white papers, sell sheets, videos, and even mobile applications. Created documentation and training material for GSG’s SaaS applications, such as written documentation, demo scripts, and training videos. Wrote and hosted joint presentations and webinars with channel partners, including Honeywell and Pomeroy.\n*   Grew GSG’s online presence 10x. Managed their web site redesign, maintained the site’s content, regularly posted articles on the blog, created promotional and informational videos, and expanded the company’s following on LinkedIn (300 to 1,500) and Twitter (100 to 1,100)."
-              }
-            ],
+            "startDate": "2007-11-01",
+            "finishDate": "2013-12-31",
             "competences": [
               {
-                "name": "PHP",
-                "type": "technology"
-              },
-              {
-                "name": "Swift",
-                "type": "technology"
-              },
-              {
-                "name": "telecom",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Lilypad Solutions",
-          "URL": "http://www.lilypad.co"
-        },
-        "roles": [
-          {
-            "name": "Mobile developer",
-            "startDate": "2019-09-01",
-            "finishDate": "2020-04-30",
-            "challenges": [
-              {
-                "description": "Cross-platform mobile developer for **[Lilypad](https://www.lilypad.co/)**, a sales tool and CRM app for the beverage alcohol industry.\n\n*   Owned and delivered a major upgrade to the [Android version of Lilypad](https://play.google.com/store/apps/details?id=com.lilypadsolutions.lilypadappV2&hl=en_US), bringing it to feature parity with the iOS version. I was also working on improving the performance of the Android version so that it would be on par with the [iOS version](https://apps.apple.com/us/app/lilypad-sales/id921371352). Cleaned up the Android user interface and started making performance improvements that made some features 60% faster.\n*   Fixed bugs, upgraded existing capabilities, and added new features to the app. Built apps for both iOS and Android in JavaScript using [Axway’s](https://www.appcelerator.com/) [Titanium](https://www.appcelerator.com/Titanium/) SDK (formerly known as Appcelerator Titanium).\n*   Took charge of internal developer documentation. While Lilypad’s back end and web application were written by senior developers, the mobile app’s 360,000+ lines of source code were largely written by junior developers and interns. With managerial approval, devoted 20% of development time to writing much-needed internal documentation of the mobile app, refactoring the code, and upgrading it to a more current version of JavaScript.\n*   Established coding standards for the mobile app. The mobile code was developed by a series of junior developers, each coding in their own style. Defined a standard to be used for mobile development and have applied it to the codebase during development.\n*   Built a new mobile process and team: Key participant in weekly mobile development strategy meetings with the CTO to improve the mobile app development process. Interviewed developers for the mobile team."
-              }
-            ],
-            "competences": [
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "iOS",
-                "type": "technology"
-              },
-              {
-                "name": "Android",
-                "type": "technology"
-              },
-              {
-                "name": "appcelerator",
-                "type": "technology"
-              },
-              {
-                "name": "appcelerator-mobile",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Manfred"
-        },
-        "roles": [
-          {
-            "name": "Software Developer",
-            "startDate": "2022-02-01",
-            "competences": [
-              {
-                "name": "PostgreSQL",
-                "type": "technology"
-              },
-              {
-                "name": "Express",
-                "type": "technology"
-              },
-              {
-                "name": "TypeScript",
-                "type": "technology"
-              },
-              {
-                "name": "intellij-idea",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Smartrac",
-          "image": {
-            "alt": "Smartrac",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/8d999695-dfb8-4b76-9b37-9bf605066c4f_ef4g0.png"
-          }
-        },
-        "roles": [
-          {
-            "name": "Technology Evangelist",
-            "startDate": "2016-10-01",
-            "finishDate": "2017-03-31",
-            "challenges": [
-              {
-                "description": "Technical marketer and developer evangelist for the company during their pivot from RFID tag/inlay manufacturer to provider of an integrated RFID/cloud software solution to seamlessly connect real-world objects to their digital representations.\n\n*   Product owner: Gathered requirements, and then specified the functionality and workflows for a hardware/software system for embedding RFID tags in luxury goods for tracking them through the manufacturing process and the sales cycle, and as an anti-counterfeiting measure.\n*   Led documentation effort and and wrote code examples for Smart Cosmos Objects, Smarttrac’s platform for connecting real-world objects with RFID tags to their cloud-based data representations.\n*   Promoted Smartrac to various technical and non-technical audiences, specifically business and technical decision-makers at prospective partners and clients in the medical, supply chain management, and retail industries. Provided technical information to developers at partner organizations (including Catalyst, Blue Bite, and Temera) who build solutions that integrate with the Smart Cosmos platform.\n*   Presented the Lifecycles solution at the Smartrac booth at “Retail’s Big Show 2017”, the National Retail Federation’s flagship conference in New York City. Brought a major prospective customer ($100M revenue in 2016) to Smartrac for an initial meeting."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Python",
-                "type": "technology"
-              },
-              {
-                "name": "PHP",
+                "name": "Cordova",
                 "type": "technology"
               },
               {
@@ -694,75 +729,61 @@
                 "type": "technology"
               },
               {
-                "name": "Ruby",
+                "name": "JavaScript",
                 "type": "technology"
               },
               {
-                "name": "Swift",
+                "name": "Scala",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
                 "type": "technology"
               }
             ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "AvanTIC Estudio de Ingenieros",
+          "URL": "https://www.linkedin.com/company/avantic-estudio-de-ingenieros?trk=public_profile_experience-item_profile-section-card_subtitle-click"
+        },
+        "roles": [
+          {
+            "name": "Desarrollador de software",
+            "startDate": "2007-10-01",
+            "finishDate": "2014-01-31"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "General de Software de Canarias",
+          "URL": "https://www.linkedin.com/company/general-de-software-de-canarias-s.a.u.?trk=public_profile_experience-item_profile-section-card_subtitle-click"
+        },
+        "roles": [
+          {
+            "name": "Programador",
+            "startDate": "2007-03-01",
+            "finishDate": "2007-10-31"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Sistemas de Datos"
+        },
+        "roles": [
+          {
+            "name": "Prácticas en Empresa",
+            "startDate": "2005-12-01",
+            "finishDate": "2006-08-31"
           }
         ]
       }
     ],
     "projects": [
-      {
-        "details": {
-          "name": "iOS Apprentice, 8th Edition",
-          "description": "Co-author of “iOS Apprentice, 8th edition,” RayWenderlich.com’s “flagship” book. Completely revised two major sections of the book to cover developing apps using the SwiftUI framework. Rewrote two of the four apps presented in the book to reflect the new material.",
-          "URL": "https://store.raywenderlich.com/products/ios-apprentice",
-          "image": {
-            "alt": "iOS Apprentice, 8th Edition",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/4070c6f9-3712-4774-b6cd-d20ccd3b89fd_3itpz.png"
-          }
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2019-11-01",
-            "competences": [
-              {
-                "name": "iOS",
-                "type": "technology"
-              },
-              {
-                "name": "Swift",
-                "type": "technology"
-              },
-              {
-                "name": "swiftUI",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "Peekabooty",
-          "description": "Peekabooty was an anti-censorship tool announced by the hacker and do-it-yourself media organization [Cult of the Dead Cow](http://cultdeadcow.com/) at the [DefCon](https://www.defcon.org/) conference in the summer of 2001. It was a peer-to-peer encrypted proxy system that circumvented internet censorship systems such as “The Great Firewall of China”, and has since been supplanted by VPN and similar anti-censorship technologies.\n\nEven though it was announced, the project wasn’t actually implemented until Paul Baranowski and I worked on it starting December 2001, and presented it at the CodeCon conference in February 2002. Paul was the back-end developer, building the underlying networking software, while I was the front-end developer, and built and designed the user interface, which included the cute bear icons that the screen used to show other users on the network.\n\nPeekabooty got a considerable amount of press at the time. Here’s a short list of articles: - _The Register:_ [Censor-buster Peek-A-Booty goes public](http://www.theregister.co.uk/2002/02/18/censorbuster_peeka_booty_goes_public/) - _Neowin:_ [Peek-A-Booty raises a few eyebrows at CodeCon](https://www.neowin.net/news/peek-a-booty-raises-a-few-eyebrows-at-codecon) - From the book _[Hacktivism and Cyberwars: Rebels with a Cause?:](https://www.amazon.com/Hacktivism-Cyberwars-Rebels-Tim-Jordan/dp/0415260043/ref=sr_1_1)_ I am briefly mentioned on page 102 for my involvement with Peekabooty. - _Spiegel Online:_ [Vorhang auf für Peek a Booty:](http://www.spiegel.de/netzwelt/tech/im-zeichen-des-teddies-vorhang-auf-fuer-peek-a-booty-a-183280.html) Peekabooty, as covered by the online version of the German news magazine _Der Spiegel_.",
-          "URL": "http://www.theregister.co.uk/2002/02/18/censorbuster_peeka_booty_goes_public/",
-          "image": {
-            "alt": "Peekabooty",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/cfed5cdf-332b-4ff6-803e-62631d1e0d29_c1b12.jpg"
-          }
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2002-02-01",
-            "competences": [
-              {
-                "name": "C++",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
       {
         "details": {
           "name": "“Big Event 2020” Apple Watch app",
@@ -780,16 +801,16 @@
             "startDate": "2020-02-01",
             "competences": [
               {
+                "name": "apple-watch",
+                "type": "technology"
+              },
+              {
                 "name": "swiftUI",
                 "type": "technology"
               },
               {
                 "name": "watchos",
                 "type": "technology"
-              },
-              {
-                "name": "apple-watch",
-                "type": "technology"
               }
             ]
           }
@@ -797,62 +818,30 @@
       },
       {
         "details": {
-          "name": "ARKit by Tutorials",
-          "description": "Technical editor of “ARKit by Tutorials,” a book covering augmented reality app development for iOS devices.",
-          "URL": "https://store.raywenderlich.com/products/arkit-by-tutorials",
+          "name": "iOS Apprentice, 8th Edition",
+          "description": "Co-author of “iOS Apprentice, 8th edition,” RayWenderlich.com’s “flagship” book. Completely revised two major sections of the book to cover developing apps using the SwiftUI framework. Rewrote two of the four apps presented in the book to reflect the new material.",
+          "URL": "https://store.raywenderlich.com/products/ios-apprentice",
           "image": {
-            "alt": "ARKit by Tutorials",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/1d7ce041-e11e-4150-b642-1e3de641cf66_demhp.png"
+            "alt": "iOS Apprentice, 8th Edition",
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/4070c6f9-3712-4774-b6cd-d20ccd3b89fd_3itpz.png"
           }
         },
         "type": "sideProject",
         "roles": [
           {
             "name": "Developer",
-            "startDate": "2018-05-01",
+            "startDate": "2019-11-01",
             "competences": [
-              {
-                "name": "iOS",
-                "type": "technology"
-              },
               {
                 "name": "Swift",
                 "type": "technology"
               },
               {
-                "name": "arkit",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "Aspiration Winery’s Wine Crush",
-          "description": "_Aspirations Winery’s Wine Crush_ is a free iOS app written to promote a friend’s winery and wine shop in Clearwater, Florida. It’s a wine-themed game in the style of Candy Crush, and a promotional tool that other wineries won't have. It's available for free on the App Store. Unlike other free games, there aren't any \"poison pills\" to extract money from players — this game's just about simple, unadulterated fun.",
-          "URL": "https://itunes.apple.com/us/app/aspirations-winerys-wine-crush/id1131103492?mt=8",
-          "image": {
-            "alt": "Aspiration Winery’s Wine Crush",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/85adefb2-1d65-4199-a8c1-edb9c8abf640_mfeke.png"
-          }
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2016-07-01",
-            "competences": [
-              {
                 "name": "iOS",
                 "type": "technology"
               },
               {
-                "name": "Swift",
-                "type": "technology"
-              },
-              {
-                "name": "sprite-kit",
+                "name": "swiftUI",
                 "type": "technology"
               }
             ]
@@ -886,16 +875,632 @@
             ]
           }
         ]
+      },
+      {
+        "details": {
+          "name": "Qiskit VSCode",
+          "URL": "https://github.com/Qiskit/qiskit-vscode"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2018-06-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "ARKit by Tutorials",
+          "description": "Technical editor of “ARKit by Tutorials,” a book covering augmented reality app development for iOS devices.",
+          "URL": "https://store.raywenderlich.com/products/arkit-by-tutorials",
+          "image": {
+            "alt": "ARKit by Tutorials",
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/1d7ce041-e11e-4150-b642-1e3de641cf66_demhp.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2018-05-01",
+            "competences": [
+              {
+                "name": "Swift",
+                "type": "technology"
+              },
+              {
+                "name": "arkit",
+                "type": "technology"
+              },
+              {
+                "name": "iOS",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Aspiration Winery’s Wine Crush",
+          "description": "_Aspirations Winery’s Wine Crush_ is a free iOS app written to promote a friend’s winery and wine shop in Clearwater, Florida. It’s a wine-themed game in the style of Candy Crush, and a promotional tool that other wineries won't have. It's available for free on the App Store. Unlike other free games, there aren't any \"poison pills\" to extract money from players — this game's just about simple, unadulterated fun.",
+          "URL": "https://itunes.apple.com/us/app/aspirations-winerys-wine-crush/id1131103492?mt=8",
+          "image": {
+            "alt": "Aspiration Winery’s Wine Crush",
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/85adefb2-1d65-4199-a8c1-edb9c8abf640_mfeke.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2016-07-01",
+            "competences": [
+              {
+                "name": "Swift",
+                "type": "technology"
+              },
+              {
+                "name": "iOS",
+                "type": "technology"
+              },
+              {
+                "name": "sprite-kit",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Peekabooty",
+          "description": "Peekabooty was an anti-censorship tool announced by the hacker and do-it-yourself media organization [Cult of the Dead Cow](http://cultdeadcow.com/) at the [DefCon](https://www.defcon.org/) conference in the summer of 2001. It was a peer-to-peer encrypted proxy system that circumvented internet censorship systems such as “The Great Firewall of China”, and has since been supplanted by VPN and similar anti-censorship technologies.\n\nEven though it was announced, the project wasn’t actually implemented until Paul Baranowski and I worked on it starting December 2001, and presented it at the CodeCon conference in February 2002. Paul was the back-end developer, building the underlying networking software, while I was the front-end developer, and built and designed the user interface, which included the cute bear icons that the screen used to show other users on the network.\n\nPeekabooty got a considerable amount of press at the time. Here’s a short list of articles: - _The Register:_ [Censor-buster Peek-A-Booty goes public](http://www.theregister.co.uk/2002/02/18/censorbuster_peeka_booty_goes_public/) - _Neowin:_ [Peek-A-Booty raises a few eyebrows at CodeCon](https://www.neowin.net/news/peek-a-booty-raises-a-few-eyebrows-at-codecon) - From the book _[Hacktivism and Cyberwars: Rebels with a Cause?:](https://www.amazon.com/Hacktivism-Cyberwars-Rebels-Tim-Jordan/dp/0415260043/ref=sr_1_1)_ I am briefly mentioned on page 102 for my involvement with Peekabooty. - _Spiegel Online:_ [Vorhang auf für Peek a Booty:](http://www.spiegel.de/netzwelt/tech/im-zeichen-des-teddies-vorhang-auf-fuer-peek-a-booty-a-183280.html) Peekabooty, as covered by the online version of the German news magazine _Der Spiegel_.",
+          "URL": "http://www.theregister.co.uk/2002/02/18/censorbuster_peeka_booty_goes_public/",
+          "image": {
+            "alt": "Peekabooty",
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/cfed5cdf-332b-4ff6-803e-62631d1e0d29_c1b12.jpg"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2002-02-01",
+            "competences": [
+              {
+                "name": "C++",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ],
     "publicArtifacts": [
       {
         "details": {
-          "name": "Python: What OS am I running on?",
-          "URL": "https://stackoverflow.com/questions/1854/python-what-os-am-i-running-on/1871#1871"
+          "name": "Top 5% at Stack Overflow answers",
+          "description": "This user is part of the top 5% Stack Overflow answerers in these technologies"
+        },
+        "type": "achievement",
+        "publishingDate": "2022-03-04",
+        "relatedCompetences": [
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "Ruby",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Top 30% at Stack Overflow answers",
+          "description": "This user is part of the top 30% Stack Overflow answerers in this technology"
+        },
+        "type": "achievement",
+        "publishingDate": "2022-03-04",
+        "relatedCompetences": [
+          {
+            "name": "Swift",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Interview on “The 6-Figure Developer” podcast",
+          "description": "In this interview with the podcast _[The 6 Figure Developer](https://6figuredev.com/),_ I talk about working on _iOS Apprentice, 8th Edition,_ iOS development in general, mobile technology in general, and my philosophy for choosing technologies to work on: “Always bet on the tech that’s being dismissed as a toy.”",
+          "URL": "https://6figuredev.com/podcast/episode-123-ios-apprentice-accordions-with-joey-devilla/",
+          "image": {
+            "alt": "Interview on “The 6-Figure Developer” podcast",
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/bfe795a0-c48e-4c83-a7ba-0d2dce71cf87_wwrki.jpg"
+          }
         },
         "type": "post",
-        "publishingDate": "2008-08-01"
+        "publishingDate": "2019-12-01",
+        "relatedCompetences": [
+          {
+            "name": "Android",
+            "type": "technology"
+          },
+          {
+            "name": "iOS",
+            "type": "technology"
+          },
+          {
+            "name": "swiftUI",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Cited in the book “Cult of the Dead Cow How the Original Hacking Supergroup Might Just Save the World” by Joseph Menn (2019)",
+          "description": "Paul Baranowski and I appear at the start of Chapter 9, which covers the _Peekabooty_ application.",
+          "URL": "https://www.google.com/books/edition/Cult_of_the_Dead_Cow/055xDwAAQBAJ?hl=en&gbpv=1&dq=peekabooty+joey+devilla&pg=PT127&printsec=frontcover",
+          "image": {
+            "alt": "Cited in the book “Cult of the Dead Cow How the Original Hacking Supergroup Might Just Save the World” by Joseph Menn (2019)",
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/bcff1388-2d26-4086-8c0f-e414e194cefc_hl2ke.jpg"
+          }
+        },
+        "type": "achievement",
+        "publishingDate": "2019-06-01"
+      },
+      {
+        "details": {
+          "name": "Full interview on “Thunder Nerds” on Jupyter Notebooks, accordions, and more",
+          "description": "This is a full hour-long interview on the _Thunder Nerds_ podcast where I talk about a recent presentation on Jupyter Notebooks, plus how I got started in programming, and what brought me to the Tampa Bay area.",
+          "URL": "https://www.youtube.com/watch?v=kVDP_-jmFtM",
+          "image": {
+            "alt": "Full interview on “Thunder Nerds” on Jupyter Notebooks, accordions, and more",
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/d4ce0853-f6d7-4a70-aebb-7abcdf0c1fc5_xnhz6.jpg"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2019-01-01",
+        "relatedCompetences": [
+          {
+            "name": "Jupyter",
+            "type": "technology"
+          },
+          {
+            "name": "Pandas",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Interview on “Thunder Nerds”, DevFest Florida 2019",
+          "description": "This interview was conducted at DevFest Florida 2019, a Google technologies-focused conference at Disney World. I talk about my presentation on using Jupyter Notebooks to make dynamic documents that combine both text and Python programs to create a whole new kind of document.",
+          "URL": "https://www.youtube.com/watch?v=It00Uy8VNGM",
+          "image": {
+            "alt": "Interview on “Thunder Nerds”, DevFest Florida 2019",
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/8dc033fc-ae17-4191-bba5-cc5c665ed7a7_8z1v9.jpg"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2019-01-01",
+        "relatedCompetences": [
+          {
+            "name": "Jupyter",
+            "type": "technology"
+          },
+          {
+            "name": "Pandas",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "ARKit Workshop",
+          "description": "This is the second of TWO presentations I gave at the RWDevCon 2018 conference on developing augmented reality apps with ARKit. I walk the audience through the development of 4 AR apps.",
+          "URL": "https://www.youtube.com/watch?v=_sjyaDhKk2Q",
+          "image": {
+            "alt": "ARKit Workshop at RWDevCon 2018",
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/28d1f0df-1cd9-4765-b111-b9e7f24c7a8e_bqpeg.jpg"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2018-04-01",
+        "relatedCompetences": [
+          {
+            "name": "arkit",
+            "type": "technology"
+          },
+          {
+            "name": "coreml",
+            "type": "technology"
+          },
+          {
+            "name": "iOS",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Getting Started with ARKit with Joey Devilla - Live Tutorial Session - RWDevCon 2018",
+          "description": "This is one of TWO presentations I gave at the RWDevCon 2018 conference on ARKit. This 2-hour session is the shorter presentation, where I teach ARKit by walking through the development of 2 apps: a Bob Ross-inspired “3D painter” app in the spirit of Google’s [Tilt Brush](https://www.tiltbrush.com/) and a scaled-down version of the _IKEA Place_ app.",
+          "URL": "https://www.youtube.com/watch?v=0bea2V8Jrw4",
+          "image": {
+            "alt": "Getting Started with ARKit with Joey Devilla - Live Tutorial Session - RWDevCon 2018",
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/b974880d-696a-480c-b8f4-e106216a926a_ce5rp.jpg"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2018-04-01",
+        "relatedCompetences": [
+          {
+            "name": "arkit",
+            "type": "technology"
+          },
+          {
+            "name": "augmented-reality",
+            "type": "technology"
+          },
+          {
+            "name": "iOS",
+            "type": "technology"
+          },
+          {
+            "name": "scenekit",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
+          "URL": "https://speakerdeck.com/ydarias/betabeers-salamanca",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/22/0e189c66-0c6f-43cd-95d6-00c8931fcf24_vsp6c.jpg"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2018-01-01"
+      },
+      {
+        "details": {
+          "name": "Interview on “Thunder Nerds”, DevFest Florida 2017",
+          "description": "This interview was conducted at DevFest Florida 2017, a Google technologies-focused conference at Disney World. I talk about my presentation on native Android development for web developers, working at an office after years of remote work, and mobile technologies.",
+          "URL": "https://www.youtube.com/watch?v=AlG3fEHlF3E",
+          "image": {
+            "alt": "Interview on “Thunder Nerds”, DevFest Florida 2017",
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/8dda1408-b24c-4f01-89cf-e26bdea6c25a_0gpw1.jpg"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2017-11-01",
+        "relatedCompetences": [
+          {
+            "name": "Android",
+            "type": "technology"
+          },
+          {
+            "name": "Android Studio",
+            "type": "technology"
+          },
+          {
+            "name": "Kotlin",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "My “Trucker App” job interview homework assignment",
+          "description": "We were ninety minutes into a one-hour job interview when the CTO said “We like your _breadth_ of experience. Now we’d like to test your _depth_. If we gave you a quick programming assignment, which would you prefer — writing an iOS app, or an Android app? You should go with the one you’re stronger in.”\n\nI’m a much stronger iOS programmer than an Android one. The smart move would’ve been to answer “iOS,” and be done with it.\n\nInstead, I replied “Yes, but you want a guy who can lead a team of both iOS and Android developers. You really should give me both.”\n\nThe CTO raised an eyebrow, gave me a look, made a note on his pad, and said “Hmmm...I think I will.”\n\nThis is either a “total baller move” (to borrow a turn of phrase the kids are using these day), or the end of that job prospect. But for the job that they’re trying to fill, taking on that challenge was the right thing to do.\n\nIt had been a couple of years since I’d touched C or Objective-C, but after bumping my head once or twice against C-isms (“Oh yeah, pointers”), I got into a groove and a few days later, I had an app that I could show them.\n\nI sent them my project files for the iOS app, along with this “highlight reel” of the app in action, which I made using Camtasia Studio. “Tell me what you think while I work on the Android version.”\n\nAnd that’s the last I heard from them. Follow-up emails were met with silence. After the 6th email (“If you have any questions or comments about the app, please feel free to contact me”), it became apparent that this was a dead end, and it wouldn’t be worth my while to continue working on the Android version. Perhaps I’ll work on it as a way to sharpen my Kotlin skills.",
+          "URL": "https://www.youtube.com/watch?v=6tHGYhKCx7o",
+          "image": {
+            "alt": "My “Trucker App” job interview homework assignment",
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/6d9b6033-8677-4b1c-a728-195b7c777451_mwuep.jpg"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2017-06-01",
+        "relatedCompetences": [
+          {
+            "name": "Alamofire",
+            "type": "technology"
+          },
+          {
+            "name": "Objective-C",
+            "type": "technology"
+          },
+          {
+            "name": "iOS",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Winning a prize",
+          "description": "The first of three “Makers Hustle Harder” hackathons run by GM in 2017 was held at Tampa Hackerspace. It was an opportunity for Tampa Bay techies to try their programming chops on GM’s Next Generation Infotainment (NGI) in-car console system.\n\nIn about an hour, I came up with, coded, and tested an app called “Fitness Fire Drill”, which acts as a referee for [the classic “fire drill” game you play with friends in a car](https://en.wikipedia.org/wiki/Chinese_fire_drill).\n\nThe judges liked the app so much that they invented the “Judges’ Fetish” category simply for the purpose of awarding it a prize.",
+          "URL": "http://www.globalnerdy.com/2017/03/06/my-day-at-gms-makers-hustle-harder-hackathon-in-tampa/",
+          "image": {
+            "alt": "Winning a prize at GM’s “Makers Hustle Harder” hackathon",
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/0745ed8a-faa0-4608-b19a-5486f59f925d_gckmu.jpg"
+          }
+        },
+        "type": "achievement",
+        "publishingDate": "2017-03-01",
+        "relatedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Playing “Three Gypsies” with the Jackdaws",
+          "description": "I _always_ bring my accordion when I’m out for a beer, including when I’m out for a beer at Tampa’s Bay Area Renaissance Festival. While watching the Jackdaws, their guitarist Whiplash saw my accordion and invited me to join them onstage to perform “Three Gypsies” (a.k.a. “The Wraggle-Taggle Gypsies-Oh!”).\n\nI’ve included this video to show that yes, I can win over a crowd, which is actually a useful skill in the tech world.",
+          "URL": "https://www.youtube.com/watch?v=z27MXXfY2KE",
+          "image": {
+            "alt": "Playing “Three Gypsies” with the Jackdaws at Tampa’s Bay Area Renaissance Festival",
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/46ad8623-0fe9-49af-b009-b264f7961c56_zijou.jpg"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2017-03-01",
+        "relatedCompetences": [
+          {
+            "name": "accordion",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
+          "URL": "https://speakerdeck.com/ydarias/the-java-and-the-furious-jmx",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/22/bf800485-9c5b-4505-b600-83c6028c2631_hfe4o.jpg"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2016-11-01",
+        "relatedCompetences": [
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "jmx",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "TechCrunch: Accordion Guy Joey DeVilla talks the future of culture and IoT",
+          "description": "John Biggs invited me to chat on his \"Technotopia\" podcast, where we talked about my new job at SMARTRAC, RFID and the internet of things, nostalgia, pop culture, and how they intersect with technology, and optimism about the future.\n\nHere’s how he introduced me: Joey DeVilla is my blogging hero. He's run his blog for most of two decades and he's worked at Microsoft, Shopify, and Tucows. Most recently he's taken on the..",
+          "URL": "https://techcrunch.com/2016/10/30/accordion-guy-joey-devilla-talks-the-future-of-culture-and-iot/",
+          "image": {
+            "alt": "TechCrunch: Accordion Guy Joey DeVilla talks the future of culture and IoT",
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/e90c1d2e-f96e-4c08-8a88-6c8833b6efa6_b921a.jpg"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2016-10-01"
+      },
+      {
+        "details": {
+          "name": "Promo video for “Aspirations Winery’s Wine Crush”",
+          "description": "This video gives you a taste of the app I created for a friend’s winery, best described as “Like that Candy game, but with _wine!_”",
+          "URL": "https://www.youtube.com/watch?v=6GUPWih1NYs",
+          "image": {
+            "alt": "Promo video for “Aspirations Winery’s Wine Crush”",
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/b450abcc-99b4-4a73-a5b0-3be5fc7920ed_5tovf.jpg"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2016-07-01"
+      },
+      {
+        "details": {
+          "name": "Dale Mabry Highway prototype",
+          "description": "This one's a work in progress -- a little \"Frogger\"/\"Crossy Road\"-type game for iOS that I'm hoping to put in the App Store later this year. There's still lots to polish, but the basic game mechanics are in place.",
+          "URL": "https://www.youtube.com/watch?v=W3Cd1shIu7I",
+          "image": {
+            "alt": "Dale Mabry Highway prototype",
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/c3aaefb9-53b3-44f0-b904-60b963c9985e_yktgt.jpg"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2016-02-01",
+        "relatedCompetences": [
+          {
+            "name": "Swift",
+            "type": "technology"
+          },
+          {
+            "name": "iOS",
+            "type": "technology"
+          },
+          {
+            "name": "sprite-kit",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "IBM NICO: Network Infrastructure Cost Optimization (IBM version)",
+          "description": "This 5-minute, 33-second video introduces IBM’s NICO service to the viewer. It explains how your network infrastructure could be costing your organization significantly more than it should, and how NICO can drive down your infrastructure and service costs, identify and fix system issues in your telecom system, and give you the tools and best practices to make the most of your network.\n\nI was the “army of one” behind this video, which I produced when I was the Technology Evangelist at GSG, who are an IBM partner, and provide the software platform and assessment services that go into NICO. I wrote the script, did the narration, gathered or created its images, and produced it — all in the span of a couple of weeks.",
+          "URL": "https://www.youtube.com/watch?v=dX9_msIbOqM",
+          "image": {
+            "alt": "IBM NICO: Network Infrastructure Cost Optimization (IBM version)",
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/f4f49537-bd79-47b9-9afa-dfa08395a371_qnwg8.jpg"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2015-11-01"
+      },
+      {
+        "details": {
+          "name": "“Dark Mobile” webinar for Enterprise Mobile (Honeywell)",
+          "description": "This 13-minute, 12-second video is taken from the “Dark Mobile” webinar that I led for a division of Honeywell formerly known as Enterprise Mobile. “Dark Mobile” is a term that I coined the term during my time at GSG, and it refers to those parts of an enterprise’s mobile telecom environment that goes unobserved, unmanaged, and unknown.\n\nIn addition to coming up with the topic and title for the webinar, I wrote the script, hosted the webinar, and produced the video based on the recording and Honeywell’s slides.",
+          "URL": "https://www.youtube.com/watch?v=kB3ixebexnc",
+          "image": {
+            "alt": "“Dark Mobile” webinar for Enterprise Mobile (Honeywell)",
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/2af17535-b1d4-40da-811c-27e697ac6dfc_yu3vq.jpg"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2015-09-01"
+      },
+      {
+        "details": {
+          "name": "My Ignite Tampa Bay 2015 presentation: A stirring defense of Florida Man and Florida Woman!",
+          "description": "I gave this presentation -- the second-last of the evening -- at Ignite Tampa Bay 2015, which took place in Tampa's Cuban Club on Thursday, August 27, 2015. In it, I sang the praises of \"Florida Man\" and \"Florida Woman\", those staples of slow news days and internet memes, and showed how they're this state's most valuable resource, complete with Florida Man logic and a closing accordion number.\n\nThis was a presentation given in the \"Ignite\" format. It's 5 minutes long, with 20 slides, each slide advancing automatically every 15 seconds. The format has been described as \"the presentation equivalent of a haiku or sonnet.\" They're more challenging than your typical presentation, and require more rehearsal -- and they're also more thrilling to give!",
+          "URL": "https://www.youtube.com/watch?v=bk_B9U0jaqI",
+          "image": {
+            "alt": "My Ignite Tampa Bay 2015 presentation: A stirring defense of Florida Man and Florida Woman!",
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/f86680f4-554f-4ff8-8439-46f024deddd9_21uth.jpg"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2015-08-01"
+      },
+      {
+        "details": {
+          "name": "Canadian Business: How to have a great relationship with your IT department",
+          "description": "_Canadian Business_ magazine has a regular “How-To” section that features advice from a expert, and in the July 2015 issue, _I_ was the expert!\n\nHere’s how they introduced me: Joey deVilla, platform evangelist at GSG Telco, shares four tips for how to keep your tech people from phoning it in. A little acknowledgement really helps.",
+          "URL": "http://www.canadianbusiness.com/innovation/how-to/2015-manage-it-better/",
+          "image": {
+            "alt": "Canadian Business: How to have a great relationship with your IT department",
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/e95d4f3b-a1ed-445a-8e02-a38eb036212c_xq7c3.jpg"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2015-07-01"
+      },
+      {
+        "details": {
+          "URL": "http://developerscookbook.blogspot.com.es/2014/09/runnics-en-betabeers-madrid.html",
+          "image": {
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/22/3b70f5e3-e20c-4299-9cbc-281887f463d5_xfomd.jpg"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2014-09-01"
+      },
+      {
+        "details": {
+          "name": "GSG's Mobility 101: Telecom Expense Management, or TEM",
+          "description": "\"Mobility 101\" is a series of videos that I put together for [GSG](http://gsgtelco.com) to help the company's partners and their customers understand various aspects of mobile devices, services, applications, and management.\n\nThis was my second video for GSG. This one introduces TEM — telecom expense management — in an entertaining way. As with most of these videos, I’m the “army of one” behind it.",
+          "URL": "https://www.youtube.com/watch?v=Q8gTDF6JP4Q",
+          "image": {
+            "alt": "GSG's Mobility 101: Telecom Expense Management, or TEM",
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/13b8bd07-f650-415f-b049-6d375cd24ede_86mql.jpg"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2014-08-01"
+      },
+      {
+        "details": {
+          "name": "GSG's Mobility 101: Intro to MMS",
+          "description": "\"Mobility 101\" is a series of videos that I put together for [GSG](http://gsgtelco.com) to help the company's partners and their customers understand various aspects of mobile devices, services, applications, and management.\n\nThis 8-minute, 19-second video was my first video for GSG. This one explains what MMS is — it’s short for managed mobility services or mobility managed services, depending on whom you ask. As with most of these videos, I’m the “army of one” behind it.",
+          "URL": "https://www.youtube.com/watch?v=u3wwapEsRIo",
+          "image": {
+            "alt": "GSG's Mobility 101: Intro to MMS",
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/c365f5ba-b486-49c7-a6df-39ddb3985bbc_2xrwk.jpg"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2014-05-01"
+      },
+      {
+        "details": {
+          "name": "Startup Weekend Tenerife 2013 winners",
+          "description": "That's it we won."
+        },
+        "type": "achievement",
+        "publishingDate": "2013-04-01",
+        "relatedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          }
+        ],
+        "tags": [
+          "Foo"
+        ]
+      },
+      {
+        "details": {
+          "name": "Ganador del Startup Weekend Tenerife",
+          "description": "Issued by Startup Weekend Tenerife"
+        },
+        "type": "achievement",
+        "publishingDate": "2013-02-01"
+      },
+      {
+        "details": {
+          "name": "Taking Ford Canada’s C-MAX Holiday Challenge (2012)",
+          "description": "During the 20102 holiday season, I took a day off from my CTO duties at Comprehensive Technology Solutions/Top Right Corner to participate in the Ford C-MAX Holiday Challenge, where we tried to get maximum efficiency out of Ford's new hybrid vehicles and go toy shopping for charity.\n\n(“Top Right Corner” was a name we were considering to replace “Comprehensive Technology Solutions”, but we never went through with the change.)",
+          "URL": "https://www.youtube.com/watch?v=D8eCS6YJc34",
+          "image": {
+            "alt": "Taking Ford Canada’s C-MAX Holiday Challenge (2012)",
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/fcc097c5-4320-4d06-bb33-6766cb7fcc09_bbguc.jpg"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2012-12-01"
+      },
+      {
+        "details": {
+          "name": "Introducing the Shopify Fund",
+          "description": "Here’s a 4-minute, 10-second video that I made during my time as a Developer Evangelist at Shopify. This one was aimed at developers, letting them know about the Shopify Fund, a $1 million fund to incentivize developers to build apps for the Shopify ecommerce platform. As with the other videos in this post, this was pretty much me, a microphone, and a laptop with Camtasia Studio and Audacity.",
+          "URL": "https://www.youtube.com/watch?v=Ux8nGYm95ak",
+          "image": {
+            "alt": "Introducing the Shopify Fund",
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/9ffeadfe-9242-4a47-b225-08389f7b04a8_lr3e0.jpg"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2012-01-01"
+      },
+      {
+        "details": {
+          "name": "Announcing the first four Shopify Fund projects (2012)",
+          "description": "A roundup of the first four projects to be funded by the million-dollar Shopify Fund. Written, directed, shot and narrated by Yours Truly.",
+          "URL": "https://www.youtube.com/watch?v=4lNx-7ICxVI",
+          "image": {
+            "alt": "Announcing the first four Shopify Fund projects (2012)",
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/11ec1786-0a73-49a8-a11b-3f5d63de16ea_wzmij.jpg"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2012-01-01"
       },
       {
         "details": {
@@ -924,7 +1529,7 @@
         "publishingDate": "2010-10-01",
         "relatedCompetences": [
           {
-            "name": "JAVA",
+            "name": "Android",
             "type": "technology"
           },
           {
@@ -932,7 +1537,11 @@
             "type": "technology"
           },
           {
-            "name": "Android",
+            "name": "Eclipse",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
             "type": "technology"
           },
           {
@@ -940,70 +1549,7 @@
             "type": "technology"
           },
           {
-            "name": "Eclipse",
-            "type": "technology"
-          },
-          {
             "name": "windows-phone-7",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "Canadian Business: How to have a great relationship with your IT department",
-          "description": "_Canadian Business_ magazine has a regular “How-To” section that features advice from a expert, and in the July 2015 issue, _I_ was the expert!\n\nHere’s how they introduced me: Joey deVilla, platform evangelist at GSG Telco, shares four tips for how to keep your tech people from phoning it in. A little acknowledgement really helps.",
-          "URL": "http://www.canadianbusiness.com/innovation/how-to/2015-manage-it-better/",
-          "image": {
-            "alt": "Canadian Business: How to have a great relationship with your IT department",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/e95d4f3b-a1ed-445a-8e02-a38eb036212c_xq7c3.jpg"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2015-07-01"
-      },
-      {
-        "details": {
-          "name": "“Byte Club” covers b5media",
-          "description": "Byte Club was a series of videos that covered the Toronto tech scene around 2008 and 2009. As a community leader in that scene, I showed up in a number of these videos.\n\nThis was the first Byte Club episode, which covered b5media and featured interviews with the people who ran it, including Yours Truly.",
-          "URL": "https://www.youtube.com/watch?v=DnxT5YvLYZk",
-          "image": {
-            "alt": "“Byte Club” covers b5media",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/90843174-ece9-4212-9953-9fec88a8e464_voh1h.jpg"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2008-08-01",
-        "relatedCompetences": [
-          {
-            "name": "WordPress",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "Interview on “Thunder Nerds”, DevFest Florida 2019",
-          "description": "This interview was conducted at DevFest Florida 2019, a Google technologies-focused conference at Disney World. I talk about my presentation on using Jupyter Notebooks to make dynamic documents that combine both text and Python programs to create a whole new kind of document.",
-          "URL": "https://www.youtube.com/watch?v=It00Uy8VNGM",
-          "image": {
-            "alt": "Interview on “Thunder Nerds”, DevFest Florida 2019",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/8dc033fc-ae17-4191-bba5-cc5c665ed7a7_8z1v9.jpg"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2019-01-01",
-        "relatedCompetences": [
-          {
-            "name": "Python",
-            "type": "technology"
-          },
-          {
-            "name": "Pandas",
-            "type": "technology"
-          },
-          {
-            "name": "Jupyter",
             "type": "technology"
           }
         ]
@@ -1023,56 +1569,16 @@
       },
       {
         "details": {
-          "name": "When to use lambda, when to use Proc.new?",
-          "URL": "https://stackoverflow.com/questions/626/when-to-use-lambda-when-to-use-proc-new/723#723"
-        },
-        "type": "post",
-        "publishingDate": "2008-08-01"
-      },
-      {
-        "details": {
-          "name": "Dale Mabry Highway prototype",
-          "description": "This one's a work in progress -- a little \"Frogger\"/\"Crossy Road\"-type game for iOS that I'm hoping to put in the App Store later this year. There's still lots to polish, but the basic game mechanics are in place.",
-          "URL": "https://www.youtube.com/watch?v=W3Cd1shIu7I",
+          "name": "HTML5 and RIAs: Friends with Benefits",
+          "description": "When I was a Developer Evangelist at Microsoft, a fellow Microsoftie had a problem: he was buried in work and needed a video comparing HTML with rich internet applications (RIAs) such as Adobe Flash or Microsoft Silverlight. “Can you make one…by tomorrow evening?” he asked. “That’s when I have to show it to this group in Montreal.”\n\nI got to work, and the result is this 5-minute, 46-second piece that summarizes the web world in the summer of 2010. I wrote, designed, narrated, and as the credits say, hastily produced this video, and my coworker was able to present it the following evening.",
+          "URL": "https://www.youtube.com/watch?v=sQ-vlJv2dWE",
           "image": {
-            "alt": "Dale Mabry Highway prototype",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/c3aaefb9-53b3-44f0-b904-60b963c9985e_yktgt.jpg"
+            "alt": "HTML5 and RIAs: Friends with Benefits",
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/1aebff9c-eb28-4462-99be-b69ed7986d2d_hrdk2.jpg"
           }
         },
         "type": "post",
-        "publishingDate": "2016-02-01",
-        "relatedCompetences": [
-          {
-            "name": "iOS",
-            "type": "technology"
-          },
-          {
-            "name": "Swift",
-            "type": "technology"
-          },
-          {
-            "name": "sprite-kit",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "Top 5% at Stack Overflow answers",
-          "description": "This user is part of the top 5% Stack Overflow answerers in these technologies"
-        },
-        "type": "achievement",
-        "publishingDate": "2022-03-04",
-        "relatedCompetences": [
-          {
-            "name": "Python",
-            "type": "technology"
-          },
-          {
-            "name": "Ruby",
-            "type": "technology"
-          }
-        ]
+        "publishingDate": "2010-08-01"
       },
       {
         "details": {
@@ -1092,205 +1598,6 @@
             "type": "technology"
           }
         ]
-      },
-      {
-        "details": {
-          "name": "Promo video for “Aspirations Winery’s Wine Crush”",
-          "description": "This video gives you a taste of the app I created for a friend’s winery, best described as “Like that Candy game, but with _wine!_”",
-          "URL": "https://www.youtube.com/watch?v=6GUPWih1NYs",
-          "image": {
-            "alt": "Promo video for “Aspirations Winery’s Wine Crush”",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/b450abcc-99b4-4a73-a5b0-3be5fc7920ed_5tovf.jpg"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2016-07-01"
-      },
-      {
-        "details": {
-          "name": "Performing",
-          "description": "Upon seeing my accordion, RailsConf 2007 organizer Chad Fowler invited me to come up with a number that we could both perform at the keynote — me on accordion, him on ukulele. Here’s the result: a parody of Radiohead’s “Creep”, re-done as a tribute to Rails creator David Heinemeier Hansson and the “Depot” Rails tutorial.",
-          "URL": "https://www.youtube.com/watch?v=eSqCog2WxdU",
-          "image": {
-            "alt": "Performing at the RailsConf 2007 evening keynote",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/a1a5ed26-837d-4656-a1a0-c389b21f4534_w69fp.jpg"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2007-05-01",
-        "relatedCompetences": [
-          {
-            "name": "Ruby",
-            "type": "technology"
-          },
-          {
-            "name": "Ruby on Rails",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "IBM NICO: Network Infrastructure Cost Optimization (IBM version)",
-          "description": "This 5-minute, 33-second video introduces IBM’s NICO service to the viewer. It explains how your network infrastructure could be costing your organization significantly more than it should, and how NICO can drive down your infrastructure and service costs, identify and fix system issues in your telecom system, and give you the tools and best practices to make the most of your network.\n\nI was the “army of one” behind this video, which I produced when I was the Technology Evangelist at GSG, who are an IBM partner, and provide the software platform and assessment services that go into NICO. I wrote the script, did the narration, gathered or created its images, and produced it — all in the span of a couple of weeks.",
-          "URL": "https://www.youtube.com/watch?v=dX9_msIbOqM",
-          "image": {
-            "alt": "IBM NICO: Network Infrastructure Cost Optimization (IBM version)",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/f4f49537-bd79-47b9-9afa-dfa08395a371_qnwg8.jpg"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2015-11-01"
-      },
-      {
-        "details": {
-          "name": "Full interview on “Thunder Nerds” on Jupyter Notebooks, accordions, and more",
-          "description": "This is a full hour-long interview on the _Thunder Nerds_ podcast where I talk about a recent presentation on Jupyter Notebooks, plus how I got started in programming, and what brought me to the Tampa Bay area.",
-          "URL": "https://www.youtube.com/watch?v=kVDP_-jmFtM",
-          "image": {
-            "alt": "Full interview on “Thunder Nerds” on Jupyter Notebooks, accordions, and more",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/d4ce0853-f6d7-4a70-aebb-7abcdf0c1fc5_xnhz6.jpg"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2019-01-01",
-        "relatedCompetences": [
-          {
-            "name": "Python",
-            "type": "technology"
-          },
-          {
-            "name": "Pandas",
-            "type": "technology"
-          },
-          {
-            "name": "Jupyter",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "Top 30% at Stack Overflow answers",
-          "description": "This user is part of the top 30% Stack Overflow answerers in this technology"
-        },
-        "type": "achievement",
-        "publishingDate": "2022-03-04",
-        "relatedCompetences": [
-          {
-            "name": "Swift",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "Introducing the Shopify Fund",
-          "description": "Here’s a 4-minute, 10-second video that I made during my time as a Developer Evangelist at Shopify. This one was aimed at developers, letting them know about the Shopify Fund, a $1 million fund to incentivize developers to build apps for the Shopify ecommerce platform. As with the other videos in this post, this was pretty much me, a microphone, and a laptop with Camtasia Studio and Audacity.",
-          "URL": "https://www.youtube.com/watch?v=Ux8nGYm95ak",
-          "image": {
-            "alt": "Introducing the Shopify Fund",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/9ffeadfe-9242-4a47-b225-08389f7b04a8_lr3e0.jpg"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2012-01-01"
-      },
-      {
-        "details": {
-          "name": "My Ignite Tampa Bay 2015 presentation: A stirring defense of Florida Man and Florida Woman!",
-          "description": "I gave this presentation -- the second-last of the evening -- at Ignite Tampa Bay 2015, which took place in Tampa's Cuban Club on Thursday, August 27, 2015. In it, I sang the praises of \"Florida Man\" and \"Florida Woman\", those staples of slow news days and internet memes, and showed how they're this state's most valuable resource, complete with Florida Man logic and a closing accordion number.\n\nThis was a presentation given in the \"Ignite\" format. It's 5 minutes long, with 20 slides, each slide advancing automatically every 15 seconds. The format has been described as \"the presentation equivalent of a haiku or sonnet.\" They're more challenging than your typical presentation, and require more rehearsal -- and they're also more thrilling to give!",
-          "URL": "https://www.youtube.com/watch?v=bk_B9U0jaqI",
-          "image": {
-            "alt": "My Ignite Tampa Bay 2015 presentation: A stirring defense of Florida Man and Florida Woman!",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/f86680f4-554f-4ff8-8439-46f024deddd9_21uth.jpg"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2015-08-01"
-      },
-      {
-        "details": {
-          "name": "“Dark Mobile” webinar for Enterprise Mobile (Honeywell)",
-          "description": "This 13-minute, 12-second video is taken from the “Dark Mobile” webinar that I led for a division of Honeywell formerly known as Enterprise Mobile. “Dark Mobile” is a term that I coined the term during my time at GSG, and it refers to those parts of an enterprise’s mobile telecom environment that goes unobserved, unmanaged, and unknown.\n\nIn addition to coming up with the topic and title for the webinar, I wrote the script, hosted the webinar, and produced the video based on the recording and Honeywell’s slides.",
-          "URL": "https://www.youtube.com/watch?v=kB3ixebexnc",
-          "image": {
-            "alt": "“Dark Mobile” webinar for Enterprise Mobile (Honeywell)",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/2af17535-b1d4-40da-811c-27e697ac6dfc_yu3vq.jpg"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2015-09-01"
-      },
-      {
-        "details": {
-          "name": "Taking Ford Canada’s C-MAX Holiday Challenge (2012)",
-          "description": "During the 20102 holiday season, I took a day off from my CTO duties at Comprehensive Technology Solutions/Top Right Corner to participate in the Ford C-MAX Holiday Challenge, where we tried to get maximum efficiency out of Ford's new hybrid vehicles and go toy shopping for charity.\n\n(“Top Right Corner” was a name we were considering to replace “Comprehensive Technology Solutions”, but we never went through with the change.)",
-          "URL": "https://www.youtube.com/watch?v=D8eCS6YJc34",
-          "image": {
-            "alt": "Taking Ford Canada’s C-MAX Holiday Challenge (2012)",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/fcc097c5-4320-4d06-bb33-6766cb7fcc09_bbguc.jpg"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2012-12-01"
-      },
-      {
-        "details": {
-          "name": "Announcing the first four Shopify Fund projects (2012)",
-          "description": "A roundup of the first four projects to be funded by the million-dollar Shopify Fund. Written, directed, shot and narrated by Yours Truly.",
-          "URL": "https://www.youtube.com/watch?v=4lNx-7ICxVI",
-          "image": {
-            "alt": "Announcing the first four Shopify Fund projects (2012)",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/11ec1786-0a73-49a8-a11b-3f5d63de16ea_wzmij.jpg"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2012-01-01"
-      },
-      {
-        "details": {
-          "name": "Getting Started with ARKit with Joey Devilla - Live Tutorial Session - RWDevCon 2018",
-          "description": "This is one of TWO presentations I gave at the RWDevCon 2018 conference on ARKit. This 2-hour session is the shorter presentation, where I teach ARKit by walking through the development of 2 apps: a Bob Ross-inspired “3D painter” app in the spirit of Google’s [Tilt Brush](https://www.tiltbrush.com/) and a scaled-down version of the _IKEA Place_ app.",
-          "URL": "https://www.youtube.com/watch?v=0bea2V8Jrw4",
-          "image": {
-            "alt": "Getting Started with ARKit with Joey Devilla - Live Tutorial Session - RWDevCon 2018",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/b974880d-696a-480c-b8f4-e106216a926a_ce5rp.jpg"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2018-04-01",
-        "relatedCompetences": [
-          {
-            "name": "iOS",
-            "type": "technology"
-          },
-          {
-            "name": "arkit",
-            "type": "technology"
-          },
-          {
-            "name": "scenekit",
-            "type": "technology"
-          },
-          {
-            "name": "augmented-reality",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "HTML5 and RIAs: Friends with Benefits",
-          "description": "When I was a Developer Evangelist at Microsoft, a fellow Microsoftie had a problem: he was buried in work and needed a video comparing HTML with rich internet applications (RIAs) such as Adobe Flash or Microsoft Silverlight. “Can you make one…by tomorrow evening?” he asked. “That’s when I have to show it to this group in Montreal.”\n\nI got to work, and the result is this 5-minute, 46-second piece that summarizes the web world in the summer of 2010. I wrote, designed, narrated, and as the credits say, hastily produced this video, and my coworker was able to present it the following evening.",
-          "URL": "https://www.youtube.com/watch?v=sQ-vlJv2dWE",
-          "image": {
-            "alt": "HTML5 and RIAs: Friends with Benefits",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/1aebff9c-eb28-4462-99be-b69ed7986d2d_hrdk2.jpg"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2010-08-01"
       },
       {
         "details": {
@@ -1317,146 +1624,16 @@
       },
       {
         "details": {
-          "name": "Playing “Three Gypsies” with the Jackdaws",
-          "description": "I _always_ bring my accordion when I’m out for a beer, including when I’m out for a beer at Tampa’s Bay Area Renaissance Festival. While watching the Jackdaws, their guitarist Whiplash saw my accordion and invited me to join them onstage to perform “Three Gypsies” (a.k.a. “The Wraggle-Taggle Gypsies-Oh!”).\n\nI’ve included this video to show that yes, I can win over a crowd, which is actually a useful skill in the tech world.",
-          "URL": "https://www.youtube.com/watch?v=z27MXXfY2KE",
+          "name": "On the “Developer Jr.” set with Joey deVilla and Junior",
+          "description": "Here’s Butterscotch.com’s Matt Harris interviewing me about “Developer Jr.”, my technology show for kids starring Yours Truly and a puppet, Junior.",
+          "URL": "https://www.youtube.com/watch?v=z5tmAH5kIQA",
           "image": {
-            "alt": "Playing “Three Gypsies” with the Jackdaws at Tampa’s Bay Area Renaissance Festival",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/46ad8623-0fe9-49af-b009-b264f7961c56_zijou.jpg"
+            "alt": "On the “Developer Jr.” set with Joey deVilla and Junior",
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/b502ba42-95dc-44a1-93d1-3552424acf9e_1yplw.jpg"
           }
         },
         "type": "post",
-        "publishingDate": "2017-03-01",
-        "relatedCompetences": [
-          {
-            "name": "accordion",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "GSG's Mobility 101: Telecom Expense Management, or TEM",
-          "description": "\"Mobility 101\" is a series of videos that I put together for [GSG](http://gsgtelco.com) to help the company's partners and their customers understand various aspects of mobile devices, services, applications, and management.\n\nThis was my second video for GSG. This one introduces TEM — telecom expense management — in an entertaining way. As with most of these videos, I’m the “army of one” behind it.",
-          "URL": "https://www.youtube.com/watch?v=Q8gTDF6JP4Q",
-          "image": {
-            "alt": "GSG's Mobility 101: Telecom Expense Management, or TEM",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/13b8bd07-f650-415f-b049-6d375cd24ede_86mql.jpg"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2014-08-01"
-      },
-      {
-        "details": {
-          "name": "Cited in the book “Hacktivism and Cyberwars: Rebels with a Cause?” by Tim Jordan and Paul A. Taylor (2004)",
-          "description": "Paul Baranowski and I appear for a number of pages starting at page 102 in a section that covers the _Peekabooty_ application.",
-          "URL": "https://www.google.com/books/edition/Hacktivism_and_Cyberwars/hew6jmcZvD4C?hl=en&gbpv=1&dq=peekabooty+joey+devilla&pg=PA102&printsec=frontcover",
-          "image": {
-            "alt": "Cited in the book “Hacktivism and Cyberwars: Rebels with a Cause?” by Tim Jordan and Paul A. Taylor (2004)",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/31cd1520-2915-4b07-9608-8633421c7723_wy68b.jpg"
-          }
-        },
-        "type": "achievement",
-        "publishingDate": "2004-07-01"
-      },
-      {
-        "details": {
-          "name": "GSG's Mobility 101: Intro to MMS",
-          "description": "\"Mobility 101\" is a series of videos that I put together for [GSG](http://gsgtelco.com) to help the company's partners and their customers understand various aspects of mobile devices, services, applications, and management.\n\nThis 8-minute, 19-second video was my first video for GSG. This one explains what MMS is — it’s short for managed mobility services or mobility managed services, depending on whom you ask. As with most of these videos, I’m the “army of one” behind it.",
-          "URL": "https://www.youtube.com/watch?v=u3wwapEsRIo",
-          "image": {
-            "alt": "GSG's Mobility 101: Intro to MMS",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/c365f5ba-b486-49c7-a6df-39ddb3985bbc_2xrwk.jpg"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2014-05-01"
-      },
-      {
-        "details": {
-          "name": "Interview on “The 6-Figure Developer” podcast",
-          "description": "In this interview with the podcast _[The 6 Figure Developer](https://6figuredev.com/),_ I talk about working on _iOS Apprentice, 8th Edition,_ iOS development in general, mobile technology in general, and my philosophy for choosing technologies to work on: “Always bet on the tech that’s being dismissed as a toy.”",
-          "URL": "https://6figuredev.com/podcast/episode-123-ios-apprentice-accordions-with-joey-devilla/",
-          "image": {
-            "alt": "Interview on “The 6-Figure Developer” podcast",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/bfe795a0-c48e-4c83-a7ba-0d2dce71cf87_wwrki.jpg"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2019-12-01",
-        "relatedCompetences": [
-          {
-            "name": "iOS",
-            "type": "technology"
-          },
-          {
-            "name": "Android",
-            "type": "technology"
-          },
-          {
-            "name": "swiftUI",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "Winning a prize",
-          "description": "The first of three “Makers Hustle Harder” hackathons run by GM in 2017 was held at Tampa Hackerspace. It was an opportunity for Tampa Bay techies to try their programming chops on GM’s Next Generation Infotainment (NGI) in-car console system.\n\nIn about an hour, I came up with, coded, and tested an app called “Fitness Fire Drill”, which acts as a referee for [the classic “fire drill” game you play with friends in a car](https://en.wikipedia.org/wiki/Chinese_fire_drill).\n\nThe judges liked the app so much that they invented the “Judges’ Fetish” category simply for the purpose of awarding it a prize.",
-          "URL": "http://www.globalnerdy.com/2017/03/06/my-day-at-gms-makers-hustle-harder-hackathon-in-tampa/",
-          "image": {
-            "alt": "Winning a prize at GM’s “Makers Hustle Harder” hackathon",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/0745ed8a-faa0-4608-b19a-5486f59f925d_gckmu.jpg"
-          }
-        },
-        "type": "achievement",
-        "publishingDate": "2017-03-01",
-        "relatedCompetences": [
-          {
-            "name": "JavaScript",
-            "type": "technology"
-          },
-          {
-            "name": "HTML",
-            "type": "technology"
-          },
-          {
-            "name": "CSS",
-            "type": "technology"
-          },
-          {
-            "name": "NodeJS",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "My “Trucker App” job interview homework assignment",
-          "description": "We were ninety minutes into a one-hour job interview when the CTO said “We like your _breadth_ of experience. Now we’d like to test your _depth_. If we gave you a quick programming assignment, which would you prefer — writing an iOS app, or an Android app? You should go with the one you’re stronger in.”\n\nI’m a much stronger iOS programmer than an Android one. The smart move would’ve been to answer “iOS,” and be done with it.\n\nInstead, I replied “Yes, but you want a guy who can lead a team of both iOS and Android developers. You really should give me both.”\n\nThe CTO raised an eyebrow, gave me a look, made a note on his pad, and said “Hmmm...I think I will.”\n\nThis is either a “total baller move” (to borrow a turn of phrase the kids are using these day), or the end of that job prospect. But for the job that they’re trying to fill, taking on that challenge was the right thing to do.\n\nIt had been a couple of years since I’d touched C or Objective-C, but after bumping my head once or twice against C-isms (“Oh yeah, pointers”), I got into a groove and a few days later, I had an app that I could show them.\n\nI sent them my project files for the iOS app, along with this “highlight reel” of the app in action, which I made using Camtasia Studio. “Tell me what you think while I work on the Android version.”\n\nAnd that’s the last I heard from them. Follow-up emails were met with silence. After the 6th email (“If you have any questions or comments about the app, please feel free to contact me”), it became apparent that this was a dead end, and it wouldn’t be worth my while to continue working on the Android version. Perhaps I’ll work on it as a way to sharpen my Kotlin skills.",
-          "URL": "https://www.youtube.com/watch?v=6tHGYhKCx7o",
-          "image": {
-            "alt": "My “Trucker App” job interview homework assignment",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/6d9b6033-8677-4b1c-a728-195b7c777451_mwuep.jpg"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2017-06-01",
-        "relatedCompetences": [
-          {
-            "name": "iOS",
-            "type": "technology"
-          },
-          {
-            "name": "Objective-C",
-            "type": "technology"
-          },
-          {
-            "name": "Alamofire",
-            "type": "technology"
-          }
-        ]
+        "publishingDate": "2010-03-01"
       },
       {
         "details": {
@@ -1473,69 +1650,38 @@
       },
       {
         "details": {
-          "name": "Cited in the book “Cult of the Dead Cow How the Original Hacking Supergroup Might Just Save the World” by Joseph Menn (2019)",
-          "description": "Paul Baranowski and I appear at the start of Chapter 9, which covers the _Peekabooty_ application.",
-          "URL": "https://www.google.com/books/edition/Cult_of_the_Dead_Cow/055xDwAAQBAJ?hl=en&gbpv=1&dq=peekabooty+joey+devilla&pg=PT127&printsec=frontcover",
+          "name": "“Byte Club” covers b5media",
+          "description": "Byte Club was a series of videos that covered the Toronto tech scene around 2008 and 2009. As a community leader in that scene, I showed up in a number of these videos.\n\nThis was the first Byte Club episode, which covered b5media and featured interviews with the people who ran it, including Yours Truly.",
+          "URL": "https://www.youtube.com/watch?v=DnxT5YvLYZk",
           "image": {
-            "alt": "Cited in the book “Cult of the Dead Cow How the Original Hacking Supergroup Might Just Save the World” by Joseph Menn (2019)",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/bcff1388-2d26-4086-8c0f-e414e194cefc_hl2ke.jpg"
-          }
-        },
-        "type": "achievement",
-        "publishingDate": "2019-06-01"
-      },
-      {
-        "details": {
-          "name": "On the “Developer Jr.” set with Joey deVilla and Junior",
-          "description": "Here’s Butterscotch.com’s Matt Harris interviewing me about “Developer Jr.”, my technology show for kids starring Yours Truly and a puppet, Junior.",
-          "URL": "https://www.youtube.com/watch?v=z5tmAH5kIQA",
-          "image": {
-            "alt": "On the “Developer Jr.” set with Joey deVilla and Junior",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/b502ba42-95dc-44a1-93d1-3552424acf9e_1yplw.jpg"
+            "alt": "“Byte Club” covers b5media",
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/90843174-ece9-4212-9953-9fec88a8e464_voh1h.jpg"
           }
         },
         "type": "post",
-        "publishingDate": "2010-03-01"
-      },
-      {
-        "details": {
-          "name": "TechCrunch: Accordion Guy Joey DeVilla talks the future of culture and IoT",
-          "description": "John Biggs invited me to chat on his \"Technotopia\" podcast, where we talked about my new job at SMARTRAC, RFID and the internet of things, nostalgia, pop culture, and how they intersect with technology, and optimism about the future.\n\nHere’s how he introduced me: Joey DeVilla is my blogging hero. He's run his blog for most of two decades and he's worked at Microsoft, Shopify, and Tucows. Most recently he's taken on the..",
-          "URL": "https://techcrunch.com/2016/10/30/accordion-guy-joey-devilla-talks-the-future-of-culture-and-iot/",
-          "image": {
-            "alt": "TechCrunch: Accordion Guy Joey DeVilla talks the future of culture and IoT",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/e90c1d2e-f96e-4c08-8a88-6c8833b6efa6_b921a.jpg"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2016-10-01"
-      },
-      {
-        "details": {
-          "name": "ARKit Workshop",
-          "description": "This is the second of TWO presentations I gave at the RWDevCon 2018 conference on developing augmented reality apps with ARKit. I walk the audience through the development of 4 AR apps.",
-          "URL": "https://www.youtube.com/watch?v=_sjyaDhKk2Q",
-          "image": {
-            "alt": "ARKit Workshop at RWDevCon 2018",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/28d1f0df-1cd9-4765-b111-b9e7f24c7a8e_bqpeg.jpg"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2018-04-01",
+        "publishingDate": "2008-08-01",
         "relatedCompetences": [
           {
-            "name": "iOS",
-            "type": "technology"
-          },
-          {
-            "name": "arkit",
-            "type": "technology"
-          },
-          {
-            "name": "coreml",
+            "name": "WordPress",
             "type": "technology"
           }
         ]
+      },
+      {
+        "details": {
+          "name": "When to use lambda, when to use Proc.new?",
+          "URL": "https://stackoverflow.com/questions/626/when-to-use-lambda-when-to-use-proc-new/723#723"
+        },
+        "type": "post",
+        "publishingDate": "2008-08-01"
+      },
+      {
+        "details": {
+          "name": "Python: What OS am I running on?",
+          "URL": "https://stackoverflow.com/questions/1854/python-what-os-am-i-running-on/1871#1871"
+        },
+        "type": "post",
+        "publishingDate": "2008-08-01"
       },
       {
         "details": {
@@ -1566,6 +1712,42 @@
       },
       {
         "details": {
+          "name": "Performing",
+          "description": "Upon seeing my accordion, RailsConf 2007 organizer Chad Fowler invited me to come up with a number that we could both perform at the keynote — me on accordion, him on ukulele. Here’s the result: a parody of Radiohead’s “Creep”, re-done as a tribute to Rails creator David Heinemeier Hansson and the “Depot” Rails tutorial.",
+          "URL": "https://www.youtube.com/watch?v=eSqCog2WxdU",
+          "image": {
+            "alt": "Performing at the RailsConf 2007 evening keynote",
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/a1a5ed26-837d-4656-a1a0-c389b21f4534_w69fp.jpg"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2007-05-01",
+        "relatedCompetences": [
+          {
+            "name": "Ruby",
+            "type": "technology"
+          },
+          {
+            "name": "Ruby on Rails",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Cited in the book “Hacktivism and Cyberwars: Rebels with a Cause?” by Tim Jordan and Paul A. Taylor (2004)",
+          "description": "Paul Baranowski and I appear for a number of pages starting at page 102 in a section that covers the _Peekabooty_ application.",
+          "URL": "https://www.google.com/books/edition/Hacktivism_and_Cyberwars/hew6jmcZvD4C?hl=en&gbpv=1&dq=peekabooty+joey+devilla&pg=PA102&printsec=frontcover",
+          "image": {
+            "alt": "Cited in the book “Hacktivism and Cyberwars: Rebels with a Cause?” by Tim Jordan and Paul A. Taylor (2004)",
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/31cd1520-2915-4b07-9608-8633421c7723_wy68b.jpg"
+          }
+        },
+        "type": "achievement",
+        "publishingDate": "2004-07-01"
+      },
+      {
+        "details": {
           "name": "Mackerel: Burying the Fish",
           "description": "This is an unpublished story that [Cory Doctorow](https://en.wikipedia.org/wiki/Cory_Doctorow) wrote for _Wired_ about Mackerel Interactive Multimedia, a Toronto-based scrappy upstart multimedia company during the era of the CD-ROM. I’m featured prominently in it.",
           "URL": "https://craphound.com/nonfic/mackerel.html",
@@ -1581,90 +1763,6 @@
             "name": "macromedia",
             "type": "technology"
           }
-        ]
-      },
-      {
-        "details": {
-          "name": "Interview on “Thunder Nerds”, DevFest Florida 2017",
-          "description": "This interview was conducted at DevFest Florida 2017, a Google technologies-focused conference at Disney World. I talk about my presentation on native Android development for web developers, working at an office after years of remote work, and mobile technologies.",
-          "URL": "https://www.youtube.com/watch?v=AlG3fEHlF3E",
-          "image": {
-            "alt": "Interview on “Thunder Nerds”, DevFest Florida 2017",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/8dda1408-b24c-4f01-89cf-e26bdea6c25a_0gpw1.jpg"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2017-11-01",
-        "relatedCompetences": [
-          {
-            "name": "Kotlin",
-            "type": "technology"
-          },
-          {
-            "name": "Android",
-            "type": "technology"
-          },
-          {
-            "name": "Android Studio",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "details": {
-          "URL": "http://developerscookbook.blogspot.com.es/2014/09/runnics-en-betabeers-madrid.html",
-          "image": {
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/22/3b70f5e3-e20c-4299-9cbc-281887f463d5_xfomd.jpg"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2014-09-01"
-      },
-      {
-        "details": {
-          "URL": "https://speakerdeck.com/ydarias/betabeers-salamanca",
-          "image": {
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/22/0e189c66-0c6f-43cd-95d6-00c8931fcf24_vsp6c.jpg"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2018-01-01"
-      },
-      {
-        "details": {
-          "URL": "https://speakerdeck.com/ydarias/the-java-and-the-furious-jmx",
-          "image": {
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/22/bf800485-9c5b-4505-b600-83c6028c2631_hfe4o.jpg"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2016-11-01",
-        "relatedCompetences": [
-          {
-            "name": "JAVA",
-            "type": "technology"
-          },
-          {
-            "name": "jmx",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "Startup Weekend Tenerife 2013 winners",
-          "description": "That's it we won."
-        },
-        "type": "achievement",
-        "publishingDate": "2013-04-01",
-        "relatedCompetences": [
-          {
-            "name": "JavaScript",
-            "type": "technology"
-          }
-        ],
-        "tags": [
-          "Foo"
         ]
       }
     ]
@@ -1715,6 +1813,17 @@
             "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/29a9ae60-a7d9-41e6-a185-faa1818ec867_s28v3.png"
           }
         }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ingeniero Técnico Informática de Gestión",
+        "startDate": "1998-01-01",
+        "finishDate": "2004-12-31",
+        "institution": {
+          "name": "Universidad de La Laguna",
+          "URL": "https://www.linkedin.com/school/universidad-de-la-laguna/?trk=public_profile_school_profile-section-card_full-click"
+        }
       }
     ]
   },
@@ -1722,23 +1831,7 @@
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "Python",
-          "type": "technology"
-        },
-        {
-          "name": "JAVA",
-          "type": "technology"
-        },
-        {
-          "name": "Kotlin",
-          "type": "technology"
-        },
-        {
-          "name": "Go",
-          "type": "technology"
-        },
-        {
-          "name": "JavaScript",
+          "name": "Android",
           "type": "technology"
         },
         {
@@ -1750,23 +1843,7 @@
           "type": "technology"
         },
         {
-          "name": "iOS",
-          "type": "technology"
-        },
-        {
-          "name": "PostgreSQL",
-          "type": "technology"
-        },
-        {
-          "name": "MongoDB",
-          "type": "technology"
-        },
-        {
-          "name": "Swift",
-          "type": "technology"
-        },
-        {
-          "name": "Android",
+          "name": "Dart",
           "type": "technology"
         },
         {
@@ -1774,11 +1851,7 @@
           "type": "technology"
         },
         {
-          "name": "TypeScript",
-          "type": "technology"
-        },
-        {
-          "name": "Scala",
+          "name": "Go",
           "type": "technology"
         },
         {
@@ -1786,7 +1859,43 @@
           "type": "technology"
         },
         {
-          "name": "Dart",
+          "name": "JAVA",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "Kotlin",
+          "type": "technology"
+        },
+        {
+          "name": "MongoDB",
+          "type": "technology"
+        },
+        {
+          "name": "PostgreSQL",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "Scala",
+          "type": "technology"
+        },
+        {
+          "name": "Swift",
+          "type": "technology"
+        },
+        {
+          "name": "TypeScript",
+          "type": "technology"
+        },
+        {
+          "name": "iOS",
           "type": "technology"
         }
       ],
