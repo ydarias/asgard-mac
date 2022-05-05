@@ -172,6 +172,18 @@
       },
       {
         "organization": {
+          "name": "Google Campus",
+          "URL": "https://www.linkedin.com/company/google-campus?trk=public_profile_experience-item_profile-section-card_subtitle-click"
+        },
+        "roles": [
+          {
+            "name": "Residency Advisor",
+            "startDate": "2016-06-01"
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Tampa iOS Meetup",
           "URL": "https://www.meetup.com/Tampa-iOS-Meetup/"
         },
@@ -198,6 +210,18 @@
                 "type": "technology"
               }
             ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Instituto de Empresa",
+          "URL": "https://www.linkedin.com/company/ie-business-school?trk=public_profile_experience-item_profile-section-card_subtitle-click"
+        },
+        "roles": [
+          {
+            "name": "Associate Professor",
+            "startDate": "2015-04-01"
           }
         ]
       },
@@ -433,6 +457,19 @@
       },
       {
         "organization": {
+          "name": "Comalatech",
+          "URL": "https://www.linkedin.com/company/comalatech?trk=public_profile_experience-item_profile-section-card_subtitle-click"
+        },
+        "roles": [
+          {
+            "name": "CEO",
+            "startDate": "2017-02-01",
+            "finishDate": "2018-06-30"
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Smartrac",
           "image": {
             "alt": "Smartrac",
@@ -580,6 +617,19 @@
                 "type": "technology"
               }
             ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Atlassian",
+          "URL": "https://www.linkedin.com/company/atlassian?trk=public_profile_experience-item_profile-section-card_subtitle-click"
+        },
+        "roles": [
+          {
+            "name": "Technical Evangelist",
+            "startDate": "2011-06-01",
+            "finishDate": "2014-01-31"
           }
         ]
       },
@@ -779,6 +829,57 @@
             "name": "Prácticas en Empresa",
             "startDate": "2005-12-01",
             "finishDate": "2006-08-31"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "SIXSERVIX OMEGA S.L.",
+          "URL": "https://www.linkedin.com/company/sixservix-omega-s.l.?trk=public_profile_experience-item_profile-section-card_subtitle-click"
+        },
+        "roles": [
+          {
+            "name": "CTO",
+            "startDate": "2003-09-01",
+            "finishDate": "2011-06-30"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "IP Soluciones",
+          "URL": "https://www.linkedin.com/company/ip-soluciones?trk=public_profile_experience-item_profile-section-card_subtitle-click"
+        },
+        "roles": [
+          {
+            "name": "Java Senior Developer",
+            "startDate": "2003-01-01",
+            "finishDate": "2003-09-30"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Azertia",
+          "URL": "https://www.linkedin.com/company/azertia?trk=public_profile_experience-item_profile-section-card_subtitle-click"
+        },
+        "roles": [
+          {
+            "name": "Java Developer",
+            "startDate": "2001-10-01",
+            "finishDate": "2003-01-31"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "The Bit Bang Network"
+        },
+        "roles": [
+          {
+            "name": "Junior Software Developer",
+            "startDate": "2001-06-01",
+            "finishDate": "2001-10-31"
           }
         ]
       }
@@ -1770,6 +1871,16 @@
   "knowledge": {
     "studies": [
       {
+        "studyType": "officialDegree",
+        "degreeAchieved": false,
+        "name": "Ingeniería informática ",
+        "startDate": "2002-01-01",
+        "institution": {
+          "name": "Universitat Oberta de Catalunya",
+          "URL": "https://www.linkedin.com/school/uoc/?trk=public_profile_school_profile-section-card_full-click"
+        }
+      },
+      {
         "studyType": "certification",
         "degreeAchieved": true,
         "name": "Certified Scrum Developer",
@@ -1817,12 +1928,33 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
+        "name": "Internet Application Development Master Degree Desarrollo de aplicaciones web",
+        "startDate": "2000-01-01",
+        "finishDate": "2001-12-31",
+        "institution": {
+          "name": "CFDTI IBM/La Caixa"
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
         "name": "Ingeniero Técnico Informática de Gestión",
         "startDate": "1998-01-01",
         "finishDate": "2004-12-31",
         "institution": {
           "name": "Universidad de La Laguna",
           "URL": "https://www.linkedin.com/school/universidad-de-la-laguna/?trk=public_profile_school_profile-section-card_full-click"
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Derecho ",
+        "startDate": "1995-01-01",
+        "finishDate": "2000-12-31",
+        "institution": {
+          "name": "Universidad Autónoma de Madrid",
+          "URL": "https://www.linkedin.com/school/universidad-autonoma-de-madrid/?trk=public_profile_school_profile-section-card_full-click"
         }
       }
     ]
