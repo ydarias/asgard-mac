@@ -42,32 +42,6 @@
     "publicArtifacts": [
       {
         "details": {
-          "name": "TechCrunch: Accordion Guy Joey DeVilla talks the future of culture and IoT",
-          "description": "John Biggs invited me to chat on his \"Technotopia\" podcast, where we talked about my new job at SMARTRAC, RFID and the internet of things, nostalgia, pop culture, and how they intersect with technology, and optimism about the future.\n\nHere’s how he introduced me: Joey DeVilla is my blogging hero. He's run his blog for most of two decades and he's worked at Microsoft, Shopify, and Tucows. Most recently he's taken on the..",
-          "URL": "https://techcrunch.com/2016/10/30/accordion-guy-joey-devilla-talks-the-future-of-culture-and-iot/",
-          "image": {
-            "alt": "TechCrunch: Accordion Guy Joey DeVilla talks the future of culture and IoT",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/e90c1d2e-f96e-4c08-8a88-6c8833b6efa6_b921a.jpg"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2016-10-01"
-      },
-      {
-        "details": {
-          "name": "Promo video for “Aspirations Winery’s Wine Crush”",
-          "description": "This video gives you a taste of the app I created for a friend’s winery, best described as “Like that Candy game, but with _wine!_”",
-          "URL": "https://www.youtube.com/watch?v=6GUPWih1NYs",
-          "image": {
-            "alt": "Promo video for “Aspirations Winery’s Wine Crush”",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/b450abcc-99b4-4a73-a5b0-3be5fc7920ed_5tovf.jpg"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2016-07-01"
-      },
-      {
-        "details": {
           "name": "Dale Mabry Highway prototype",
           "description": "This one's a work in progress -- a little \"Frogger\"/\"Crossy Road\"-type game for iOS that I'm hoping to put in the App Store later this year. There's still lots to polish, but the basic game mechanics are in place.",
           "URL": "https://www.youtube.com/watch?v=W3Cd1shIu7I",
