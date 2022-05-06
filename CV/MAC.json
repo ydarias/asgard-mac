@@ -42,55 +42,6 @@
     "jobs": [
       {
         "organization": {
-          "name": "Fon Technology",
-          "image": {
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/22/2e0efbf7-faef-4d71-8071-b22e1e8a7273_au50p.jpg"
-          },
-          "URL": "http://www.fon.com"
-        },
-        "roles": [
-          {
-            "startDate": "2017-03-01",
-            "finishDate": "2018-02-28",
-            "competences": [
-              {
-                "name": "Docker",
-                "type": "technology"
-              },
-              {
-                "name": "Groovy",
-                "type": "technology"
-              },
-              {
-                "name": "Hazelcast",
-                "type": "technology"
-              },
-              {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "MongoDB",
-                "type": "technology"
-              },
-              {
-                "name": "Spring",
-                "type": "technology"
-              },
-              {
-                "name": "Vert.x",
-                "type": "technology"
-              },
-              {
-                "name": "netflix-zuul",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Fon",
           "URL": "https://www.linkedin.com/company/fon?trk=public_profile_experience-item_profile-section-card_subtitle-click"
         },
@@ -99,19 +50,6 @@
             "name": "Software developer",
             "startDate": "2017-03-01",
             "finishDate": "2018-02-28"
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Comalatech",
-          "URL": "https://www.linkedin.com/company/comalatech?trk=public_profile_experience-item_profile-section-card_subtitle-click"
-        },
-        "roles": [
-          {
-            "name": "CEO",
-            "startDate": "2017-02-01",
-            "finishDate": "2018-06-30"
           }
         ]
       },
