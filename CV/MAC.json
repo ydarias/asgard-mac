@@ -119,45 +119,6 @@
       },
       {
         "details": {
-          "name": "The time I got Microsoft to sponsor an Android conference because Google wouldn’t",
-          "description": "In October 2010, Toronto’s [AndroidTO](http://androidto.com/) conference needed a couple of big sponsors to help ensure that they could hold their day-long, hundreds-of-attendees event without losing money. I’d heard that Google wasn’t going to sponsor them, and asked: _\\_Why doesn’t Microsoft sponsor them instead?\\__\n\nI used the event as an opportunity to showcase Windows as a great development platform for Android, by demoing an HP touchscreen computer set up as an Android development station running Eclipse (which at the time was the preferred Android IDE) and also showing the Windows Phone development environment, which looked a lot less confusing and more aesthetically pleasing than Eclipse (although that’s easy), and showing the C# language (similar to Java, so it seems familiar) and Windows Phone in the process.",
-          "URL": "https://www.youtube.com/watch?v=84EnkkN9wgo",
-          "image": {
-            "alt": "The time I got Microsoft to sponsor an Android conference because Google wouldn’t",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/863a3c16-646f-4db5-a556-2ac074e61728_wlctl.jpg"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2010-10-01",
-        "relatedCompetences": [
-          {
-            "name": "Android",
-            "type": "technology"
-          },
-          {
-            "name": "C#",
-            "type": "technology"
-          },
-          {
-            "name": "Eclipse",
-            "type": "technology"
-          },
-          {
-            "name": "JAVA",
-            "type": "technology"
-          },
-          {
-            "name": "Visual Studio",
-            "type": "technology"
-          },
-          {
-            "name": "windows-phone-7",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "details": {
           "name": "Windows Phone 7 Showcase in Toronto",
           "description": "This video shows the highlights from Microsoft’s Windows Phone 7 Showcase, held one evening in Toronto in September 2010. We put the spotlight on Windows Phone apps created by a number of Toronto-area developers including:\n\n*   Mark Arteaga of Redbit Develeopment\n*   Barranger Ridler of 4MK Mobile\n*   Alexey Adamsky and Alex Yakobovich of Ryerson University's Digital Media Zone\n*   Shawn Konopinsky of Nascent Digital\n*   Mike Kasprzak of Sykhronics\n\nI hosted and helped organize this event.",
           "URL": "https://www.youtube.com/watch?v=dC9BDyggLmM",
