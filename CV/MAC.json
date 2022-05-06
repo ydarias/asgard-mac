@@ -132,19 +132,6 @@
       },
       {
         "details": {
-          "name": "Announcing the first four Shopify Fund projects (2012)",
-          "description": "A roundup of the first four projects to be funded by the million-dollar Shopify Fund. Written, directed, shot and narrated by Yours Truly.",
-          "URL": "https://www.youtube.com/watch?v=4lNx-7ICxVI",
-          "image": {
-            "alt": "Announcing the first four Shopify Fund projects (2012)",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/11ec1786-0a73-49a8-a11b-3f5d63de16ea_wzmij.jpg"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2012-01-01"
-      },
-      {
-        "details": {
           "name": "The time I got Microsoft to sponsor an Android conference because Google wouldn’t",
           "description": "In October 2010, Toronto’s [AndroidTO](http://androidto.com/) conference needed a couple of big sponsors to help ensure that they could hold their day-long, hundreds-of-attendees event without losing money. I’d heard that Google wasn’t going to sponsor them, and asked: _\\_Why doesn’t Microsoft sponsor them instead?\\__\n\nI used the event as an opportunity to showcase Windows as a great development platform for Android, by demoing an HP touchscreen computer set up as an Android development station running Eclipse (which at the time was the preferred Android IDE) and also showing the Windows Phone development environment, which looked a lot less confusing and more aesthetically pleasing than Eclipse (although that’s easy), and showing the C# language (similar to Java, so it seems familiar) and Windows Phone in the process.",
           "URL": "https://www.youtube.com/watch?v=84EnkkN9wgo",
