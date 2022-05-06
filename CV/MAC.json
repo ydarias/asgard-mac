@@ -42,31 +42,6 @@
     "jobs": [
       {
         "organization": {
-          "name": "General de Software de Canarias",
-          "URL": "https://www.linkedin.com/company/general-de-software-de-canarias-s.a.u.?trk=public_profile_experience-item_profile-section-card_subtitle-click"
-        },
-        "roles": [
-          {
-            "name": "Programador",
-            "startDate": "2007-03-01",
-            "finishDate": "2007-10-31"
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Sistemas de Datos"
-        },
-        "roles": [
-          {
-            "name": "Prácticas en Empresa",
-            "startDate": "2005-12-01",
-            "finishDate": "2006-08-31"
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "IP Soluciones",
           "URL": "https://www.linkedin.com/company/ip-soluciones?trk=public_profile_experience-item_profile-section-card_subtitle-click"
         },
