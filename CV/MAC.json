@@ -120,19 +120,6 @@
             "type": "technology"
           }
         ]
-      },
-      {
-        "details": {
-          "name": "Cited in the book “Hacktivism and Cyberwars: Rebels with a Cause?” by Tim Jordan and Paul A. Taylor (2004)",
-          "description": "Paul Baranowski and I appear for a number of pages starting at page 102 in a section that covers the _Peekabooty_ application.",
-          "URL": "https://www.google.com/books/edition/Hacktivism_and_Cyberwars/hew6jmcZvD4C?hl=en&gbpv=1&dq=peekabooty+joey+devilla&pg=PA102&printsec=frontcover",
-          "image": {
-            "alt": "Cited in the book “Hacktivism and Cyberwars: Rebels with a Cause?” by Tim Jordan and Paul A. Taylor (2004)",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/31cd1520-2915-4b07-9608-8633421c7723_wy68b.jpg"
-          }
-        },
-        "type": "achievement",
-        "publishingDate": "2004-07-01"
       }
     ]
   },
