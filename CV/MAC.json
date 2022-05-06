@@ -39,53 +39,7 @@
     ]
   },
   "experience": {
-    "jobs": [
-      {
-        "organization": {
-          "name": "The Bit Bang Network"
-        },
-        "roles": [
-          {
-            "name": "Junior Software Developer",
-            "startDate": "2001-06-01",
-            "finishDate": "2001-10-31"
-          }
-        ]
-      }
-    ],
     "projects": [
-      {
-        "details": {
-          "name": "“Big Event 2020” Apple Watch app",
-          "description": "This app — developed and deployed to the App Store on a Saturday afternoon — shows the scheduled events for the [Synapse Summit](https://synapsefl.com/summit/) 2020 conference, which took place in Tampa on Feb. 11 - 12, 2020. It’s a lot easier to check the schedule on your watch than it is to pull out your phone!",
-          "URL": "https://apps.apple.com/us/app/big-event-2020/id1498328530",
-          "image": {
-            "alt": "“Big Event 2020” Apple Watch app",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/d750ac3b-2bea-4355-b2a2-593522c77de4_a2lj4.jpg"
-          }
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2020-02-01",
-            "competences": [
-              {
-                "name": "apple-watch",
-                "type": "technology"
-              },
-              {
-                "name": "swiftUI",
-                "type": "technology"
-              },
-              {
-                "name": "watchos",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
       {
         "details": {
           "name": "iOS Apprentice, 8th Edition",
