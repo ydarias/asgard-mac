@@ -42,51 +42,6 @@
     "projects": [
       {
         "details": {
-          "name": "Qiskit VSCode",
-          "URL": "https://github.com/Qiskit/qiskit-vscode"
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2018-06-01"
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "ARKit by Tutorials",
-          "description": "Technical editor of “ARKit by Tutorials,” a book covering augmented reality app development for iOS devices.",
-          "URL": "https://store.raywenderlich.com/products/arkit-by-tutorials",
-          "image": {
-            "alt": "ARKit by Tutorials",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/1d7ce041-e11e-4150-b642-1e3de641cf66_demhp.png"
-          }
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2018-05-01",
-            "competences": [
-              {
-                "name": "Swift",
-                "type": "technology"
-              },
-              {
-                "name": "arkit",
-                "type": "technology"
-              },
-              {
-                "name": "iOS",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
           "name": "Aspiration Winery’s Wine Crush",
           "description": "_Aspirations Winery’s Wine Crush_ is a free iOS app written to promote a friend’s winery and wine shop in Clearwater, Florida. It’s a wine-themed game in the style of Candy Crush, and a promotional tool that other wineries won't have. It's available for free on the App Store. Unlike other free games, there aren't any \"poison pills\" to extract money from players — this game's just about simple, unadulterated fun.",
           "URL": "https://itunes.apple.com/us/app/aspirations-winerys-wine-crush/id1131103492?mt=8",
