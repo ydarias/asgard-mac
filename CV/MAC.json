@@ -93,25 +93,6 @@
       },
       {
         "details": {
-          "name": "Developer Jr., episode 2: Making movies with Windows Movie Maker",
-          "description": "Developer Jr. was an all-too-short-lived video series for children ages 7 through 12 that aimed to teach them programming and other creative things they can do with computers and technology. It starred me playing myself, and \"Junior\", an impish puppet played by Brian Hogg. It was sponsored by Microsoft Canada and produced by Butterscotch.com in early 2010.\n\nIn this episode, Junior and I make a simple movie using Windows Movie Maker.",
-          "URL": "https://www.youtube.com/watch?v=OU0hUzhhEzA",
-          "image": {
-            "alt": "Developer Jr., episode 2: Making movies with Windows Movie Maker",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/508862b7-8cff-4a4f-9196-ee1e11ce020b_ifvqn.jpg"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2010-05-01",
-        "relatedCompetences": [
-          {
-            "name": "Windows",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "details": {
           "name": "When to use lambda, when to use Proc.new?",
           "URL": "https://stackoverflow.com/questions/626/when-to-use-lambda-when-to-use-proc-new/723#723"
         },
