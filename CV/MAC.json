@@ -1847,21 +1847,6 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
-        "name": "Certified ScrumMaster",
-        "startDate": "2018-02-01",
-        "finishDate": "2018-02-01",
-        "institution": {
-          "name": "Certified ScrumMaster",
-          "URL": "https://www.scrumalliance.org/community/profile/jdevilla2",
-          "image": {
-            "alt": "Certified ScrumMaster",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/a6143c12-0b54-490e-a43e-338be2ec7575_zvfeb.png"
-          }
-        }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
         "name": "Certified Scrum Product Owner",
         "startDate": "2018-02-01",
         "finishDate": "2018-02-01",
