@@ -36,19 +36,6 @@
         "topic": "First computer",
         "fact": "MSX"
       }
-    ],
-    "recommendations": [
-      {
-        "type": "reading",
-        "URL": "https://corporate-rebels.com/iceberg-of-ignorance/",
-        "authors": [
-          {
-            "name": "Joost",
-            "surnames": "Minnaar",
-            "title": "Author"
-          }
-        ]
-      }
     ]
   },
   "experience": {
@@ -1857,16 +1844,6 @@
   },
   "knowledge": {
     "studies": [
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": false,
-        "name": "Ingeniería informática ",
-        "startDate": "2002-01-01",
-        "institution": {
-          "name": "Universitat Oberta de Catalunya",
-          "URL": "https://www.linkedin.com/school/uoc/?trk=public_profile_school_profile-section-card_full-click"
-        }
-      },
       {
         "studyType": "certification",
         "degreeAchieved": true,
