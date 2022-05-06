@@ -1847,21 +1847,6 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
-        "name": "Certified Scrum Developer",
-        "startDate": "2018-03-01",
-        "finishDate": "2018-03-01",
-        "institution": {
-          "name": "Certified Scrum Developer",
-          "URL": "https://www.scrumalliance.org/community/profile/jdevilla2",
-          "image": {
-            "alt": "Certified Scrum Developer",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/f0f5689a-5920-4614-badf-57ccf14ea88d_mirln.png"
-          }
-        }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
         "name": "Certified ScrumMaster",
         "startDate": "2018-02-01",
         "finishDate": "2018-02-01",
@@ -1887,17 +1872,6 @@
             "alt": "Certified Scrum Product Owner",
             "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/29a9ae60-a7d9-41e6-a185-faa1818ec867_s28v3.png"
           }
-        }
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Derecho ",
-        "startDate": "1995-01-01",
-        "finishDate": "2000-12-31",
-        "institution": {
-          "name": "Universidad Autónoma de Madrid",
-          "URL": "https://www.linkedin.com/school/universidad-autonoma-de-madrid/?trk=public_profile_school_profile-section-card_full-click"
         }
       }
     ]
