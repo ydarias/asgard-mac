@@ -42,19 +42,6 @@
     "jobs": [
       {
         "organization": {
-          "name": "Fon",
-          "URL": "https://www.linkedin.com/company/fon?trk=public_profile_experience-item_profile-section-card_subtitle-click"
-        },
-        "roles": [
-          {
-            "name": "Software developer",
-            "startDate": "2017-03-01",
-            "finishDate": "2018-02-28"
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Smartrac",
           "image": {
             "alt": "Smartrac",
