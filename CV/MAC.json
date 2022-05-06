@@ -42,46 +42,6 @@
     "publicArtifacts": [
       {
         "details": {
-          "name": "Dale Mabry Highway prototype",
-          "description": "This one's a work in progress -- a little \"Frogger\"/\"Crossy Road\"-type game for iOS that I'm hoping to put in the App Store later this year. There's still lots to polish, but the basic game mechanics are in place.",
-          "URL": "https://www.youtube.com/watch?v=W3Cd1shIu7I",
-          "image": {
-            "alt": "Dale Mabry Highway prototype",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/c3aaefb9-53b3-44f0-b904-60b963c9985e_yktgt.jpg"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2016-02-01",
-        "relatedCompetences": [
-          {
-            "name": "Swift",
-            "type": "technology"
-          },
-          {
-            "name": "iOS",
-            "type": "technology"
-          },
-          {
-            "name": "sprite-kit",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "IBM NICO: Network Infrastructure Cost Optimization (IBM version)",
-          "description": "This 5-minute, 33-second video introduces IBM’s NICO service to the viewer. It explains how your network infrastructure could be costing your organization significantly more than it should, and how NICO can drive down your infrastructure and service costs, identify and fix system issues in your telecom system, and give you the tools and best practices to make the most of your network.\n\nI was the “army of one” behind this video, which I produced when I was the Technology Evangelist at GSG, who are an IBM partner, and provide the software platform and assessment services that go into NICO. I wrote the script, did the narration, gathered or created its images, and produced it — all in the span of a couple of weeks.",
-          "URL": "https://www.youtube.com/watch?v=dX9_msIbOqM",
-          "image": {
-            "alt": "IBM NICO: Network Infrastructure Cost Optimization (IBM version)",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/f4f49537-bd79-47b9-9afa-dfa08395a371_qnwg8.jpg"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2015-11-01"
-      },
-      {
-        "details": {
           "name": "“Dark Mobile” webinar for Enterprise Mobile (Honeywell)",
           "description": "This 13-minute, 12-second video is taken from the “Dark Mobile” webinar that I led for a division of Honeywell formerly known as Enterprise Mobile. “Dark Mobile” is a term that I coined the term during my time at GSG, and it refers to those parts of an enterprise’s mobile telecom environment that goes unobserved, unmanaged, and unknown.\n\nIn addition to coming up with the topic and title for the webinar, I wrote the script, hosted the webinar, and produced the video based on the recording and Honeywell’s slides.",
           "URL": "https://www.youtube.com/watch?v=kB3ixebexnc",
