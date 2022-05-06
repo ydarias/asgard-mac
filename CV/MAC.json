@@ -59,46 +59,11 @@
       },
       {
         "details": {
-          "name": "Ganador del Startup Weekend Tenerife",
-          "description": "Issued by Startup Weekend Tenerife"
-        },
-        "type": "achievement",
-        "publishingDate": "2013-02-01"
-      },
-      {
-        "details": {
           "name": "Python: What OS am I running on?",
           "URL": "https://stackoverflow.com/questions/1854/python-what-os-am-i-running-on/1871#1871"
         },
         "type": "post",
         "publishingDate": "2008-08-01"
-      },
-      {
-        "details": {
-          "name": "“Byte Club” covers RubyFringe",
-          "description": "Byte Club was a series of videos that covered the Toronto tech scene around 2008 and 2009. As a community leader in that scene, I showed up in a number of these videos.\n\nThis Byte Club episode featured the RubyFringe conference, a very offbeat conference that featured some of the bright lights of the Ruby community, including Obie Fernandez, Zed Shaw, Dan Grigsby, Hampton Catlin, Pete Forde, and Yours Truly!",
-          "URL": "https://www.youtube.com/watch?v=A8MIp58qeDs",
-          "image": {
-            "alt": "“Byte Club” covers RubyFringe",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/f131e68f-1329-4380-ad7e-7387867731ea_g55sr.jpg"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2008-07-01",
-        "relatedCompetences": [
-          {
-            "name": "Ruby",
-            "type": "technology"
-          },
-          {
-            "name": "Ruby on Rails",
-            "type": "technology"
-          },
-          {
-            "name": "merb",
-            "type": "technology"
-          }
-        ]
       }
     ]
   },
