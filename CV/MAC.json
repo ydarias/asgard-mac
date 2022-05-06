@@ -42,68 +42,6 @@
     "jobs": [
       {
         "organization": {
-          "name": "Lilypad Solutions",
-          "URL": "http://www.lilypad.co"
-        },
-        "roles": [
-          {
-            "name": "Mobile developer",
-            "startDate": "2019-09-01",
-            "finishDate": "2020-04-30",
-            "challenges": [
-              {
-                "description": "Cross-platform mobile developer for **[Lilypad](https://www.lilypad.co/)**, a sales tool and CRM app for the beverage alcohol industry.\n\n*   Owned and delivered a major upgrade to the [Android version of Lilypad](https://play.google.com/store/apps/details?id=com.lilypadsolutions.lilypadappV2&hl=en_US), bringing it to feature parity with the iOS version. I was also working on improving the performance of the Android version so that it would be on par with the [iOS version](https://apps.apple.com/us/app/lilypad-sales/id921371352). Cleaned up the Android user interface and started making performance improvements that made some features 60% faster.\n*   Fixed bugs, upgraded existing capabilities, and added new features to the app. Built apps for both iOS and Android in JavaScript using [Axway’s](https://www.appcelerator.com/) [Titanium](https://www.appcelerator.com/Titanium/) SDK (formerly known as Appcelerator Titanium).\n*   Took charge of internal developer documentation. While Lilypad’s back end and web application were written by senior developers, the mobile app’s 360,000+ lines of source code were largely written by junior developers and interns. With managerial approval, devoted 20% of development time to writing much-needed internal documentation of the mobile app, refactoring the code, and upgrading it to a more current version of JavaScript.\n*   Established coding standards for the mobile app. The mobile code was developed by a series of junior developers, each coding in their own style. Defined a standard to be used for mobile development and have applied it to the codebase during development.\n*   Built a new mobile process and team: Key participant in weekly mobile development strategy meetings with the CTO to improve the mobile app development process. Interviewed developers for the mobile team."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Android",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "appcelerator",
-                "type": "technology"
-              },
-              {
-                "name": "appcelerator-mobile",
-                "type": "technology"
-              },
-              {
-                "name": "iOS",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Sourcetoad, LLC",
-          "image": {
-            "alt": "Sourcetoad, LLC",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/4d469185-8cae-4bcf-bf23-ae89f770b6fd_okpdcbzdradzp4npqdb5.okpdcbzdradzp4npqdb5"
-          },
-          "URL": "http://www.sourcetoad.com"
-        },
-        "roles": [
-          {
-            "name": "Lead Product Manager",
-            "startDate": "2017-07-01",
-            "finishDate": "2019-06-30",
-            "challenges": [
-              {
-                "description": "Provided technical, strategic, and customer management leadership to Sourcetoad as the company was entering a phase in which it takes on larger clients, more complex projects, and new markets.\n\nGathered requirements, wrote specifications, and product managed a number of applications, including:\n\n*   Note-taking web application for pharmacists conducting reconciling patient’s medications in online interviews.\n*   Mobile app where customers submit photos of prescriptions and participating pharmacies respond with offers and prices for the submitted prescriptions.\n*   Investor-facing “Crunchbase for pharma” web application that tracks companies, conferences, executives, and researchers in the pharmacology and healthcare industries and the relations among them using a unique graph navigation system.\n*   iPad-based self-serve kiosk for shipping via FedEx, UPS, or USPS.\n*   Mobile app that allows general contractors to rate their customers on their interactions and payments.\n*   Mobile app for the construction industry that tracks tickets for the delivery and removal of construction material from sites.\n\nSales, marketing, and community relations:\n\n*   Actively participated in sales meetings, showcasing its application development capabilities and strengths to prospective clients. This led to a number of contract signings, including those for the projects list above.\n*   Delivered several technical talks as an official Sourcetoad representative, including talks on data science, machine learning, and alternative programming platforms.\n*   Represented Sourcetoad at various events they sponsored, including [BarCamp Tampa Bay](https://barcamptampabay.org/), [Tampa Hospitality Hackathon](https://www.sourcetoad.com/cruise/hack-hospitality-cruise-challenge-winners/), and [DevFest Florida](https://www.youtube.com/watch?v=epfM9isTmK8).\n*   [Narrated the video](https://www.youtube.com/watch?v=zuKPwOjHNsY) for Sourcetoad’s flagship software product, Cruise Director.\n*   Grew the company’s Twitter profile tenfold, and wrote several articles for the company blog.\n*   Helped develop the company’s guidelines for interacting with clients."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Fon Technology",
           "image": {
             "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/22/2e0efbf7-faef-4d71-8071-b22e1e8a7273_au50p.jpg"
