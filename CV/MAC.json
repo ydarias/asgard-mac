@@ -42,47 +42,6 @@
     "publicArtifacts": [
       {
         "details": {
-          "name": "Top 30% at Stack Overflow answers",
-          "description": "This user is part of the top 30% Stack Overflow answerers in this technology"
-        },
-        "type": "achievement",
-        "publishingDate": "2022-03-04",
-        "relatedCompetences": [
-          {
-            "name": "Swift",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "Interview on “The 6-Figure Developer” podcast",
-          "description": "In this interview with the podcast _[The 6 Figure Developer](https://6figuredev.com/),_ I talk about working on _iOS Apprentice, 8th Edition,_ iOS development in general, mobile technology in general, and my philosophy for choosing technologies to work on: “Always bet on the tech that’s being dismissed as a toy.”",
-          "URL": "https://6figuredev.com/podcast/episode-123-ios-apprentice-accordions-with-joey-devilla/",
-          "image": {
-            "alt": "Interview on “The 6-Figure Developer” podcast",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/bfe795a0-c48e-4c83-a7ba-0d2dce71cf87_wwrki.jpg"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2019-12-01",
-        "relatedCompetences": [
-          {
-            "name": "Android",
-            "type": "technology"
-          },
-          {
-            "name": "iOS",
-            "type": "technology"
-          },
-          {
-            "name": "swiftUI",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "details": {
           "name": "Cited in the book “Cult of the Dead Cow How the Original Hacking Supergroup Might Just Save the World” by Joseph Menn (2019)",
           "description": "Paul Baranowski and I appear at the start of Chapter 9, which covers the _Peekabooty_ application.",
           "URL": "https://www.google.com/books/edition/Cult_of_the_Dead_Cow/055xDwAAQBAJ?hl=en&gbpv=1&dq=peekabooty+joey+devilla&pg=PT127&printsec=frontcover",
