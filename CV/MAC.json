@@ -42,55 +42,6 @@
     "jobs": [
       {
         "organization": {
-          "name": "8Kdata",
-          "URL": "https://www.linkedin.com/company/8kdata?trk=public_profile_experience-item_profile-section-card_subtitle-click"
-        },
-        "roles": [
-          {
-            "name": "Desarrollador de software",
-            "startDate": "2016-04-01",
-            "finishDate": "2017-02-28"
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "GSG",
-          "image": {
-            "alt": "GSG",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/285eff8f-8ddc-4e02-a12c-ceedfc447c21_euskciydmqcenyzmh440.png"
-          },
-          "URL": "http://gsgtelco.com/"
-        },
-        "roles": [
-          {
-            "name": "Platform Evangelist / Partner Technical Analyst",
-            "startDate": "2014-03-01",
-            "finishDate": "2016-09-30",
-            "challenges": [
-              {
-                "description": "Oversaw and overhauled GSG’s marketing efforts, creating all the messaging and sales materials for the enterprise communications services specialist.\n\n*   Communications and technical specialist on IBM’s Network Infrastructure Cost Optimization team. Designed/managed development of the application for performing quick evaluations of client network infrastructure. Wrote, produced, and narrated the official NICO promotional video, and created all NICO promotional material.\n*   Created sales and marketing materials for GSG and its channel partners: presentations, case studies, white papers, sell sheets, videos, and even mobile applications. Created documentation and training material for GSG’s SaaS applications, such as written documentation, demo scripts, and training videos. Wrote and hosted joint presentations and webinars with channel partners, including Honeywell and Pomeroy.\n*   Grew GSG’s online presence 10x. Managed their web site redesign, maintained the site’s content, regularly posted articles on the blog, created promotional and informational videos, and expanded the company’s following on LinkedIn (300 to 1,500) and Twitter (100 to 1,100)."
-              }
-            ],
-            "competences": [
-              {
-                "name": "PHP",
-                "type": "technology"
-              },
-              {
-                "name": "Swift",
-                "type": "technology"
-              },
-              {
-                "name": "telecom",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Comprehensive Technology Solutions"
         },
         "roles": [
