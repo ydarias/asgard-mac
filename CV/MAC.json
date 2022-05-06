@@ -80,19 +80,6 @@
       },
       {
         "details": {
-          "name": "Taking Ford Canada’s C-MAX Holiday Challenge (2012)",
-          "description": "During the 20102 holiday season, I took a day off from my CTO duties at Comprehensive Technology Solutions/Top Right Corner to participate in the Ford C-MAX Holiday Challenge, where we tried to get maximum efficiency out of Ford's new hybrid vehicles and go toy shopping for charity.\n\n(“Top Right Corner” was a name we were considering to replace “Comprehensive Technology Solutions”, but we never went through with the change.)",
-          "URL": "https://www.youtube.com/watch?v=D8eCS6YJc34",
-          "image": {
-            "alt": "Taking Ford Canada’s C-MAX Holiday Challenge (2012)",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/fcc097c5-4320-4d06-bb33-6766cb7fcc09_bbguc.jpg"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2012-12-01"
-      },
-      {
-        "details": {
           "name": "Windows Phone 7 Showcase in Toronto",
           "description": "This video shows the highlights from Microsoft’s Windows Phone 7 Showcase, held one evening in Toronto in September 2010. We put the spotlight on Windows Phone apps created by a number of Toronto-area developers including:\n\n*   Mark Arteaga of Redbit Develeopment\n*   Barranger Ridler of 4MK Mobile\n*   Alexey Adamsky and Alex Yakobovich of Ryerson University's Digital Media Zone\n*   Shawn Konopinsky of Nascent Digital\n*   Mike Kasprzak of Sykhronics\n\nI hosted and helped organize this event.",
           "URL": "https://www.youtube.com/watch?v=dC9BDyggLmM",
@@ -103,19 +90,6 @@
         },
         "type": "post",
         "publishingDate": "2010-09-01"
-      },
-      {
-        "details": {
-          "name": "HTML5 and RIAs: Friends with Benefits",
-          "description": "When I was a Developer Evangelist at Microsoft, a fellow Microsoftie had a problem: he was buried in work and needed a video comparing HTML with rich internet applications (RIAs) such as Adobe Flash or Microsoft Silverlight. “Can you make one…by tomorrow evening?” he asked. “That’s when I have to show it to this group in Montreal.”\n\nI got to work, and the result is this 5-minute, 46-second piece that summarizes the web world in the summer of 2010. I wrote, designed, narrated, and as the credits say, hastily produced this video, and my coworker was able to present it the following evening.",
-          "URL": "https://www.youtube.com/watch?v=sQ-vlJv2dWE",
-          "image": {
-            "alt": "HTML5 and RIAs: Friends with Benefits",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/1aebff9c-eb28-4462-99be-b69ed7986d2d_hrdk2.jpg"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2010-08-01"
       },
       {
         "details": {
