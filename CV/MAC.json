@@ -42,49 +42,6 @@
     "jobs": [
       {
         "organization": {
-          "name": "Smartrac",
-          "image": {
-            "alt": "Smartrac",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/8d999695-dfb8-4b76-9b37-9bf605066c4f_ef4g0.png"
-          }
-        },
-        "roles": [
-          {
-            "name": "Technology Evangelist",
-            "startDate": "2016-10-01",
-            "finishDate": "2017-03-31",
-            "challenges": [
-              {
-                "description": "Technical marketer and developer evangelist for the company during their pivot from RFID tag/inlay manufacturer to provider of an integrated RFID/cloud software solution to seamlessly connect real-world objects to their digital representations.\n\n*   Product owner: Gathered requirements, and then specified the functionality and workflows for a hardware/software system for embedding RFID tags in luxury goods for tracking them through the manufacturing process and the sales cycle, and as an anti-counterfeiting measure.\n*   Led documentation effort and and wrote code examples for Smart Cosmos Objects, Smarttrac’s platform for connecting real-world objects with RFID tags to their cloud-based data representations.\n*   Promoted Smartrac to various technical and non-technical audiences, specifically business and technical decision-makers at prospective partners and clients in the medical, supply chain management, and retail industries. Provided technical information to developers at partner organizations (including Catalyst, Blue Bite, and Temera) who build solutions that integrate with the Smart Cosmos platform.\n*   Presented the Lifecycles solution at the Smartrac booth at “Retail’s Big Show 2017”, the National Retail Federation’s flagship conference in New York City. Brought a major prospective customer ($100M revenue in 2016) to Smartrac for an initial meeting."
-              }
-            ],
-            "competences": [
-              {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "PHP",
-                "type": "technology"
-              },
-              {
-                "name": "Python",
-                "type": "technology"
-              },
-              {
-                "name": "Ruby",
-                "type": "technology"
-              },
-              {
-                "name": "Swift",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "8Kdata",
           "URL": "https://www.linkedin.com/company/8kdata?trk=public_profile_experience-item_profile-section-card_subtitle-click"
         },
@@ -126,43 +83,6 @@
               },
               {
                 "name": "telecom",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Otogami"
-        },
-        "roles": [
-          {
-            "startDate": "2014-01-01",
-            "finishDate": "2017-02-28",
-            "competences": [
-              {
-                "name": "Groovy",
-                "type": "technology"
-              },
-              {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "PostgreSQL",
-                "type": "technology"
-              },
-              {
-                "name": "antlr",
-                "type": "technology"
-              },
-              {
-                "name": "shiro",
                 "type": "technology"
               }
             ]
