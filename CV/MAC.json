@@ -42,34 +42,6 @@
     "jobs": [
       {
         "organization": {
-          "name": "Shopify",
-          "URL": "http://shopify.com"
-        },
-        "roles": [
-          {
-            "name": "Platform Evangelist",
-            "startDate": "2011-05-01",
-            "finishDate": "2012-04-30",
-            "challenges": [
-              {
-                "description": "Raised the company’s profile during a critical growth phase, promoted it to three major audiences: merchants who were considering using Shopify to host their ecommerce sites, developers who were considering development of apps for Shopify stores and designers who were considering developing store themes.\n\n*   Managed the company’s first major developer outreach initiative, a $1 million fund used to encourage developers to build apps of the Shopify platform.\n*   Wrote the documentation and sample code for Shopify’s developer API, as well as documentation for store theme designers. Edited and wrote technical articles Shopify’s technology blog, whose primary audience was developers and designers.\n*   Represented Shopify at a number of conferences, including the [2011 BarCamp Tour](https://www.prweb.com/releases/2011/5/prweb8382118.htm), a multi-city tour of nine BarCamp “unconferences” across the United States.\n*   Wrote Shopify’s tweets and doubled the company’s Twitter followers."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Ruby",
-                "type": "technology"
-              },
-              {
-                "name": "Ruby on Rails",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Microsoft",
           "image": {
             "alt": "Microsoft",
@@ -190,19 +162,6 @@
             "name": "Prácticas en Empresa",
             "startDate": "2005-12-01",
             "finishDate": "2006-08-31"
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "SIXSERVIX OMEGA S.L.",
-          "URL": "https://www.linkedin.com/company/sixservix-omega-s.l.?trk=public_profile_experience-item_profile-section-card_subtitle-click"
-        },
-        "roles": [
-          {
-            "name": "CTO",
-            "startDate": "2003-09-01",
-            "finishDate": "2011-06-30"
           }
         ]
       },
