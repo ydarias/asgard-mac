@@ -42,45 +42,6 @@
     "publicArtifacts": [
       {
         "details": {
-          "name": "Playing “Three Gypsies” with the Jackdaws",
-          "description": "I _always_ bring my accordion when I’m out for a beer, including when I’m out for a beer at Tampa’s Bay Area Renaissance Festival. While watching the Jackdaws, their guitarist Whiplash saw my accordion and invited me to join them onstage to perform “Three Gypsies” (a.k.a. “The Wraggle-Taggle Gypsies-Oh!”).\n\nI’ve included this video to show that yes, I can win over a crowd, which is actually a useful skill in the tech world.",
-          "URL": "https://www.youtube.com/watch?v=z27MXXfY2KE",
-          "image": {
-            "alt": "Playing “Three Gypsies” with the Jackdaws at Tampa’s Bay Area Renaissance Festival",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/46ad8623-0fe9-49af-b009-b264f7961c56_zijou.jpg"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2017-03-01",
-        "relatedCompetences": [
-          {
-            "name": "accordion",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "details": {
-          "URL": "https://speakerdeck.com/ydarias/the-java-and-the-furious-jmx",
-          "image": {
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/22/bf800485-9c5b-4505-b600-83c6028c2631_hfe4o.jpg"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2016-11-01",
-        "relatedCompetences": [
-          {
-            "name": "JAVA",
-            "type": "technology"
-          },
-          {
-            "name": "jmx",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "details": {
           "name": "TechCrunch: Accordion Guy Joey DeVilla talks the future of culture and IoT",
           "description": "John Biggs invited me to chat on his \"Technotopia\" podcast, where we talked about my new job at SMARTRAC, RFID and the internet of things, nostalgia, pop culture, and how they intersect with technology, and optimism about the future.\n\nHere’s how he introduced me: Joey DeVilla is my blogging hero. He's run his blog for most of two decades and he's worked at Microsoft, Shopify, and Tucows. Most recently he's taken on the..",
           "URL": "https://techcrunch.com/2016/10/30/accordion-guy-joey-devilla-talks-the-future-of-culture-and-iot/",
