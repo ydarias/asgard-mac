@@ -42,64 +42,6 @@
     "publicArtifacts": [
       {
         "details": {
-          "name": "ARKit Workshop",
-          "description": "This is the second of TWO presentations I gave at the RWDevCon 2018 conference on developing augmented reality apps with ARKit. I walk the audience through the development of 4 AR apps.",
-          "URL": "https://www.youtube.com/watch?v=_sjyaDhKk2Q",
-          "image": {
-            "alt": "ARKit Workshop at RWDevCon 2018",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/28d1f0df-1cd9-4765-b111-b9e7f24c7a8e_bqpeg.jpg"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2018-04-01",
-        "relatedCompetences": [
-          {
-            "name": "arkit",
-            "type": "technology"
-          },
-          {
-            "name": "coreml",
-            "type": "technology"
-          },
-          {
-            "name": "iOS",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "Getting Started with ARKit with Joey Devilla - Live Tutorial Session - RWDevCon 2018",
-          "description": "This is one of TWO presentations I gave at the RWDevCon 2018 conference on ARKit. This 2-hour session is the shorter presentation, where I teach ARKit by walking through the development of 2 apps: a Bob Ross-inspired “3D painter” app in the spirit of Google’s [Tilt Brush](https://www.tiltbrush.com/) and a scaled-down version of the _IKEA Place_ app.",
-          "URL": "https://www.youtube.com/watch?v=0bea2V8Jrw4",
-          "image": {
-            "alt": "Getting Started with ARKit with Joey Devilla - Live Tutorial Session - RWDevCon 2018",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/b974880d-696a-480c-b8f4-e106216a926a_ce5rp.jpg"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2018-04-01",
-        "relatedCompetences": [
-          {
-            "name": "arkit",
-            "type": "technology"
-          },
-          {
-            "name": "augmented-reality",
-            "type": "technology"
-          },
-          {
-            "name": "iOS",
-            "type": "technology"
-          },
-          {
-            "name": "scenekit",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "details": {
           "URL": "https://speakerdeck.com/ydarias/betabeers-salamanca",
           "image": {
             "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/22/0e189c66-0c6f-43cd-95d6-00c8931fcf24_vsp6c.jpg"
