@@ -42,57 +42,6 @@
     "jobs": [
       {
         "organization": {
-          "name": "Global Nerdy",
-          "URL": "http://globalnerdy.com"
-        },
-        "roles": [
-          {
-            "name": "Editor",
-            "startDate": "2006-08-01",
-            "challenges": [
-              {
-                "description": "Global Nerdy is my technology and software development blog, to which I have been posting articles and tutorials since 2006. Since its inception, it has received nearly 8.7 million pageviews."
-              }
-            ],
-            "competences": [
-              {
-                "name": "C#",
-                "type": "technology"
-              },
-              {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "Kotlin",
-                "type": "technology"
-              },
-              {
-                "name": "Python",
-                "type": "technology"
-              },
-              {
-                "name": "Ruby",
-                "type": "technology"
-              },
-              {
-                "name": "Swift",
-                "type": "technology"
-              },
-              {
-                "name": "VB.NET",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Lilypad Solutions",
           "URL": "http://www.lilypad.co"
         },
@@ -128,19 +77,6 @@
                 "type": "technology"
               }
             ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "IBM",
-          "URL": "https://www.linkedin.com/company/ibm?trk=public_profile_experience-item_profile-section-card_subtitle-click"
-        },
-        "roles": [
-          {
-            "name": "Software Developer @ IBM Research",
-            "startDate": "2018-02-01",
-            "finishDate": "2022-02-28"
           }
         ]
       },
