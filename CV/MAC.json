@@ -56,14 +56,6 @@
         "tags": [
           "Foo"
         ]
-      },
-      {
-        "details": {
-          "name": "Python: What OS am I running on?",
-          "URL": "https://stackoverflow.com/questions/1854/python-what-os-am-i-running-on/1871#1871"
-        },
-        "type": "post",
-        "publishingDate": "2008-08-01"
       }
     ]
   },
