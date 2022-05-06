@@ -42,35 +42,6 @@
     "jobs": [
       {
         "organization": {
-          "name": "Manfred"
-        },
-        "roles": [
-          {
-            "name": "Software Developer",
-            "startDate": "2022-02-01",
-            "competences": [
-              {
-                "name": "Express",
-                "type": "technology"
-              },
-              {
-                "name": "PostgreSQL",
-                "type": "technology"
-              },
-              {
-                "name": "TypeScript",
-                "type": "technology"
-              },
-              {
-                "name": "intellij-idea",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "IBM Research"
         },
         "roles": [
@@ -1839,25 +1810,6 @@
             "type": "technology"
           }
         ]
-      }
-    ]
-  },
-  "knowledge": {
-    "studies": [
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Certified Scrum Product Owner",
-        "startDate": "2018-02-01",
-        "finishDate": "2018-02-01",
-        "institution": {
-          "name": "Certified Scrum Product Owner",
-          "URL": "https://www.scrumalliance.org/community/profile/jdevilla2",
-          "image": {
-            "alt": "Certified Scrum Product Owner",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/29a9ae60-a7d9-41e6-a185-faa1818ec867_s28v3.png"
-          }
-        }
       }
     ]
   },
