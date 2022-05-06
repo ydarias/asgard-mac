@@ -55,16 +55,6 @@
       },
       {
         "details": {
-          "URL": "http://developerscookbook.blogspot.com.es/2014/09/runnics-en-betabeers-madrid.html",
-          "image": {
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/22/3b70f5e3-e20c-4299-9cbc-281887f463d5_xfomd.jpg"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2014-09-01"
-      },
-      {
-        "details": {
           "name": "GSG's Mobility 101: Telecom Expense Management, or TEM",
           "description": "\"Mobility 101\" is a series of videos that I put together for [GSG](http://gsgtelco.com) to help the company's partners and their customers understand various aspects of mobile devices, services, applications, and management.\n\nThis was my second video for GSG. This one introduces TEM — telecom expense management — in an entertaining way. As with most of these videos, I’m the “army of one” behind it.",
           "URL": "https://www.youtube.com/watch?v=Q8gTDF6JP4Q",
