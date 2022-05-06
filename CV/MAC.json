@@ -42,19 +42,6 @@
     "publicArtifacts": [
       {
         "details": {
-          "name": "Canadian Business: How to have a great relationship with your IT department",
-          "description": "_Canadian Business_ magazine has a regular “How-To” section that features advice from a expert, and in the July 2015 issue, _I_ was the expert!\n\nHere’s how they introduced me: Joey deVilla, platform evangelist at GSG Telco, shares four tips for how to keep your tech people from phoning it in. A little acknowledgement really helps.",
-          "URL": "http://www.canadianbusiness.com/innovation/how-to/2015-manage-it-better/",
-          "image": {
-            "alt": "Canadian Business: How to have a great relationship with your IT department",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/e95d4f3b-a1ed-445a-8e02-a38eb036212c_xq7c3.jpg"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2015-07-01"
-      },
-      {
-        "details": {
           "name": "GSG's Mobility 101: Telecom Expense Management, or TEM",
           "description": "\"Mobility 101\" is a series of videos that I put together for [GSG](http://gsgtelco.com) to help the company's partners and their customers understand various aspects of mobile devices, services, applications, and management.\n\nThis was my second video for GSG. This one introduces TEM — telecom expense management — in an entertaining way. As with most of these videos, I’m the “army of one” behind it.",
           "URL": "https://www.youtube.com/watch?v=Q8gTDF6JP4Q",
@@ -158,25 +145,6 @@
         "relatedCompetences": [
           {
             "name": "Windows",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "“Byte Club” covers b5media",
-          "description": "Byte Club was a series of videos that covered the Toronto tech scene around 2008 and 2009. As a community leader in that scene, I showed up in a number of these videos.\n\nThis was the first Byte Club episode, which covered b5media and featured interviews with the people who ran it, including Yours Truly.",
-          "URL": "https://www.youtube.com/watch?v=DnxT5YvLYZk",
-          "image": {
-            "alt": "“Byte Club” covers b5media",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/90843174-ece9-4212-9953-9fec88a8e464_voh1h.jpg"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2008-08-01",
-        "relatedCompetences": [
-          {
-            "name": "WordPress",
             "type": "technology"
           }
         ]
