@@ -42,49 +42,6 @@
     "jobs": [
       {
         "organization": {
-          "name": "Google Campus",
-          "URL": "https://www.linkedin.com/company/google-campus?trk=public_profile_experience-item_profile-section-card_subtitle-click"
-        },
-        "roles": [
-          {
-            "name": "Residency Advisor",
-            "startDate": "2016-06-01"
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Tampa iOS Meetup",
-          "URL": "https://www.meetup.com/Tampa-iOS-Meetup/"
-        },
-        "roles": [
-          {
-            "name": "Organizer / Presenter",
-            "startDate": "2015-11-01",
-            "challenges": [
-              {
-                "description": "Tampa iOS Meetup is a regular gathering for iOS developers in the Tampa Bay area to discuss and present iOS development techniques. I have also led iOS development tutorials at the Iron Yard (a software development “boot camp”-style school in St. Petersburg) and the Tampa BarCamp “unconference”."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Objective-C",
-                "type": "technology"
-              },
-              {
-                "name": "Swift",
-                "type": "technology"
-              },
-              {
-                "name": "iOS",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Instituto de Empresa",
           "URL": "https://www.linkedin.com/company/ie-business-school?trk=public_profile_experience-item_profile-section-card_subtitle-click"
         },
