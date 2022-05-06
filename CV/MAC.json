@@ -42,29 +42,6 @@
     "jobs": [
       {
         "organization": {
-          "name": "Comprehensive Technology Solutions"
-        },
-        "roles": [
-          {
-            "name": "Chief Technical Officer",
-            "startDate": "2012-09-01",
-            "finishDate": "2013-10-31",
-            "challenges": [
-              {
-                "description": "Managed a consultancy that became the de facto managed mobility services department of [Rogers Communications](https://www.rogers.com/) (the Canadian equivalent of Time-Warner), filling the roles of chief technologist and marketing department.\n\n*   Designed and developed turnkey solutions for Rogers, including “BYOD in a Box” and “CL in a Box”, applications for small- and medium-sized businesses to manage their BYOD (“Bring Your Own Device”) and CL (corporate-liable) mobile devices. These applications combined mobile device management, telecom expense management, device inventory, and help desk applications.\n*   Performed Rogers’ first mobile needs assessments, including one for an energy company in Canada’s far north, which involved on-site visits to their head office in Calgary and their drill site in northern Alberta, interviewing two dozen stakeholder groups in the organization, convening with their IT department, and producing a full report complete with recommendations for increased productivity and cost savings.\n*   Implemented processes for clients with 1,000+ employees move from corporate-liable mobile devices to individual-liable ones.\n*   Created Rogers-branded customer-facing documents, including a white paper listing tips for businesses who want to implement a BYOD program, a guide to help enterprises create mobile device policies, and “sell sheets” for various Rogers services."
-              }
-            ],
-            "competences": [
-              {
-                "name": "telecommunication",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Shopify",
           "URL": "http://shopify.com"
         },
@@ -185,39 +162,6 @@
               },
               {
                 "name": "WordPress",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Avantic Estudio de Ingenieros"
-        },
-        "roles": [
-          {
-            "startDate": "2007-11-01",
-            "finishDate": "2013-12-31",
-            "competences": [
-              {
-                "name": "Cordova",
-                "type": "technology"
-              },
-              {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "Scala",
-                "type": "technology"
-              },
-              {
-                "name": "Spring",
                 "type": "technology"
               }
             ]
