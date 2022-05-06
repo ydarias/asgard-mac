@@ -242,29 +242,6 @@
       },
       {
         "details": {
-          "name": "Developer Jr., episode 1: Making games with Kodu",
-          "description": "Developer Jr. was an all-too-short-lived video series for children ages 7 through 12 that aimed to teach them programming and other creative things they can do with computers and technology. It starred me playing myself, and \"Junior\", an impish puppet played by Brian Hogg. It was sponsored by Microsoft Canada and produced by Butterscotch.com in early 2010.\n\nIn this episode, Junior and I explore basic videogame programming using a Microsoft Labs tool called Kodu.",
-          "URL": "https://www.youtube.com/watch?v=VdPg8VZF76E",
-          "image": {
-            "alt": "Developer Jr., episode 1: Making games with Kodu",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/f14f17f3-3eb9-4e9d-a95f-6b7540ef3c08_iopuf.jpg"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2010-04-01",
-        "relatedCompetences": [
-          {
-            "name": "kodu",
-            "type": "technology"
-          },
-          {
-            "name": "xbox360",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "details": {
           "name": "On the “Developer Jr.” set with Joey deVilla and Junior",
           "description": "Here’s Butterscotch.com’s Matt Harris interviewing me about “Developer Jr.”, my technology show for kids starring Yours Truly and a puppet, Junior.",
           "URL": "https://www.youtube.com/watch?v=z5tmAH5kIQA",
@@ -373,25 +350,6 @@
         },
         "type": "achievement",
         "publishingDate": "2004-07-01"
-      },
-      {
-        "details": {
-          "name": "Mackerel: Burying the Fish",
-          "description": "This is an unpublished story that [Cory Doctorow](https://en.wikipedia.org/wiki/Cory_Doctorow) wrote for _Wired_ about Mackerel Interactive Multimedia, a Toronto-based scrappy upstart multimedia company during the era of the CD-ROM. I’m featured prominently in it.",
-          "URL": "https://craphound.com/nonfic/mackerel.html",
-          "image": {
-            "alt": "Mackerel: Burying the Fish",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/2c99c631-c320-4be8-9a41-6aa7a90aefd0_cvwt3.gif"
-          }
-        },
-        "type": "post",
-        "publishingDate": "1998-07-01",
-        "relatedCompetences": [
-          {
-            "name": "macromedia",
-            "type": "technology"
-          }
-        ]
       }
     ]
   },
