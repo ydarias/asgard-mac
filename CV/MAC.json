@@ -42,24 +42,6 @@
     "publicArtifacts": [
       {
         "details": {
-          "name": "Top 5% at Stack Overflow answers",
-          "description": "This user is part of the top 5% Stack Overflow answerers in these technologies"
-        },
-        "type": "achievement",
-        "publishingDate": "2022-03-04",
-        "relatedCompetences": [
-          {
-            "name": "Python",
-            "type": "technology"
-          },
-          {
-            "name": "Ruby",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "details": {
           "name": "Top 30% at Stack Overflow answers",
           "description": "This user is part of the top 30% Stack Overflow answerers in this technology"
         },
