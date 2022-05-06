@@ -39,64 +39,6 @@
     ]
   },
   "experience": {
-    "projects": [
-      {
-        "details": {
-          "name": "Aspiration Winery’s Wine Crush",
-          "description": "_Aspirations Winery’s Wine Crush_ is a free iOS app written to promote a friend’s winery and wine shop in Clearwater, Florida. It’s a wine-themed game in the style of Candy Crush, and a promotional tool that other wineries won't have. It's available for free on the App Store. Unlike other free games, there aren't any \"poison pills\" to extract money from players — this game's just about simple, unadulterated fun.",
-          "URL": "https://itunes.apple.com/us/app/aspirations-winerys-wine-crush/id1131103492?mt=8",
-          "image": {
-            "alt": "Aspiration Winery’s Wine Crush",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/85adefb2-1d65-4199-a8c1-edb9c8abf640_mfeke.png"
-          }
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2016-07-01",
-            "competences": [
-              {
-                "name": "Swift",
-                "type": "technology"
-              },
-              {
-                "name": "iOS",
-                "type": "technology"
-              },
-              {
-                "name": "sprite-kit",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "Peekabooty",
-          "description": "Peekabooty was an anti-censorship tool announced by the hacker and do-it-yourself media organization [Cult of the Dead Cow](http://cultdeadcow.com/) at the [DefCon](https://www.defcon.org/) conference in the summer of 2001. It was a peer-to-peer encrypted proxy system that circumvented internet censorship systems such as “The Great Firewall of China”, and has since been supplanted by VPN and similar anti-censorship technologies.\n\nEven though it was announced, the project wasn’t actually implemented until Paul Baranowski and I worked on it starting December 2001, and presented it at the CodeCon conference in February 2002. Paul was the back-end developer, building the underlying networking software, while I was the front-end developer, and built and designed the user interface, which included the cute bear icons that the screen used to show other users on the network.\n\nPeekabooty got a considerable amount of press at the time. Here’s a short list of articles: - _The Register:_ [Censor-buster Peek-A-Booty goes public](http://www.theregister.co.uk/2002/02/18/censorbuster_peeka_booty_goes_public/) - _Neowin:_ [Peek-A-Booty raises a few eyebrows at CodeCon](https://www.neowin.net/news/peek-a-booty-raises-a-few-eyebrows-at-codecon) - From the book _[Hacktivism and Cyberwars: Rebels with a Cause?:](https://www.amazon.com/Hacktivism-Cyberwars-Rebels-Tim-Jordan/dp/0415260043/ref=sr_1_1)_ I am briefly mentioned on page 102 for my involvement with Peekabooty. - _Spiegel Online:_ [Vorhang auf für Peek a Booty:](http://www.spiegel.de/netzwelt/tech/im-zeichen-des-teddies-vorhang-auf-fuer-peek-a-booty-a-183280.html) Peekabooty, as covered by the online version of the German news magazine _Der Spiegel_.",
-          "URL": "http://www.theregister.co.uk/2002/02/18/censorbuster_peeka_booty_goes_public/",
-          "image": {
-            "alt": "Peekabooty",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/cfed5cdf-332b-4ff6-803e-62631d1e0d29_c1b12.jpg"
-          }
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2002-02-01",
-            "competences": [
-              {
-                "name": "C++",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      }
-    ],
     "publicArtifacts": [
       {
         "details": {
