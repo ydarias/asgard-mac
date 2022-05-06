@@ -145,19 +145,6 @@
       },
       {
         "details": {
-          "name": "New Relic's \"We Love Developers\" Video, featuring Joey deVilla (December 2011)",
-          "description": "This video by New Relic features some of the software world’s brightest lights: Matz, Guido, Linus, DHH, Bill Joy,James Gosling, Sir Tim, Marc, Woz, Rasmus, The Gu, Sergey, Dries and finally Zuck. But guess whose picture they close with at the 1:04 mark!",
-          "URL": "https://www.youtube.com/watch?v=52yjrhykCks",
-          "image": {
-            "alt": "New Relic's \"We Love Developers\" Video, featuring Joey deVilla (December 2011)",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/81779fce-6384-4869-a304-99735da991ff_pvweb.jpg"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2011-12-01"
-      },
-      {
-        "details": {
           "name": "The time I got Microsoft to sponsor an Android conference because Google wouldn’t",
           "description": "In October 2010, Toronto’s [AndroidTO](http://androidto.com/) conference needed a couple of big sponsors to help ensure that they could hold their day-long, hundreds-of-attendees event without losing money. I’d heard that Google wasn’t going to sponsor them, and asked: _\\_Why doesn’t Microsoft sponsor them instead?\\__\n\nI used the event as an opportunity to showcase Windows as a great development platform for Android, by demoing an HP touchscreen computer set up as an Android development station running Eclipse (which at the time was the preferred Android IDE) and also showing the Windows Phone development environment, which looked a lot less confusing and more aesthetically pleasing than Eclipse (although that’s easy), and showing the C# language (similar to Java, so it seems familiar) and Windows Phone in the process.",
           "URL": "https://www.youtube.com/watch?v=84EnkkN9wgo",
@@ -239,19 +226,6 @@
             "type": "technology"
           }
         ]
-      },
-      {
-        "details": {
-          "name": "On the “Developer Jr.” set with Joey deVilla and Junior",
-          "description": "Here’s Butterscotch.com’s Matt Harris interviewing me about “Developer Jr.”, my technology show for kids starring Yours Truly and a puppet, Junior.",
-          "URL": "https://www.youtube.com/watch?v=z5tmAH5kIQA",
-          "image": {
-            "alt": "On the “Developer Jr.” set with Joey deVilla and Junior",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/b502ba42-95dc-44a1-93d1-3552424acf9e_1yplw.jpg"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2010-03-01"
       },
       {
         "details": {
