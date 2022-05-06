@@ -42,66 +42,6 @@
     "projects": [
       {
         "details": {
-          "name": "iOS Apprentice, 8th Edition",
-          "description": "Co-author of “iOS Apprentice, 8th edition,” RayWenderlich.com’s “flagship” book. Completely revised two major sections of the book to cover developing apps using the SwiftUI framework. Rewrote two of the four apps presented in the book to reflect the new material.",
-          "URL": "https://store.raywenderlich.com/products/ios-apprentice",
-          "image": {
-            "alt": "iOS Apprentice, 8th Edition",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/4070c6f9-3712-4774-b6cd-d20ccd3b89fd_3itpz.png"
-          }
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2019-11-01",
-            "competences": [
-              {
-                "name": "Swift",
-                "type": "technology"
-              },
-              {
-                "name": "iOS",
-                "type": "technology"
-              },
-              {
-                "name": "swiftUI",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "Lilypad (Android version)",
-          "description": "The first Android version of the Lilypad app with my contributions (a lot of bug fixes and performance improvements) was released after my first month on the job. I was one of two programmers working on the mobile app, and most of my responsibilities were with the Android version.",
-          "URL": "https://play.google.com/store/apps/details?id=com.lilypadsolutions.lilypadappV2&hl=en_US",
-          "image": {
-            "alt": "Lilypad (Android version)",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/901022e2-aca6-4706-b255-e94e6d571fdc_sah8h.png"
-          }
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2019-11-01",
-            "competences": [
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "appcelerator-titanium",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
           "name": "Qiskit VSCode",
           "URL": "https://github.com/Qiskit/qiskit-vscode"
         },
