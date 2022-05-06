@@ -42,32 +42,6 @@
     "jobs": [
       {
         "organization": {
-          "name": "IP Soluciones",
-          "URL": "https://www.linkedin.com/company/ip-soluciones?trk=public_profile_experience-item_profile-section-card_subtitle-click"
-        },
-        "roles": [
-          {
-            "name": "Java Senior Developer",
-            "startDate": "2003-01-01",
-            "finishDate": "2003-09-30"
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Azertia",
-          "URL": "https://www.linkedin.com/company/azertia?trk=public_profile_experience-item_profile-section-card_subtitle-click"
-        },
-        "roles": [
-          {
-            "name": "Java Developer",
-            "startDate": "2001-10-01",
-            "finishDate": "2003-01-31"
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "The Bit Bang Network"
         },
         "roles": [
