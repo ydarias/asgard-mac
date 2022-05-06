@@ -42,32 +42,6 @@
     "publicArtifacts": [
       {
         "details": {
-          "name": "“Dark Mobile” webinar for Enterprise Mobile (Honeywell)",
-          "description": "This 13-minute, 12-second video is taken from the “Dark Mobile” webinar that I led for a division of Honeywell formerly known as Enterprise Mobile. “Dark Mobile” is a term that I coined the term during my time at GSG, and it refers to those parts of an enterprise’s mobile telecom environment that goes unobserved, unmanaged, and unknown.\n\nIn addition to coming up with the topic and title for the webinar, I wrote the script, hosted the webinar, and produced the video based on the recording and Honeywell’s slides.",
-          "URL": "https://www.youtube.com/watch?v=kB3ixebexnc",
-          "image": {
-            "alt": "“Dark Mobile” webinar for Enterprise Mobile (Honeywell)",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/2af17535-b1d4-40da-811c-27e697ac6dfc_yu3vq.jpg"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2015-09-01"
-      },
-      {
-        "details": {
-          "name": "My Ignite Tampa Bay 2015 presentation: A stirring defense of Florida Man and Florida Woman!",
-          "description": "I gave this presentation -- the second-last of the evening -- at Ignite Tampa Bay 2015, which took place in Tampa's Cuban Club on Thursday, August 27, 2015. In it, I sang the praises of \"Florida Man\" and \"Florida Woman\", those staples of slow news days and internet memes, and showed how they're this state's most valuable resource, complete with Florida Man logic and a closing accordion number.\n\nThis was a presentation given in the \"Ignite\" format. It's 5 minutes long, with 20 slides, each slide advancing automatically every 15 seconds. The format has been described as \"the presentation equivalent of a haiku or sonnet.\" They're more challenging than your typical presentation, and require more rehearsal -- and they're also more thrilling to give!",
-          "URL": "https://www.youtube.com/watch?v=bk_B9U0jaqI",
-          "image": {
-            "alt": "My Ignite Tampa Bay 2015 presentation: A stirring defense of Florida Man and Florida Woman!",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/f86680f4-554f-4ff8-8439-46f024deddd9_21uth.jpg"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2015-08-01"
-      },
-      {
-        "details": {
           "name": "Canadian Business: How to have a great relationship with your IT department",
           "description": "_Canadian Business_ magazine has a regular “How-To” section that features advice from a expert, and in the July 2015 issue, _I_ was the expert!\n\nHere’s how they introduced me: Joey deVilla, platform evangelist at GSG Telco, shares four tips for how to keep your tech people from phoning it in. A little acknowledgement really helps.",
           "URL": "http://www.canadianbusiness.com/innovation/how-to/2015-manage-it-better/",
