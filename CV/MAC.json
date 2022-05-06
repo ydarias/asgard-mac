@@ -42,64 +42,6 @@
     "publicArtifacts": [
       {
         "details": {
-          "name": "My “Trucker App” job interview homework assignment",
-          "description": "We were ninety minutes into a one-hour job interview when the CTO said “We like your _breadth_ of experience. Now we’d like to test your _depth_. If we gave you a quick programming assignment, which would you prefer — writing an iOS app, or an Android app? You should go with the one you’re stronger in.”\n\nI’m a much stronger iOS programmer than an Android one. The smart move would’ve been to answer “iOS,” and be done with it.\n\nInstead, I replied “Yes, but you want a guy who can lead a team of both iOS and Android developers. You really should give me both.”\n\nThe CTO raised an eyebrow, gave me a look, made a note on his pad, and said “Hmmm...I think I will.”\n\nThis is either a “total baller move” (to borrow a turn of phrase the kids are using these day), or the end of that job prospect. But for the job that they’re trying to fill, taking on that challenge was the right thing to do.\n\nIt had been a couple of years since I’d touched C or Objective-C, but after bumping my head once or twice against C-isms (“Oh yeah, pointers”), I got into a groove and a few days later, I had an app that I could show them.\n\nI sent them my project files for the iOS app, along with this “highlight reel” of the app in action, which I made using Camtasia Studio. “Tell me what you think while I work on the Android version.”\n\nAnd that’s the last I heard from them. Follow-up emails were met with silence. After the 6th email (“If you have any questions or comments about the app, please feel free to contact me”), it became apparent that this was a dead end, and it wouldn’t be worth my while to continue working on the Android version. Perhaps I’ll work on it as a way to sharpen my Kotlin skills.",
-          "URL": "https://www.youtube.com/watch?v=6tHGYhKCx7o",
-          "image": {
-            "alt": "My “Trucker App” job interview homework assignment",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/6d9b6033-8677-4b1c-a728-195b7c777451_mwuep.jpg"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2017-06-01",
-        "relatedCompetences": [
-          {
-            "name": "Alamofire",
-            "type": "technology"
-          },
-          {
-            "name": "Objective-C",
-            "type": "technology"
-          },
-          {
-            "name": "iOS",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "Winning a prize",
-          "description": "The first of three “Makers Hustle Harder” hackathons run by GM in 2017 was held at Tampa Hackerspace. It was an opportunity for Tampa Bay techies to try their programming chops on GM’s Next Generation Infotainment (NGI) in-car console system.\n\nIn about an hour, I came up with, coded, and tested an app called “Fitness Fire Drill”, which acts as a referee for [the classic “fire drill” game you play with friends in a car](https://en.wikipedia.org/wiki/Chinese_fire_drill).\n\nThe judges liked the app so much that they invented the “Judges’ Fetish” category simply for the purpose of awarding it a prize.",
-          "URL": "http://www.globalnerdy.com/2017/03/06/my-day-at-gms-makers-hustle-harder-hackathon-in-tampa/",
-          "image": {
-            "alt": "Winning a prize at GM’s “Makers Hustle Harder” hackathon",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/0745ed8a-faa0-4608-b19a-5486f59f925d_gckmu.jpg"
-          }
-        },
-        "type": "achievement",
-        "publishingDate": "2017-03-01",
-        "relatedCompetences": [
-          {
-            "name": "CSS",
-            "type": "technology"
-          },
-          {
-            "name": "HTML",
-            "type": "technology"
-          },
-          {
-            "name": "JavaScript",
-            "type": "technology"
-          },
-          {
-            "name": "NodeJS",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "details": {
           "name": "Playing “Three Gypsies” with the Jackdaws",
           "description": "I _always_ bring my accordion when I’m out for a beer, including when I’m out for a beer at Tampa’s Bay Area Renaissance Festival. While watching the Jackdaws, their guitarist Whiplash saw my accordion and invited me to join them onstage to perform “Three Gypsies” (a.k.a. “The Wraggle-Taggle Gypsies-Oh!”).\n\nI’ve included this video to show that yes, I can win over a crowd, which is actually a useful skill in the tech world.",
           "URL": "https://www.youtube.com/watch?v=z27MXXfY2KE",
