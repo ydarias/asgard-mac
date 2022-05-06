@@ -67,27 +67,6 @@
       },
       {
         "details": {
-          "name": "Windows Phone 7 Showcase in Toronto",
-          "description": "This video shows the highlights from Microsoft’s Windows Phone 7 Showcase, held one evening in Toronto in September 2010. We put the spotlight on Windows Phone apps created by a number of Toronto-area developers including:\n\n*   Mark Arteaga of Redbit Develeopment\n*   Barranger Ridler of 4MK Mobile\n*   Alexey Adamsky and Alex Yakobovich of Ryerson University's Digital Media Zone\n*   Shawn Konopinsky of Nascent Digital\n*   Mike Kasprzak of Sykhronics\n\nI hosted and helped organize this event.",
-          "URL": "https://www.youtube.com/watch?v=dC9BDyggLmM",
-          "image": {
-            "alt": "Windows Phone 7 Showcase in Toronto",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/b3b25521-d7ed-478d-a2ce-e0cbdaa9780b_uuitt.jpg"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2010-09-01"
-      },
-      {
-        "details": {
-          "name": "When to use lambda, when to use Proc.new?",
-          "URL": "https://stackoverflow.com/questions/626/when-to-use-lambda-when-to-use-proc-new/723#723"
-        },
-        "type": "post",
-        "publishingDate": "2008-08-01"
-      },
-      {
-        "details": {
           "name": "Python: What OS am I running on?",
           "URL": "https://stackoverflow.com/questions/1854/python-what-os-am-i-running-on/1871#1871"
         },
