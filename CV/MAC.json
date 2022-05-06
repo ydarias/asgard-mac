@@ -7,15 +7,7 @@
   "aboutMe": {
     "profile": {
       "name": "Yeray",
-      "surnames": "Darias",
-      "title": "Developer at otogami.com",
-      "description": "*   Seasoned developer currently working on iOS, Android, and Raspberry Pi applications. Currently programming in these languages: C#, Dart, JavaScript, Kotlin, Python, and Swift. Co-author of _iOS Apprentice, 8th Edition_ and author/presenter of the _Beginning ARKit_ video tutorial series.\n*   Mobile technology consultant with experience helping enterprises manage their communications technologies, particularly data networking and mobile devices.\n*   Trusted technical evangelist with a strong track record of community building.\n*   Dynamic speaker and presenter, comfortable in front of an audience, a camera, or a microphone.\n*   Rock accordion/keyboard player with stage, studio, and live television experience.",
-      "avatar": {
-        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/22/16965d34-7603-4dec-b132-a29f39d7d840_bc91c9d44654771f5e9d.bc91c9d44654771f5e9de85fa1eadb47"
-      },
-      "location": {
-        "notes": "Madrid, Community of Madrid, ES"
-      }
+      "surnames": "Darias"
     },
     "relevantLinks": [
       {
@@ -38,27 +30,6 @@
       }
     ]
   },
-  "experience": {
-    "publicArtifacts": [
-      {
-        "details": {
-          "name": "Startup Weekend Tenerife 2013 winners",
-          "description": "That's it we won."
-        },
-        "type": "achievement",
-        "publishingDate": "2013-04-01",
-        "relatedCompetences": [
-          {
-            "name": "JavaScript",
-            "type": "technology"
-          }
-        ],
-        "tags": [
-          "Foo"
-        ]
-      }
-    ]
-  },
   "careerPreferences": {
     "preferences": {
       "preferredCompetences": [
@@ -75,19 +46,11 @@
           "type": "technology"
         },
         {
-          "name": "Dart",
-          "type": "technology"
-        },
-        {
           "name": "Flutter",
           "type": "technology"
         },
         {
           "name": "Go",
-          "type": "technology"
-        },
-        {
-          "name": "Groovy",
           "type": "technology"
         },
         {
@@ -112,10 +75,6 @@
         },
         {
           "name": "Python",
-          "type": "technology"
-        },
-        {
-          "name": "Scala",
           "type": "technology"
         },
         {
