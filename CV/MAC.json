@@ -42,60 +42,6 @@
     "jobs": [
       {
         "organization": {
-          "name": "Instituto de Empresa",
-          "URL": "https://www.linkedin.com/company/ie-business-school?trk=public_profile_experience-item_profile-section-card_subtitle-click"
-        },
-        "roles": [
-          {
-            "name": "Associate Professor",
-            "startDate": "2015-04-01"
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Joey deVilla Mobile Development"
-        },
-        "roles": [
-          {
-            "name": "Mobile Development Army of One",
-            "startDate": "2013-11-01",
-            "challenges": [
-              {
-                "description": "In my spare time, to keep my hand in “the programming game”, I take on mobile app development side projects for people with interesting app ideas. My primary development platform is iOS, although I can also develop Android apps, as well as cross-platform apps using Xamarin. Recent projects include:\n\n*   [Aspirations Winery’s Wine Crush](https://itunes.apple.com/us/app/aspirations-winerys-wine-crush/id1131103492?mt=8): A free iOS app written to promote a friend’s winery and wine shop in Clearwater, Florida. It’s a wine-themed game in the style of Candy Crush, and a promotional tool that other wineries won't have. It's available for free on the App Store. Unlike other free games, there aren't any \"poison pills\" to extract money from players — this game's just about simple, unadulterated fun. • Mind Quieting, an audio player that guides the user through mind quieting exercises developed by Dr. Alan Banack, a Toronto-based psychotherapist, and based on techniques developed over years of working with patients to help counter stress."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Android",
-                "type": "technology"
-              },
-              {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "Kotlin",
-                "type": "technology"
-              },
-              {
-                "name": "Objective-C",
-                "type": "technology"
-              },
-              {
-                "name": "Swift",
-                "type": "technology"
-              },
-              {
-                "name": "iOS",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Global Nerdy",
           "URL": "http://globalnerdy.com"
         },
