@@ -42,60 +42,6 @@
     "publicArtifacts": [
       {
         "details": {
-          "name": "Full interview on “Thunder Nerds” on Jupyter Notebooks, accordions, and more",
-          "description": "This is a full hour-long interview on the _Thunder Nerds_ podcast where I talk about a recent presentation on Jupyter Notebooks, plus how I got started in programming, and what brought me to the Tampa Bay area.",
-          "URL": "https://www.youtube.com/watch?v=kVDP_-jmFtM",
-          "image": {
-            "alt": "Full interview on “Thunder Nerds” on Jupyter Notebooks, accordions, and more",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/d4ce0853-f6d7-4a70-aebb-7abcdf0c1fc5_xnhz6.jpg"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2019-01-01",
-        "relatedCompetences": [
-          {
-            "name": "Jupyter",
-            "type": "technology"
-          },
-          {
-            "name": "Pandas",
-            "type": "technology"
-          },
-          {
-            "name": "Python",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "Interview on “Thunder Nerds”, DevFest Florida 2019",
-          "description": "This interview was conducted at DevFest Florida 2019, a Google technologies-focused conference at Disney World. I talk about my presentation on using Jupyter Notebooks to make dynamic documents that combine both text and Python programs to create a whole new kind of document.",
-          "URL": "https://www.youtube.com/watch?v=It00Uy8VNGM",
-          "image": {
-            "alt": "Interview on “Thunder Nerds”, DevFest Florida 2019",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/8dc033fc-ae17-4191-bba5-cc5c665ed7a7_8z1v9.jpg"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2019-01-01",
-        "relatedCompetences": [
-          {
-            "name": "Jupyter",
-            "type": "technology"
-          },
-          {
-            "name": "Pandas",
-            "type": "technology"
-          },
-          {
-            "name": "Python",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "details": {
           "name": "ARKit Workshop",
           "description": "This is the second of TWO presentations I gave at the RWDevCon 2018 conference on developing augmented reality apps with ARKit. I walk the audience through the development of 4 AR apps.",
           "URL": "https://www.youtube.com/watch?v=_sjyaDhKk2Q",
