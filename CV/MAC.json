@@ -15,7 +15,7 @@
         "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/05/06/4145d6cb-b01d-4c19-b61e-b620ab8452f6_1644263728598.1644263728598"
       },
       "location": {
-        "notes": "Madrid, Community of Madrid, Spain"
+        "notes": "Madrid"
       }
     },
     "relevantLinks": [
@@ -43,6 +43,22 @@
     "jobs": [
       {
         "organization": {
+          "name": "Manfred "
+        },
+        "roles": [
+          {
+            "name": "Software Developer",
+            "startDate": "2022-02-01",
+            "challenges": [
+              {
+                "description": "I've joined Manfred to help change the world of technical recruitment. It is too soon, but I hope we can create technology that makes it more human, focusing on people instead of processes and volume.\nI've joined Manfred to help change the world of technical recruitment. It is too soon, but I hope we can create technology that makes it more human, focusing on people instead of processes and volume."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Manfred",
           "URL": "https://www.linkedin.com/company/manfred?trk=public_profile_experience-item_profile-section-card_subtitle-click"
         },
@@ -53,6 +69,22 @@
             "challenges": [
               {
                 "description": "I've joined Manfred to help change the world of technical recruitment. It is too soon, but I hope we can create technology that makes it more human, focusing on people instead of processes and volume. I've joined Manfred to help change the world of technical recruitment. It is too soon, but I hope we can create technology that makes it more human, focusing on people instead of processes and volume."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "8Kdata"
+        },
+        "roles": [
+          {
+            "name": "Desarrollador de software",
+            "startDate": "2016-04-01",
+            "challenges": [
+              {
+                "description": "Me he incorporado al departamento de ingeniería de 8Kdata para colaborar en la construcción de ToroDB, la primera base de datos española y capaz de guardar en formato relacional datos NoSQL. Es una tarea ambiciosa en dónde no sólo hay que cuidar el detalle técnico sino que hay que envolver el producto de manera que sea atractivo y sencillo de usar para los usuarios, por lo que es un reto increíble e interesante que no he podido rechazar.\n\nComo viene siendo habitual en mi carrera hasta ahora el lenguaje principal con el trabajo es Java y se añade en esta ocasión el conocimiento a bajo nivel de bases de datos como PostgreSQL o MongoDB.\nMe he incorporado al departamento de ingeniería de 8Kdata para colaborar en la construcción de ToroDB, la primera base de datos española y capaz de guardar en formato relacional datos NoSQL. Es una tarea ambiciosa en dónde no sólo hay que cuidar el detalle técnico sino que hay que envolver el producto de manera que sea atractivo y sencillo de usar para los usuarios, por lo que es un reto increíble e interesante que no he podido rechazar. Como viene siendo habitual en mi carrera hasta ahora el lenguaje principal con el trabajo es Java y se añade en esta ocasión el conocimiento a bajo nivel de bases de datos como PostgreSQL o MongoDB."
               }
             ]
           }
