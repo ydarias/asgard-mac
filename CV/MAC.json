@@ -92,6 +92,40 @@
       },
       {
         "organization": {
+          "name": "Payvision"
+        },
+        "roles": [
+          {
+            "name": "Software Engineer",
+            "startDate": "2020-09-01",
+            "finishDate": "2022-01-31",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Klikin"
+        },
+        "roles": [
+          {
+            "name": "Software Engineer",
+            "startDate": "2018-04-01",
+            "finishDate": "2020-08-31",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "IBM",
           "URL": "https://www.linkedin.com/company/ibm?trk=public_profile_experience-item_profile-section-card_subtitle-click"
         },
@@ -128,6 +162,40 @@
       },
       {
         "organization": {
+          "name": "TwoToForty (Matching personas and Business) "
+        },
+        "roles": [
+          {
+            "name": "Software Engineer",
+            "startDate": "2016-12-01",
+            "finishDate": "2018-04-30",
+            "challenges": [
+              {
+                "description": "Desarrollo de una plataforma para la evaluación de empleados mediante cuestionarios individuales y cruzados.\nTecnologías empleadas: Java, Spring, Angular 2, AWS, mongo."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "DIGIBIS"
+        },
+        "roles": [
+          {
+            "name": "Consultor tecnológico",
+            "startDate": "2015-03-01",
+            "finishDate": "2016-12-31",
+            "challenges": [
+              {
+                "description": "- Introducción de las técnicas de Scrum y kanban como herramientas de desarrollo en el equipo.\n- Migración de la aplicación Digihub para adaptarla a las nuevas necesidades de los clientes.\n- Implementación de nueva funcionalidad sobre las aplicaciones Digihub, DigiArch y Digibib (recolector OAI-PMH, archivos y bibliotecas).\n- Definición de la arquitectura en el arranque de los proyectos nuevos.\n- Implementación de un API REST que cubra el modelo de préstamo bibliotecario.\n- Securización e integración del API REST con las aplicaciones actuales."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Otogami",
           "URL": "https://www.linkedin.com/company/otogami?trk=public_profile_experience-item_profile-section-card_subtitle-click"
         },
@@ -139,6 +207,57 @@
             "challenges": [
               {
                 "description": "Me he unido al equipo de Otogami para ayudar en las labores de desarrollo de software, pero como el primero de los empleados de esta startup quiero aportar mi granito de arena a su cultura y forma de hacer las cosas. Programo principalmente en entorno Java, pero tengo cierta experiencia en desarrollo JavaScript y me gustan ciertos lenguajes que corren en la JVM como Groovy o Scala. Me he unido al equipo de Otogami para ayudar en las labores de desarrollo de software, pero como el primero de los empleados de esta startup quiero aportar mi granito de arena a su cultura y forma de hacer las cosas. Programo principalmente en entorno Java, pero tengo cierta experiencia en desarrollo JavaScript y me gustan ciertos lenguajes que corren en la JVM como Groovy o Scala."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Autentia Real Business Solutions SL"
+        },
+        "roles": [
+          {
+            "name": "Consultor tecnológico",
+            "startDate": "2010-04-01",
+            "finishDate": "2015-02-28",
+            "challenges": [
+              {
+                "description": "Desarrollo en equipos de arquitectura realizando las siguientes funciones:\n- Diseño e implementación de arquitecturas basadas en REST.\n- Diseño, modelado e implementación de recursos REST.\n- Participación en grupos de supervisión tanto del modelado de recursos como de la correcta implementación de los mismos.\n- Implantación de metologías ágiles: Scrum y Kanban.\n- Construcción de un simulador REST, capaz de funcionar en modo proxy junto con una aplicación para su administración.\n- Empleo de herramientas para el seguimiento de proyectos: JIRA, Greenhooper, Pivotal Tracker.\n\nTecnologías:\n- Java: Spring, Spring Security, JSF, Struts, EJBs, JPA, Spring ROO, Hibernate, Alfresco, Solr, Mule ESB, JMS.\n- Javascript: Backbone, Marionette, Require.\n- Web: HTML5, CSS3, Javascript, jQuery.\n- Gestión de la configuración: Maven, Ant.\n- Control de versiones: Git, Subversion, CVS, Accurev\n- Test automáticos y calidad de código: JUnit, Powermock, mockito, Selenium, Jenkins, JMeter.\n- Obtención de métricas para analizar la calidad del cógido: Sonar.\n- Bases de datos: Oracle, MySQL, PostgreSQL, SQL Server, Liquibase.\n- Servidores de aplicaciones/web: JBoss, Tomcat, Jetty."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Steria"
+        },
+        "roles": [
+          {
+            "name": "Analista - programador",
+            "startDate": "2008-09-01",
+            "finishDate": "2010-03-31",
+            "challenges": [
+              {
+                "description": "Desarrollo de diversos proyectos J2EE para la administración pública.\nConocimientos adquiridos:\n - Struts\n - JAXB\n - Axis2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "GrupoCMC - CognicaseManagementConsulting"
+        },
+        "roles": [
+          {
+            "name": "Analista - programador",
+            "startDate": "2008-01-01",
+            "finishDate": "2008-09-30",
+            "challenges": [
+              {
+                "description": "Desarrollo de diversas funcionalidades en java para una aplicación web de juntas de accionistas."
               }
             ]
           }
@@ -175,6 +294,23 @@
             "challenges": [
               {
                 "description": "Trabajé en un sistema de tramitación de expedientes basado en tecnología Java con Spring, MyFaces y Hibernate como frameworks. Guiado por el líder técnico del proyecto me encargue de implementar el sistema de seguridad así como los flujos de navegación de la aplicación basado en soluciones de SpringSource. Trabajé en un sistema de tramitación de expedientes basado en tecnología Java con Spring, MyFaces y Hibernate como frameworks. Guiado por el líder técnico del proyecto me encargue de implementar el sistema de seguridad así como los flujos de navegación de la aplicación basado en soluciones de SpringSource."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Nurun | Crazy Labs"
+        },
+        "roles": [
+          {
+            "name": "Becario - mantenimiento de BBDD",
+            "startDate": "2007-03-01",
+            "finishDate": "2007-09-30",
+            "challenges": [
+              {
+                "description": "Automatización de los procesos de carga de registros (extracción, modificación e inserción) en bases de datos (SQL Server y MySQL) mediante el lenguaje PHP y\nTransac/SQL para el mantenimiento y gestión de diversas páginas web.\n- Diseño de animaciones en Flash 8.\n- Creación de banners.\n- Integración de páginas web diseñadas en Flash con PHP mediante el lenguaje\nActionScript 2.0."
               }
             ]
           }
