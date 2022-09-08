@@ -107,23 +107,6 @@
       },
       {
         "organization": {
-          "name": "Klikin"
-        },
-        "roles": [
-          {
-            "name": "Software Engineer",
-            "startDate": "2018-04-01",
-            "finishDate": "2020-08-31",
-            "challenges": [
-              {
-                "description": "TBD"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "IBM",
           "URL": "https://www.linkedin.com/company/ibm?trk=public_profile_experience-item_profile-section-card_subtitle-click"
         },
