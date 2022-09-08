@@ -215,23 +215,6 @@
       },
       {
         "organization": {
-          "name": "Nurun | Crazy Labs"
-        },
-        "roles": [
-          {
-            "name": "Becario - mantenimiento de BBDD",
-            "startDate": "2007-03-01",
-            "finishDate": "2007-09-30",
-            "challenges": [
-              {
-                "description": "Automatización de los procesos de carga de registros (extracción, modificación e inserción) en bases de datos (SQL Server y MySQL) mediante el lenguaje PHP y\nTransac/SQL para el mantenimiento y gestión de diversas páginas web.\n- Diseño de animaciones en Flash 8.\n- Creación de banners.\n- Integración de páginas web diseñadas en Flash con PHP mediante el lenguaje\nActionScript 2.0."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Sistemas de Datos"
         },
         "roles": [
