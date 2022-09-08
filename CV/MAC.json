@@ -317,7 +317,11 @@
         "finishDate": "2004-12-31",
         "institution": {
           "name": "Universidad de La Laguna",
-          "URL": "https://www.linkedin.com/school/universidad-de-la-laguna/?trk=public_profile_school_profile-section-card_full-click"
+          "URL": "https://www.linkedin.com/school/universidad-de-la-laguna/?trk=public_profile_school_profile-section-card_full-click",
+          "image": {
+            "alt": "fc625ede-5bfc-4c40-87af-3a7d79ac93de_16-9-aspect-ratio_default_0.jpg",
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/09/08/992660be-8991-423d-9289-12acbae4f6ec_fc625ede-5bfc-4c40-8.jpg"
+          }
         }
       }
     ]
