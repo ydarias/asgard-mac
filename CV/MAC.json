@@ -312,6 +312,22 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Foo",
+        "startDate": "2011-04-01",
+        "institution": {
+          "name": "FooBar",
+          "description": "Bar"
+        },
+        "linkedCompetences": [
+          {
+            "name": "3D Studio Max",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "ScrumMaster del Universe certified de verdad de la buena",
         "startDate": "2010-01-01",
         "institution": {
