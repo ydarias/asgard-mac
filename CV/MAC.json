@@ -162,23 +162,6 @@
       },
       {
         "organization": {
-          "name": "GrupoCMC - CognicaseManagementConsulting"
-        },
-        "roles": [
-          {
-            "name": "Analista - programador",
-            "startDate": "2008-01-01",
-            "finishDate": "2008-09-30",
-            "challenges": [
-              {
-                "description": "Desarrollo de diversas funcionalidades en java para una aplicación web de juntas de accionistas."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "AvanTIC Estudio de Ingenieros",
           "URL": "https://www.linkedin.com/company/avantic-estudio-de-ingenieros?trk=public_profile_experience-item_profile-section-card_subtitle-click"
         },
