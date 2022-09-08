@@ -217,6 +217,26 @@
     "projects": [
       {
         "details": {
+          "name": "xk6-nats",
+          "description": "Pluging for xk6 to support NATS asynchronous tests.",
+          "URL": "https://github.com/ydarias/xk6-nats"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2021-11-01",
+            "competences": [
+              {
+                "name": "Go",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Qiskit VSCode",
           "URL": "https://github.com/Qiskit/qiskit-vscode"
         },
