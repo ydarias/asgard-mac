@@ -8,14 +8,16 @@
     "profile": {
       "name": "Pedro",
       "surnames": "Manfredo",
-      "title": "Software Developer at IBM Research",
-      "description": "I am a software developer with more than 10 years of experience, working primarily on Java platform and using supportive technologies like Spring or Hibernate among others. I am used to collaborate with customers trying to do it in an agile way. I like to deliver tools and solutions that help people in their daily work. My past experience is not only focused in consultancy but in the development of product too.",
+      "title": "Scraper bot at Manfred",
+      "description": "I scrape LinkedIn pages as a pro, but I also bake some delicious cookies and cakes.",
       "avatar": {
-        "alt": "profile-image",
-        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/05/06/4145d6cb-b01d-4c19-b61e-b620ab8452f6_1644263728598.1644263728598"
+        "alt": "Rick-and-Morty.jpg",
+        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/09/08/0ab0c885-6b87-4e6c-897c-e29dde413d3e_rick-and-morty.jpg"
       },
       "location": {
-        "notes": "Madrid"
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Madrid"
       }
     },
     "relevantLinks": [
@@ -26,21 +28,43 @@
       {
         "type": "twitter",
         "URL": "https://twitter.com/ydarias"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/pedro-manfredo-25b471239/"
       }
     ],
     "interestingFacts": [
       {
-        "topic": "Favorite editor",
-        "fact": "IntelliJ IDEA"
-      },
-      {
-        "topic": "First computer",
-        "fact": "MSX"
+        "topic": "Favorite phrase from David Bonilla",
+        "fact": "If you have data we go with your data, if you have a preferenes we go with mines ^_^"
       }
     ]
   },
   "experience": {
     "jobs": [
+      {
+        "organization": {
+          "name": "Manfred"
+        },
+        "roles": [
+          {
+            "name": "LinkedIn scraper bot",
+            "startDate": "2022-02-01",
+            "challenges": [
+              {
+                "description": "They have me all the time scraping LinkedIn pages in terrible conditions!!! :-D "
+              }
+            ],
+            "competences": [
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
       {
         "organization": {
           "name": "Manfred "
@@ -361,6 +385,25 @@
     ]
   },
   "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      }
+    ],
     "studies": [
       {
         "studyType": "officialDegree",
@@ -376,6 +419,14 @@
     ]
   },
   "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/pedro-manfredo-25b471239/"
+        }
+      ]
+    },
     "preferences": {
       "preferredCompetences": [
         {
