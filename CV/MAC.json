@@ -107,23 +107,6 @@
       },
       {
         "organization": {
-          "name": "Payvision"
-        },
-        "roles": [
-          {
-            "name": "Software Engineer",
-            "startDate": "2020-09-01",
-            "finishDate": "2022-01-31",
-            "challenges": [
-              {
-                "description": "TBD"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Klikin"
         },
         "roles": [
