@@ -45,7 +45,11 @@
     "jobs": [
       {
         "organization": {
-          "name": "Manfred"
+          "name": "Manfred",
+          "image": {
+            "alt": "LinkedIn_logo_initials.png",
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/09/08/340d7612-f57f-4ebe-996f-24c5e3390405_linkedin_logo_initia.png"
+          }
         },
         "roles": [
           {
