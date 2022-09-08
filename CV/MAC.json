@@ -39,6 +39,20 @@
         "topic": "Favorite phrase from David Bonilla",
         "fact": "If you have data we go with your data, if you have a preferenes we go with mines ^_^"
       }
+    ],
+    "recommendations": [
+      {
+        "title": "La web de San Martin de Fowler",
+        "type": "reading",
+        "URL": "https://martinfowler.com/",
+        "authors": [
+          {
+            "name": "San",
+            "surnames": "Martin de Fowler",
+            "title": "Author"
+          }
+        ]
+      }
     ]
   },
   "experience": {
