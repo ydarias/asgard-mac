@@ -300,6 +300,16 @@
     ],
     "studies": [
       {
+        "studyType": "unaccredited",
+        "degreeAchieved": false,
+        "name": "Cocinar pan de masa madre",
+        "startDate": "2018-02-01",
+        "institution": {
+          "name": "Levadure Madre",
+          "description": "Aprendí a hacer pan de masa madre y me llevé como 5 hogazas grandes a casa :-D "
+        }
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Ingeniero Técnico Informática de Gestión",
