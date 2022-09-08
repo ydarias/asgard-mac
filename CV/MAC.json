@@ -310,6 +310,20 @@
         }
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "ScrumMaster del Universe certified de verdad de la buena",
+        "startDate": "2010-01-01",
+        "institution": {
+          "name": "Mi casa, teléfono",
+          "description": "The title says everything :-P ",
+          "image": {
+            "alt": "ET_3147094k.jpg",
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/09/08/1d76f654-e7a6-4b8b-ad8a-dfd4bbf857f0_et_3147094k.jpg"
+          }
+        }
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Ingeniero Técnico Informática de Gestión",
