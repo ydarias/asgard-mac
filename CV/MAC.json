@@ -83,23 +83,6 @@
       },
       {
         "organization": {
-          "name": "Manfred",
-          "URL": "https://www.linkedin.com/company/manfred?trk=public_profile_experience-item_profile-section-card_subtitle-click"
-        },
-        "roles": [
-          {
-            "name": "Software Developer",
-            "startDate": "2022-02-01",
-            "challenges": [
-              {
-                "description": "I've joined Manfred to help change the world of technical recruitment. It is too soon, but I hope we can create technology that makes it more human, focusing on people instead of processes and volume. I've joined Manfred to help change the world of technical recruitment. It is too soon, but I hope we can create technology that makes it more human, focusing on people instead of processes and volume."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "8Kdata"
         },
         "roles": [
