@@ -127,23 +127,6 @@
       },
       {
         "organization": {
-          "name": "TwoToForty (Matching personas and Business) "
-        },
-        "roles": [
-          {
-            "name": "Software Engineer",
-            "startDate": "2016-12-01",
-            "finishDate": "2018-04-30",
-            "challenges": [
-              {
-                "description": "Desarrollo de una plataforma para la evaluación de empleados mediante cuestionarios individuales y cruzados.\nTecnologías empleadas: Java, Spring, Angular 2, AWS, mongo."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "8Kdata"
         },
         "roles": [
