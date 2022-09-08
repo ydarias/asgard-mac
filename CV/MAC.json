@@ -258,6 +258,23 @@
         },
         "type": "achievement",
         "publishingDate": "2013-06-01"
+      },
+      {
+        "details": {
+          "name": "Ganador de la primera edición de Startup Weekend Tenerife",
+          "description": "Blah blah blah ... prize ... blah blah ... smoke."
+        },
+        "type": "achievement",
+        "publishingDate": "2013-03-01",
+        "relatedCompetences": [
+          {
+            "name": "JAVA",
+            "type": "technology"
+          }
+        ],
+        "tags": [
+          "Prize"
+        ]
       }
     ]
   },
