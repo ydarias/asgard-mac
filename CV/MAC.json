@@ -52,6 +52,19 @@
             "title": "Author"
           }
         ]
+      },
+      {
+        "title": "Nuestro patrón Jimmy Fallon (faro de la Tarugoconf sofa edition)",
+        "type": "other",
+        "URL": "https://www.youtube.com/watch?v=VoW0mXIsBmQ",
+        "authors": [
+          {
+            "name": "Jimmy",
+            "surnames": "Fallon",
+            "title": "Author"
+          }
+        ],
+        "summary": "A video"
       }
     ]
   },
