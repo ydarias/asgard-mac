@@ -144,23 +144,6 @@
       },
       {
         "organization": {
-          "name": "DIGIBIS"
-        },
-        "roles": [
-          {
-            "name": "Consultor tecnológico",
-            "startDate": "2015-03-01",
-            "finishDate": "2016-12-31",
-            "challenges": [
-              {
-                "description": "- Introducción de las técnicas de Scrum y kanban como herramientas de desarrollo en el equipo.\n- Migración de la aplicación Digihub para adaptarla a las nuevas necesidades de los clientes.\n- Implementación de nueva funcionalidad sobre las aplicaciones Digihub, DigiArch y Digibib (recolector OAI-PMH, archivos y bibliotecas).\n- Definición de la arquitectura en el arranque de los proyectos nuevos.\n- Implementación de un API REST que cubra el modelo de préstamo bibliotecario.\n- Securización e integración del API REST con las aplicaciones actuales."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Otogami",
           "URL": "https://www.linkedin.com/company/otogami?trk=public_profile_experience-item_profile-section-card_subtitle-click"
         },
