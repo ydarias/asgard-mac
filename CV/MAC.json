@@ -42,17 +42,6 @@
     ],
     "recommendations": [
       {
-        "title": "Foo",
-        "type": "other",
-        "authors": [
-          {
-            "name": "FooBar",
-            "surnames": "FooBar",
-            "title": "Author"
-          }
-        ]
-      },
-      {
         "title": "La web de San Martin de Fowler",
         "type": "reading",
         "URL": "https://martinfowler.com/",
