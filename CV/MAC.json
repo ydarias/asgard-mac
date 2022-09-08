@@ -162,23 +162,6 @@
       },
       {
         "organization": {
-          "name": "Steria"
-        },
-        "roles": [
-          {
-            "name": "Analista - programador",
-            "startDate": "2008-09-01",
-            "finishDate": "2010-03-31",
-            "challenges": [
-              {
-                "description": "Desarrollo de diversos proyectos J2EE para la administración pública.\nConocimientos adquiridos:\n - Struts\n - JAXB\n - Axis2"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "GrupoCMC - CognicaseManagementConsulting"
         },
         "roles": [
