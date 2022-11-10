@@ -22,16 +22,8 @@
     },
     "relevantLinks": [
       {
-        "type": "github",
-        "URL": "https://github.com/ydarias"
-      },
-      {
-        "type": "twitter",
-        "URL": "https://twitter.com/ydarias"
-      },
-      {
         "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/pedro-manfredo-25b471239/"
+        "URL": "https://www.linkedin.com/in/ydarias/"
       }
     ],
     "interestingFacts": [
@@ -72,37 +64,7 @@
     "jobs": [
       {
         "organization": {
-          "name": "Manfred",
-          "image": {
-            "alt": "LinkedIn_logo_initials.png",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/09/08/340d7612-f57f-4ebe-996f-24c5e3390405_linkedin_logo_initia.png"
-          }
-        },
-        "roles": [
-          {
-            "name": "LinkedIn scraper bot",
-            "startDate": "2022-02-01",
-            "challenges": [
-              {
-                "description": "They have me all the time scraping LinkedIn pages in terrible conditions!!! :-D "
-              }
-            ],
-            "competences": [
-              {
-                "name": "TypeScript",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Manfred ",
-          "image": {
-            "alt": "rob-manfred-4.jpg",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/09/08/04a96b45-8f7f-4e61-8a30-8166a45354e7_rob-manfred-4.jpg"
-          }
+          "name": "Manfred "
         },
         "roles": [
           {
@@ -118,8 +80,23 @@
       },
       {
         "organization": {
-          "name": "IBM",
-          "URL": "https://www.linkedin.com/company/ibm?trk=public_profile_experience-item_profile-section-card_subtitle-click"
+          "name": "Manfred"
+        },
+        "roles": [
+          {
+            "name": "LinkedIn scraper bot",
+            "startDate": "2022-02-01",
+            "challenges": [
+              {
+                "description": "They have me all the time scraping LinkedIn pages in terrible conditions!!! :-D "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "IBM"
         },
         "roles": [
           {
@@ -136,8 +113,7 @@
       },
       {
         "organization": {
-          "name": "Fon",
-          "URL": "https://www.linkedin.com/company/fon?trk=public_profile_experience-item_profile-section-card_subtitle-click"
+          "name": "Fon"
         },
         "roles": [
           {
@@ -171,8 +147,7 @@
       },
       {
         "organization": {
-          "name": "Otogami",
-          "URL": "https://www.linkedin.com/company/otogami?trk=public_profile_experience-item_profile-section-card_subtitle-click"
+          "name": "Otogami"
         },
         "roles": [
           {
@@ -189,8 +164,7 @@
       },
       {
         "organization": {
-          "name": "AvanTIC Estudio de Ingenieros",
-          "URL": "https://www.linkedin.com/company/avantic-estudio-de-ingenieros?trk=public_profile_experience-item_profile-section-card_subtitle-click"
+          "name": "AvanTIC Estudio de Ingenieros"
         },
         "roles": [
           {
@@ -207,8 +181,7 @@
       },
       {
         "organization": {
-          "name": "General de Software de Canarias",
-          "URL": "https://www.linkedin.com/company/general-de-software-de-canarias-s.a.u.?trk=public_profile_experience-item_profile-section-card_subtitle-click"
+          "name": "General de Software de Canarias"
         },
         "roles": [
           {
@@ -252,13 +225,7 @@
         "roles": [
           {
             "name": "Developer",
-            "startDate": "2021-11-01",
-            "competences": [
-              {
-                "name": "Go",
-                "type": "technology"
-              }
-            ]
+            "startDate": "2021-11-01"
           }
         ]
       },
@@ -293,12 +260,6 @@
         },
         "type": "achievement",
         "publishingDate": "2013-03-01",
-        "relatedCompetences": [
-          {
-            "name": "JAVA",
-            "type": "technology"
-          }
-        ],
         "tags": [
           "Prize"
         ]
@@ -306,11 +267,6 @@
     ]
   },
   "knowledge": {
-    "languages": [
-      {
-        "name": "English"
-      }
-    ],
     "hardSkills": [
       {
         "skill": {
@@ -372,28 +328,12 @@
       "publicProfiles": [
         {
           "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/pedro-manfredo-25b471239/"
+          "URL": "https://www.linkedin.com/in/ydarias/"
         }
       ]
     },
     "preferences": {
       "preferredCompetences": [
-        {
-          "name": "Android",
-          "type": "technology"
-        },
-        {
-          "name": "AngularJS",
-          "type": "technology"
-        },
-        {
-          "name": "C#",
-          "type": "technology"
-        },
-        {
-          "name": "Flutter",
-          "type": "technology"
-        },
         {
           "name": "Go",
           "type": "technology"
@@ -404,10 +344,6 @@
         },
         {
           "name": "JavaScript",
-          "type": "technology"
-        },
-        {
-          "name": "Kotlin",
           "type": "technology"
         },
         {
@@ -423,15 +359,7 @@
           "type": "technology"
         },
         {
-          "name": "Swift",
-          "type": "technology"
-        },
-        {
           "name": "TypeScript",
-          "type": "technology"
-        },
-        {
-          "name": "iOS",
           "type": "technology"
         }
       ],
