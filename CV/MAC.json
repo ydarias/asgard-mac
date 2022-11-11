@@ -270,13 +270,13 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "JAVA",
+          "name": "TypeScript",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "TypeScript",
+          "name": "JAVA",
           "type": "technology"
         }
       }
