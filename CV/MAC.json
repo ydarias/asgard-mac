@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,8 +17,7 @@
       "location": {
         "country": "España",
         "region": "Comunidad de Madrid",
-        "municipality": "Madrid",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Madrid"
       }
     },
     "relevantLinks": [
@@ -58,6 +57,19 @@
           }
         ],
         "summary": "A video"
+      },
+      {
+        "title": "Technical Debt",
+        "type": "reading",
+        "URL": "https://holub.com/technical-debt/",
+        "authors": [
+          {
+            "name": "Allen",
+            "surnames": "Holub",
+            "title": "Author"
+          }
+        ],
+        "summary": "Lorem ipsum y tal."
       }
     ]
   },
@@ -270,8 +282,7 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -385,7 +396,6 @@
       "preferredRoles": [
         "Backend Developer"
       ]
-    },
-    "status": "searchingActively"
+    }
   }
 }
