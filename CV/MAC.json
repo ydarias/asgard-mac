@@ -295,31 +295,13 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "Nest",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "TypeScript",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Hibernate",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Golang",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "NodeJS",
+          "name": "Nest",
           "type": "technology"
         }
       },
@@ -331,25 +313,7 @@
       },
       {
         "skill": {
-          "name": "TypeORM",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MongoDB",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "JAVA",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PostgreSQL",
           "type": "technology"
         }
       }
