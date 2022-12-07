@@ -301,6 +301,18 @@
       },
       {
         "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Hibernate",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Nest",
           "type": "technology"
         }
@@ -313,7 +325,7 @@
       },
       {
         "skill": {
-          "name": "JAVA",
+          "name": "NodeJS",
           "type": "technology"
         }
       }
