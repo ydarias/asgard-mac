@@ -388,7 +388,8 @@
         }
       ],
       "preferredRoles": [
-        "Backend Developer"
+        "Backend Developer",
+        "DevOps & Infrastructure & SRE"
       ]
     },
     "status": "searchingActively"
