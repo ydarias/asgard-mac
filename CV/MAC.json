@@ -409,27 +409,7 @@
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "Go",
-          "type": "technology"
-        },
-        {
           "name": "JAVA",
-          "type": "technology"
-        },
-        {
-          "name": "JavaScript",
-          "type": "technology"
-        },
-        {
-          "name": "MongoDB",
-          "type": "technology"
-        },
-        {
-          "name": "PostgreSQL",
-          "type": "technology"
-        },
-        {
-          "name": "Python",
           "type": "technology"
         },
         {
