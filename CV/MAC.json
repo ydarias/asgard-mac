@@ -444,7 +444,9 @@
         }
       ],
       "preferredRoles": [
-        "Backend Developer"
+        "Backend Developer",
+        "DevOps & Infrastructure & SRE",
+        "Developer Evangelist & Advocate"
       ]
     },
     "status": "searchingActively"
