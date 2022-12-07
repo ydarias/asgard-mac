@@ -295,19 +295,7 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "TypeScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JAVA",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Hibernate",
+          "name": "NodeJS",
           "type": "technology"
         }
       },
@@ -319,13 +307,43 @@
       },
       {
         "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Hibernate",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Spring Boot",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "NodeJS",
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kafka",
           "type": "technology"
         }
       }
