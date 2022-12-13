@@ -299,6 +299,18 @@
     "hardSkills": [
       {
         "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Nest",
           "type": "technology"
         }
@@ -306,12 +318,6 @@
       {
         "skill": {
           "name": "TypeORM",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "TypeScript",
           "type": "technology"
         }
       }
