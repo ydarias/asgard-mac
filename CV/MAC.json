@@ -367,7 +367,31 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "Golang",
+          "type": "technology"
+        },
+        {
           "name": "JAVA",
+          "type": "technology"
+        },
+        {
+          "name": "MongoDB",
+          "type": "technology"
+        },
+        {
+          "name": "Nest",
+          "type": "technology"
+        },
+        {
+          "name": "NodeJS",
+          "type": "technology"
+        },
+        {
+          "name": "PostgreSQL",
+          "type": "technology"
+        },
+        {
+          "name": "Spring Boot",
           "type": "technology"
         },
         {
@@ -383,7 +407,7 @@
       ],
       "preferredRoles": [
         "Backend Developer",
-        "Frontend Developer"
+        "Developer Evangelist & Advocate"
       ]
     },
     "status": "searchingActively"
