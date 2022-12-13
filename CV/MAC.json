@@ -403,6 +403,16 @@
         }
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Idiot certified",
+        "startDate": "1980-12-01",
+        "institution": {
+          "name": "Life",
+          "description": "I am officially an idiot certified human."
+        }
+      },
+      {
         "studyType": "selfTraining",
         "degreeAchieved": false,
         "name": "University of Life",
