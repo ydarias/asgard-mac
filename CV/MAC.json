@@ -31,6 +31,10 @@
       {
         "topic": "Favorite phrase from David Bonilla",
         "fact": "If you have data we go with your data, if you have a preferenes we go with mines ^_^"
+      },
+      {
+        "topic": "My first computer was",
+        "fact": "an MSX"
       }
     ],
     "recommendations": [
