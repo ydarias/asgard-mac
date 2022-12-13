@@ -9,7 +9,7 @@
       "name": "Pedro Ricardo",
       "surnames": "Manfredo Manfredite",
       "title": "Scraper bot at Manfred at day, bowling champion at night",
-      "description": "I scrape LinkedIn pages as a pro, but I also bake some delicious cookies and cakes.",
+      "description": "I scrape LinkedIn pages as a pro, but I also bake some delicious cookies and cakes. I like strawberries too.",
       "avatar": {
         "alt": "Rick-and-Morty.jpg",
         "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/09/08/0ab0c885-6b87-4e6c-897c-e29dde413d3e_rick-and-morty.jpg"
@@ -287,6 +287,10 @@
   },
   "knowledge": {
     "languages": [
+      {
+        "name": "English",
+        "level": "Full professional proficiency"
+      },
       {
         "name": "Spanish",
         "level": "Native or bilingual proficiency"
