@@ -6,9 +6,9 @@
   },
   "aboutMe": {
     "profile": {
-      "name": "Pedro",
-      "surnames": "Manfredo",
-      "title": "Scraper bot at Manfred",
+      "name": "Pedro Ricardo",
+      "surnames": "Manfredo Manfredite",
+      "title": "Scraper bot at Manfred at day, bowling champion at night",
       "description": "I scrape LinkedIn pages as a pro, but I also bake some delicious cookies and cakes.",
       "avatar": {
         "alt": "Rick-and-Morty.jpg",
@@ -410,6 +410,6 @@
         "Developer Evangelist & Advocate"
       ]
     },
-    "status": "searchingActively"
+    "status": "notAvailable"
   }
 }
