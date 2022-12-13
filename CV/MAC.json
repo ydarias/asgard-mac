@@ -305,6 +305,23 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": "Most loved scraper from Manfred",
+          "description": "A slightly smile from Daviz Bonilla."
+        },
+        "type": "achievement",
+        "publishingDate": "2022-03-01",
+        "relatedCompetences": [
+          {
+            "name": "TypeScript",
+            "type": "technology"
+          }
+        ],
+        "tags": [
+          "Prize"
+        ]
+      },
+      {
+        "details": {
           "name": "Co-author of \"El camino a un mejor programador\"",
           "description": "I helped writing this book ... blah blah blah",
           "URL": "https://emanchado.github.io/camino-mejor-programador/"
