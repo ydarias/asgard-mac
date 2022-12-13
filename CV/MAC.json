@@ -403,6 +403,16 @@
         }
       },
       {
+        "studyType": "selfTraining",
+        "degreeAchieved": false,
+        "name": "University of Life",
+        "startDate": "1980-12-01",
+        "institution": {
+          "name": "Life",
+          "description": "You learn more from your failures than your successes, or something like that."
+        }
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Ingeniero Técnico Informática de Gestión",
