@@ -38,6 +38,19 @@
     ],
     "recommendations": [
       {
+        "title": "Dockerfile best practices",
+        "type": "reading",
+        "URL": "https://snyk.io/wp-content/uploads/10-best-practices-to-containerize-Node.js-web-applications-with-Docker.pdf",
+        "authors": [
+          {
+            "name": "Someone",
+            "surnames": "Someone",
+            "title": "Author"
+          }
+        ],
+        "summary": "Blah blah blah"
+      },
+      {
         "title": "La web de San Martin de Fowler",
         "type": "reading",
         "URL": "https://martinfowler.com/",
