@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,7 +17,8 @@
       "location": {
         "country": "España",
         "region": "Comunidad de Madrid",
-        "municipality": "Madrid"
+        "municipality": "Madrid",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -60,7 +61,8 @@
             "surnames": "Martin de Fowler",
             "title": "Author"
           }
-        ]
+        ],
+        "summary": ""
       },
       {
         "title": "Nuestro patrón Jimmy Fallon (faro de la Tarugoconf sofa edition)",
@@ -284,6 +286,7 @@
       {
         "details": {
           "name": "Qiskit VSCode",
+          "description": "",
           "URL": "https://github.com/Qiskit/qiskit-vscode"
         },
         "type": "sideProject",
@@ -340,7 +343,10 @@
           "URL": "https://emanchado.github.io/camino-mejor-programador/"
         },
         "type": "achievement",
-        "publishingDate": "2013-06-01"
+        "publishingDate": "2013-06-01",
+        "tags": [
+          ""
+        ]
       },
       {
         "details": {
@@ -358,10 +364,12 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Full professional proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
@@ -443,6 +451,7 @@
         "finishDate": "2004-12-31",
         "institution": {
           "name": "Universidad de La Laguna",
+          "description": "",
           "URL": "https://www.linkedin.com/school/universidad-de-la-laguna/?trk=public_profile_school_profile-section-card_full-click",
           "image": {
             "alt": "fc625ede-5bfc-4c40-87af-3a7d79ac93de_16-9-aspect-ratio_default_0.jpg",
@@ -506,6 +515,27 @@
         "Backend Developer",
         "Developer Evangelist & Advocate"
       ]
-    }
+    },
+    "status": "notAvailable"
+  },
+  "asgardPreferences": {
+    "mainStackTechs": [
+      {
+        "name": "NodeJS",
+        "type": "technology"
+      },
+      {
+        "name": "TypeScript",
+        "type": "technology"
+      },
+      {
+        "name": "Nest",
+        "type": "technology"
+      },
+      {
+        "name": "TypeORM",
+        "type": "technology"
+      }
+    ]
   }
 }
