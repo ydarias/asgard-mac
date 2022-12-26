@@ -399,67 +399,7 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "AWS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JAVA",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Azure",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MongoDB",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "TypeScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Jenkins",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Python",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "TypeORM",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Kubernetes",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PHP",
           "type": "technology"
         }
       },
@@ -471,13 +411,19 @@
       },
       {
         "skill": {
-          "name": "Terraform",
+          "name": "Kubernetes",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Airflow",
+          "name": "Azure",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
           "type": "technology"
         }
       },
@@ -489,7 +435,7 @@
       },
       {
         "skill": {
-          "name": "Google Cloud",
+          "name": "Airflow",
           "type": "technology"
         }
       },
@@ -501,7 +447,61 @@
       },
       {
         "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Cloud",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Terraform",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeORM",
           "type": "technology"
         }
       }
@@ -581,6 +581,86 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "3D Studio Max",
+          "type": "technology"
+        },
+        {
+          "name": "ADA",
+          "type": "technology"
+        },
+        {
+          "name": "Abstract",
+          "type": "technology"
+        },
+        {
+          "name": "ActiveCampaign",
+          "type": "technology"
+        },
+        {
+          "name": "ActiveMQ",
+          "type": "technology"
+        },
+        {
+          "name": "Adabas",
+          "type": "technology"
+        },
+        {
+          "name": "Adobe After Effects",
+          "type": "technology"
+        },
+        {
+          "name": "Adobe Analytics",
+          "type": "technology"
+        },
+        {
+          "name": "Adobe Audition",
+          "type": "technology"
+        },
+        {
+          "name": "Adobe CC",
+          "type": "technology"
+        },
+        {
+          "name": "Adobe Creative Suite",
+          "type": "technology"
+        },
+        {
+          "name": "Adobe Dreamweaver",
+          "type": "technology"
+        },
+        {
+          "name": "Adobe Illustrator",
+          "type": "technology"
+        },
+        {
+          "name": "Adobe InDesign",
+          "type": "technology"
+        },
+        {
+          "name": "Adobe Launch",
+          "type": "technology"
+        },
+        {
+          "name": "Adobe Lightroom",
+          "type": "technology"
+        },
+        {
+          "name": "Adobe Photoshop",
+          "type": "technology"
+        },
+        {
+          "name": "Adobe Premiere Pro",
+          "type": "technology"
+        },
+        {
+          "name": "Adobe Target",
+          "type": "technology"
+        },
+        {
+          "name": "Adobe Xd",
+          "type": "technology"
+        },
+        {
           "name": "Golang",
           "type": "technology"
         },
@@ -615,6 +695,26 @@
       ],
       "discardedCompetences": [
         {
+          "name": "ADA",
+          "type": "technology"
+        },
+        {
+          "name": "Abap",
+          "type": "technology"
+        },
+        {
+          "name": "Abstract",
+          "type": "technology"
+        },
+        {
+          "name": "ActiveCampaign",
+          "type": "technology"
+        },
+        {
+          "name": "Adabas",
+          "type": "technology"
+        },
+        {
           "name": "PHP",
           "type": "technology"
         }
@@ -633,15 +733,15 @@
         "type": "technology"
       },
       {
-        "name": "TypeORM",
-        "type": "technology"
-      },
-      {
         "name": "NodeJS",
         "type": "technology"
       },
       {
         "name": "Nest",
+        "type": "technology"
+      },
+      {
+        "name": "TypeORM",
         "type": "technology"
       }
     ]
