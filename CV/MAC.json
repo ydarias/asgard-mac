@@ -364,8 +364,32 @@
   "knowledge": {
     "languages": [
       {
+        "name": "Arabic",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "Bulgarian",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "Catalan",
+        "level": "Limited working proficiency"
+      },
+      {
+        "name": "Chinese",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "Czech",
+        "level": "Full professional proficiency"
+      },
+      {
         "name": "English",
         "level": "Full professional proficiency"
+      },
+      {
+        "name": "Portuguese",
+        "level": "Professional working proficiency"
       },
       {
         "name": "Spanish",
