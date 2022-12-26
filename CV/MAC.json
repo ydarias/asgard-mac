@@ -399,7 +399,25 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "NodeJS",
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Azure",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
           "type": "technology"
         }
       },
@@ -411,13 +429,79 @@
       },
       {
         "skill": {
-          "name": "Nest",
+          "name": "Jenkins",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
           "type": "technology"
         }
       },
       {
         "skill": {
           "name": "TypeORM",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Terraform",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Airflow",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Cloud",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Nest",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
           "type": "technology"
         }
       }
@@ -545,19 +629,19 @@
   "asgardPreferences": {
     "mainStackTechs": [
       {
-        "name": "NodeJS",
-        "type": "technology"
-      },
-      {
         "name": "TypeScript",
         "type": "technology"
       },
       {
-        "name": "Nest",
+        "name": "TypeORM",
         "type": "technology"
       },
       {
-        "name": "TypeORM",
+        "name": "NodeJS",
+        "type": "technology"
+      },
+      {
+        "name": "Nest",
         "type": "technology"
       }
     ]
