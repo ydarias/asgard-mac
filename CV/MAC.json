@@ -6,7 +6,7 @@
   },
   "aboutMe": {
     "profile": {
-      "name": "Pedro",
+      "name": "Pedrito",
       "surnames": "Manfredo",
       "title": "Scraper bot at Manfred at day, bowling champion at night",
       "description": "I scrape LinkedIn pages as a pro, but I also bake some delicious cookies and cakes. I like strawberries too.",
@@ -177,23 +177,6 @@
             "challenges": [
               {
                 "description": "Me he incorporado al equipo de innovación de Fon para desarrollar el backend de su producto de Home WiFi. Somos un equipo multidisciplinar que engloba todos los roles necesarios para construir el nuevo producto y en el que apenas hay jerarquía. A nivel tecnológico estamos usando Java 8 y 9 para el desarrollo de una arquitectura de microservicios en el que Spring Boot juega un papel fundamental y a menor escala Vert.x. Se hace uso intensivo de buenas prácticas como TDD, despliegue continuo y revisiones de código entre otras. El sistema se despliega en Amazon ECS haciendo uso de contenedores."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "8Kdata"
-        },
-        "roles": [
-          {
-            "name": "Desarrollador de software",
-            "startDate": "2016-04-01",
-            "finishDate": "2017-01-01",
-            "challenges": [
-              {
-                "description": "Me he incorporado al departamento de ingeniería de 8Kdata para colaborar en la construcción de ToroDB, la primera base de datos española y capaz de guardar en formato relacional datos NoSQL. Es una tarea ambiciosa en dónde no sólo hay que cuidar el detalle técnico sino que hay que envolver el producto de manera que sea atractivo y sencillo de usar para los usuarios, por lo que es un reto increíble e interesante que no he podido rechazar.\n\nComo viene siendo habitual en mi carrera hasta ahora el lenguaje principal con el trabajo es Java y se añade en esta ocasión el conocimiento a bajo nivel de bases de datos como PostgreSQL o MongoDB.\nMe he incorporado al departamento de ingeniería de 8Kdata para colaborar en la construcción de ToroDB, la primera base de datos española y capaz de guardar en formato relacional datos NoSQL. Es una tarea ambiciosa en dónde no sólo hay que cuidar el detalle técnico sino que hay que envolver el producto de manera que sea atractivo y sencillo de usar para los usuarios, por lo que es un reto increíble e interesante que no he podido rechazar. Como viene siendo habitual en mi carrera hasta ahora el lenguaje principal con el trabajo es Java y se añade en esta ocasión el conocimiento a bajo nivel de bases de datos como PostgreSQL o MongoDB."
               }
             ]
           }
