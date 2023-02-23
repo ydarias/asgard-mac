@@ -6,7 +6,7 @@
   },
   "aboutMe": {
     "profile": {
-      "name": "Pedrito",
+      "name": "Pedro",
       "surnames": "Manfredo",
       "title": "Scraper bot at Manfred at day, bowling champion at night",
       "description": "I scrape LinkedIn pages as a pro, but I also bake some delicious cookies and cakes. I like strawberries too.",
@@ -515,7 +515,7 @@
         "name": "ScrumMaster del Universe certified de verdad de la buena",
         "startDate": "2010-01-01",
         "institution": {
-          "name": "Mi casa, teléfono",
+          "name": "Mi casa, teléfono ET",
           "description": "The title says everything :-P ",
           "image": {
             "alt": "ET_3147094k.jpg",
@@ -529,18 +529,8 @@
         "name": "Idiot certified",
         "startDate": "1980-12-01",
         "institution": {
-          "name": "Life",
+          "name": "Lifee",
           "description": "I am officially an idiot certified human."
-        }
-      },
-      {
-        "studyType": "selfTraining",
-        "degreeAchieved": false,
-        "name": "University of Life",
-        "startDate": "1980-12-01",
-        "institution": {
-          "name": "Life",
-          "description": "You learn more from your failures than your successes, or something like that."
         }
       },
       {
