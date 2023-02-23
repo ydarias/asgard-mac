@@ -30,7 +30,7 @@
     "interestingFacts": [
       {
         "topic": "Favorite phrase from David Bonilla",
-        "fact": "If you have data we go with your data, if you have a preferenes we go with mines ^_^"
+        "fact": "If you have data we go with your data, if you have a preferenes we go with mines."
       },
       {
         "topic": "My first computer was",
@@ -319,6 +319,15 @@
       }
     ],
     "publicArtifacts": [
+      {
+        "details": {
+          "name": "Another highlight to test",
+          "description": "",
+          "URL": "https://www.google.com"
+        },
+        "type": "post",
+        "publishingDate": "2022-10-05"
+      },
       {
         "details": {
           "name": "Most loved scraper from Manfred",
