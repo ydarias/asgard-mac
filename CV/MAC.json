@@ -204,6 +204,22 @@
       },
       {
         "details": {
+          "name": "Another highlight to TEST 2",
+          "URL": "https://www.google.com"
+        },
+        "type": "post",
+        "publishingDate": "2022-10-05"
+      },
+      {
+        "details": {
+          "name": "Another highlight to TEST 2",
+          "URL": "https://www.google.com"
+        },
+        "type": "post",
+        "publishingDate": "2022-10-05"
+      },
+      {
+        "details": {
           "name": "Most loved scraper from Manfred",
           "description": "A slightly smile from Daviz Bonilla."
         },
