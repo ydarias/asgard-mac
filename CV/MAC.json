@@ -1,13 +1,13 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
     "profile": {
-      "name": "Sergio",
-      "surnames": "Brugera",
+      "name": "Claudio",
+      "surnames": "Coello",
       "title": "Scraper bot at Manfred at day, bowling champion at night",
       "description": "Product-orientated entrepreneurial CTO/VP of Engineering with more than 20 years of deep technical experience developing, implementing and supporting complex infrastructures for fast growing digital businesses. Equally, versed in deep natural leadership, with vast experience and passion building cohesive and effective teams from scratch. Strong skills for managing ETAs, development and organizational structure. Comfortable with building engineering teams from ground up into scaled multidisciplinary teams. Some text more.",
       "avatar": {
@@ -46,14 +46,14 @@
         "title": "Dockerfile best practices",
         "type": "reading",
         "URL": "https://snyk.io/wp-content/uploads/10-best-practices-to-containerize-Node.js-web-applications-with-Docker.pdf",
-        "summary": "Blah blah blah",
         "authors": [
           {
             "name": "Someone",
             "surnames": "Someone",
             "title": "Author"
           }
-        ]
+        ],
+        "summary": "Blah blah blah"
       },
       {
         "title": "La web de San Martin de Fowler",
@@ -65,37 +65,196 @@
             "surnames": "Martin de Fowler",
             "title": "Author"
           }
-        ]
+        ],
+        "summary": ""
       },
       {
         "title": "Nuestro patrón Jimmy Fallon (faro de la Tarugoconf sofa edition)",
         "type": "other",
         "URL": "https://www.youtube.com/watch?v=VoW0mXIsBmQ",
-        "summary": "A video",
         "authors": [
           {
             "name": "Jimmy",
             "surnames": "Fallon",
             "title": "Author"
           }
-        ]
+        ],
+        "summary": "A video"
       },
       {
         "title": "Technical Debt",
         "type": "reading",
         "URL": "https://holub.com/technical-debt/",
-        "summary": "Lorem ipsum y tal.",
         "authors": [
           {
             "name": "Allen",
             "surnames": "Holub",
             "title": "Author"
           }
-        ]
+        ],
+        "summary": "Lorem ipsum y tal."
       }
     ]
   },
   "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Manfred "
+        },
+        "roles": [
+          {
+            "name": "Software Developer",
+            "startDate": "2022-02-01",
+            "challenges": [
+              {
+                "description": "I've joined Manfred to help change the world of technical recruitment. It is too soon, but I hope we can create technology that makes it more human, focusing on people instead of processes and volume.\nI've joined Manfred to help change the world of technical recruitment. It is too soon, but I hope we can create technology that makes it more human, focusing on people instead of processes and volume."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Manfred"
+        },
+        "roles": [
+          {
+            "name": "LinkedIn scraper bot",
+            "startDate": "2022-02-01",
+            "challenges": [
+              {
+                "description": "They have me all the time scraping LinkedIn pages in terrible conditions!!! :-D "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Manfred"
+        },
+        "roles": [
+          {
+            "name": "Scraper bot",
+            "startDate": "2022-02-01",
+            "challenges": [
+              {
+                "description": "I scrape things"
+              }
+            ],
+            "competences": [
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "IBM"
+        },
+        "roles": [
+          {
+            "name": "Software Developer @ IBM Research",
+            "startDate": "2018-02-01",
+            "finishDate": "2022-02-28",
+            "challenges": [
+              {
+                "description": "As part of the ETX team, my job is to build new products with awesome brand new technologies from the IBM Research labs. From Visual Studio Code plugins helping developers to create Quantum programs to a diversity of applications based in the last studies about AI. We work in different technologies, and we use the most suitable one for each situation, but my expertise is backend development with Java technologies, from monolithic architectures to microservices depending on the necessities."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Fon"
+        },
+        "roles": [
+          {
+            "name": "Software developer",
+            "startDate": "2017-03-01",
+            "finishDate": "2018-02-28",
+            "challenges": [
+              {
+                "description": "Me he incorporado al equipo de innovación de Fon para desarrollar el backend de su producto de Home WiFi. Somos un equipo multidisciplinar que engloba todos los roles necesarios para construir el nuevo producto y en el que apenas hay jerarquía. A nivel tecnológico estamos usando Java 8 y 9 para el desarrollo de una arquitectura de microservicios en el que Spring Boot juega un papel fundamental y a menor escala Vert.x. Se hace uso intensivo de buenas prácticas como TDD, despliegue continuo y revisiones de código entre otras. El sistema se despliega en Amazon ECS haciendo uso de contenedores."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Otogami"
+        },
+        "roles": [
+          {
+            "name": "Desarrollador de software",
+            "startDate": "2014-01-01",
+            "finishDate": "2017-02-28",
+            "challenges": [
+              {
+                "description": "Me he unido al equipo de Otogami para ayudar en las labores de desarrollo de software, pero como el primero de los empleados de esta startup quiero aportar mi granito de arena a su cultura y forma de hacer las cosas. Programo principalmente en entorno Java, pero tengo cierta experiencia en desarrollo JavaScript y me gustan ciertos lenguajes que corren en la JVM como Groovy o Scala. Me he unido al equipo de Otogami para ayudar en las labores de desarrollo de software, pero como el primero de los empleados de esta startup quiero aportar mi granito de arena a su cultura y forma de hacer las cosas. Programo principalmente en entorno Java, pero tengo cierta experiencia en desarrollo JavaScript y me gustan ciertos lenguajes que corren en la JVM como Groovy o Scala."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "AvanTIC Estudio de Ingenieros"
+        },
+        "roles": [
+          {
+            "name": "Desarrollador de software",
+            "startDate": "2007-10-01",
+            "finishDate": "2014-01-31",
+            "challenges": [
+              {
+                "description": "En esta pequeña compañía he tenido la oportunidad de evolucionar y aprender, no sólo participando en pequeños desarrollos, sino encargándome del desarrollo de aplicaciones completas para algunos de nuestros clientes. En los primeros años evolucionamos pasando de hacer uso de JSF a un enfoque de arquitectura hexagonal, haciendo uso de Spring MVC y sistemas REST para nuestras soluciones lo que nos otorgó mucha más flexibilidad. Durante el año 2010 tome el rol de evangelista de metodologías ágiles en la empresa y me encargue de su introducción, lo que consolidó nuestra relaciones con nuestros cliente e incrementó la calidad de nuestros productos."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "General de Software de Canarias"
+        },
+        "roles": [
+          {
+            "name": "Programador",
+            "startDate": "2007-03-01",
+            "finishDate": "2007-10-31",
+            "challenges": [
+              {
+                "description": "Trabajé en un sistema de tramitación de expedientes basado en tecnología Java con Spring, MyFaces y Hibernate como frameworks. Guiado por el líder técnico del proyecto me encargue de implementar el sistema de seguridad así como los flujos de navegación de la aplicación basado en soluciones de SpringSource. Trabajé en un sistema de tramitación de expedientes basado en tecnología Java con Spring, MyFaces y Hibernate como frameworks. Guiado por el líder técnico del proyecto me encargue de implementar el sistema de seguridad así como los flujos de navegación de la aplicación basado en soluciones de SpringSource."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Sistemas de Datos"
+        },
+        "roles": [
+          {
+            "name": "Prácticas en Empresa",
+            "startDate": "2005-12-01",
+            "finishDate": "2006-08-31",
+            "challenges": [
+              {
+                "description": "Prácticas en empresa, que consistían en la realización de un sistemas de CRM en una plataforma J2EE, para la empresa Sistemas de Datos. Prácticas en empresa, que consistían en la realización de un sistemas de CRM en una plataforma J2EE, para la empresa Sistemas de Datos."
+              }
+            ]
+          }
+        ]
+      }
+    ],
     "projects": [
       {
         "details": {
@@ -108,6 +267,20 @@
           {
             "name": "Developer",
             "startDate": "2021-11-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Qiskit VSCode",
+          "description": "",
+          "URL": "https://github.com/Qiskit/qiskit-vscode"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2018-06-01"
           }
         ]
       },
@@ -130,25 +303,67 @@
             ]
           }
         ]
-      },
-      {
-        "details": {
-          "name": "Qiskit VSCode",
-          "URL": "https://github.com/Qiskit/qiskit-vscode"
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2018-06-01"
-          }
-        ]
       }
     ],
     "publicArtifacts": [
       {
         "details": {
           "name": "Another highlight to TEST 2",
+          "description": "",
+          "URL": "https://www.google.com"
+        },
+        "type": "post",
+        "publishingDate": "2022-10-05"
+      },
+      {
+        "details": {
+          "name": "Another highlight to TEST 2",
+          "description": "",
+          "URL": "https://www.google.com"
+        },
+        "type": "post",
+        "publishingDate": "2022-10-05"
+      },
+      {
+        "details": {
+          "name": "Another highlight to TEST 2",
+          "description": "",
+          "URL": "https://www.google.com"
+        },
+        "type": "post",
+        "publishingDate": "2022-10-05"
+      },
+      {
+        "details": {
+          "name": "Another highlight to TEST 2",
+          "description": "",
+          "URL": "https://www.google.com"
+        },
+        "type": "post",
+        "publishingDate": "2022-10-05"
+      },
+      {
+        "details": {
+          "name": "Another highlight to TEST 2",
+          "description": "",
+          "URL": "https://www.google.com"
+        },
+        "type": "post",
+        "publishingDate": "2022-10-05"
+      },
+      {
+        "details": {
+          "name": "Another highlight to TEST 2",
+          "description": "",
+          "URL": "https://www.google.com"
+        },
+        "type": "post",
+        "publishingDate": "2022-10-05"
+      },
+      {
+        "details": {
+          "name": "Another highlight to TEST 2",
+          "description": "",
           "URL": "https://www.google.com"
         },
         "type": "post",
@@ -157,6 +372,7 @@
       {
         "details": {
           "name": "Another highlight to test",
+          "description": "",
           "URL": "https://www.google.com"
         },
         "type": "post",
@@ -165,6 +381,7 @@
       {
         "details": {
           "name": "Another highlight to test",
+          "description": "",
           "URL": "https://www.google.com"
         },
         "type": "post",
@@ -173,54 +390,7 @@
       {
         "details": {
           "name": "Another highlight to TEST 2",
-          "URL": "https://www.google.com"
-        },
-        "type": "post",
-        "publishingDate": "2022-10-05"
-      },
-      {
-        "details": {
-          "name": "Another highlight to TEST 2",
-          "URL": "https://www.google.com"
-        },
-        "type": "post",
-        "publishingDate": "2022-10-05"
-      },
-      {
-        "details": {
-          "name": "Another highlight to TEST 2",
-          "URL": "https://www.google.com"
-        },
-        "type": "post",
-        "publishingDate": "2022-10-05"
-      },
-      {
-        "details": {
-          "name": "Another highlight to TEST 2",
-          "URL": "https://www.google.com"
-        },
-        "type": "post",
-        "publishingDate": "2022-10-05"
-      },
-      {
-        "details": {
-          "name": "Another highlight to TEST 2",
-          "URL": "https://www.google.com"
-        },
-        "type": "post",
-        "publishingDate": "2022-10-05"
-      },
-      {
-        "details": {
-          "name": "Another highlight to TEST 2",
-          "URL": "https://www.google.com"
-        },
-        "type": "post",
-        "publishingDate": "2022-10-05"
-      },
-      {
-        "details": {
-          "name": "Another highlight to TEST 2",
+          "description": "",
           "URL": "https://www.google.com"
         },
         "type": "post",
@@ -250,7 +420,10 @@
           "URL": "https://emanchado.github.io/camino-mejor-programador/"
         },
         "type": "achievement",
-        "publishingDate": "2013-06-01"
+        "publishingDate": "2013-06-01",
+        "tags": [
+          ""
+        ]
       },
       {
         "details": {
@@ -268,12 +441,12 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
-      },
-      {
         "name": "English",
         "level": "Full professional proficiency"
+      },
+      {
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
@@ -400,6 +573,20 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "ScrumMaster del Universe certified de verdad de la buena",
+        "startDate": "2010-01-01",
+        "institution": {
+          "name": "Mi casa, teléfono ET a",
+          "description": "The title says everything :-P ",
+          "image": {
+            "alt": "ET_3147094k.jpg",
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/09/08/1d76f654-e7a6-4b8b-ad8a-dfd4bbf857f0_et_3147094k.jpg"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Idiot certified",
         "startDate": "1980-12-01",
         "institution": {
@@ -415,24 +602,11 @@
         "finishDate": "2004-12-31",
         "institution": {
           "name": "Universidad de La Laguna",
+          "description": "",
           "URL": "https://www.linkedin.com/school/universidad-de-la-laguna/?trk=public_profile_school_profile-section-card_full-click",
           "image": {
             "alt": "fc625ede-5bfc-4c40-87af-3a7d79ac93de_16-9-aspect-ratio_default_0.jpg",
             "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/09/08/992660be-8991-423d-9289-12acbae4f6ec_fc625ede-5bfc-4c40-8.jpg"
-          }
-        }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "ScrumMaster del Universe certified de verdad de la buena",
-        "startDate": "2010-01-01",
-        "institution": {
-          "name": "Mi casa, teléfono ET a",
-          "description": "The title says everything :-P ",
-          "image": {
-            "alt": "ET_3147094k.jpg",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/09/08/1d76f654-e7a6-4b8b-ad8a-dfd4bbf857f0_et_3147094k.jpg"
           }
         }
       }
