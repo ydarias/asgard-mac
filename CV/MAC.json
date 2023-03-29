@@ -6,8 +6,8 @@
   },
   "aboutMe": {
     "profile": {
-      "name": "Markos",
-      "surnames": "Twain",
+      "name": "Pedro",
+      "surnames": "Manfredo",
       "title": "Scraper bot at Manfred at day, bowling champion at night",
       "description": "Product-orientated entrepreneurial CTO/VP of Engineering with more than 20 years of deep technical experience developing, implementing and supporting complex infrastructures for fast growing digital businesses. Equally, versed in deep natural leadership, with vast experience and passion building cohesive and effective teams from scratch. Strong skills for managing ETAs, development and organizational structure. Comfortable with building engineering teams from ground up into scaled multidisciplinary teams. Some text more.",
       "avatar": {
@@ -242,15 +242,6 @@
         "tags": [
           "Prize"
         ]
-      },
-      {
-        "details": {
-          "name": "Co-author of \"El camino a un mejor programador\"",
-          "description": "I helped writing this book ... blah blah blah",
-          "URL": "https://emanchado.github.io/camino-mejor-programador/"
-        },
-        "type": "achievement",
-        "publishingDate": "2013-06-01"
       },
       {
         "details": {
