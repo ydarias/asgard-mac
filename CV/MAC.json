@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -16,8 +16,8 @@
       },
       "location": {
         "country": "España",
-        "region": "Comunidad de Madrid",
-        "municipality": "Madrid",
+        "region": "Canarias",
+        "municipality": "Santa Cruz de Tenerife",
         "notes": "Autocompleted using Google Maps API"
       }
     },
@@ -46,14 +46,14 @@
         "title": "Dockerfile best practices",
         "type": "reading",
         "URL": "https://snyk.io/wp-content/uploads/10-best-practices-to-containerize-Node.js-web-applications-with-Docker.pdf",
-        "summary": "Blah blah blah",
         "authors": [
           {
             "name": "Someone",
             "surnames": "Someone",
             "title": "Author"
           }
-        ]
+        ],
+        "summary": "Blah blah blah"
       },
       {
         "title": "La web de San Martin de Fowler",
@@ -65,33 +65,34 @@
             "surnames": "Martin de Fowler",
             "title": "Author"
           }
-        ]
+        ],
+        "summary": ""
       },
       {
         "title": "Nuestro patrón Jimmy Fallon (faro de la Tarugoconf sofa edition)",
         "type": "other",
         "URL": "https://www.youtube.com/watch?v=VoW0mXIsBmQ",
-        "summary": "A video",
         "authors": [
           {
             "name": "Jimmy",
             "surnames": "Fallon",
             "title": "Author"
           }
-        ]
+        ],
+        "summary": "A video"
       },
       {
         "title": "Technical Debt",
         "type": "reading",
         "URL": "https://holub.com/technical-debt/",
-        "summary": "Lorem ipsum y tal.",
         "authors": [
           {
             "name": "Allen",
             "surnames": "Holub",
             "title": "Author"
           }
-        ]
+        ],
+        "summary": "Lorem ipsum y tal."
       }
     ]
   },
@@ -99,21 +100,15 @@
     "jobs": [
       {
         "organization": {
-          "name": "Manfred"
+          "name": "Manfred "
         },
         "roles": [
           {
-            "name": "Scraper bot",
+            "name": "Software Developer",
             "startDate": "2022-02-01",
             "challenges": [
               {
-                "description": "I scrape things"
-              }
-            ],
-            "competences": [
-              {
-                "name": "TypeScript",
-                "type": "technology"
+                "description": "I've joined Manfred to help change the world of technical recruitment. It is too soon, but I hope we can create technology that makes it more human, focusing on people instead of processes and volume.\nI've joined Manfred to help change the world of technical recruitment. It is too soon, but I hope we can create technology that makes it more human, focusing on people instead of processes and volume."
               }
             ]
           }
@@ -137,15 +132,21 @@
       },
       {
         "organization": {
-          "name": "Manfred "
+          "name": "Manfred"
         },
         "roles": [
           {
-            "name": "Software Developer",
+            "name": "Scraper bot v2",
             "startDate": "2022-02-01",
             "challenges": [
               {
-                "description": "I've joined Manfred to help change the world of technical recruitment. It is too soon, but I hope we can create technology that makes it more human, focusing on people instead of processes and volume.\nI've joined Manfred to help change the world of technical recruitment. It is too soon, but I hope we can create technology that makes it more human, focusing on people instead of processes and volume."
+                "description": "I scrape things"
+              }
+            ],
+            "competences": [
+              {
+                "name": "TypeScript",
+                "type": "technology"
               }
             ]
           }
@@ -235,23 +236,6 @@
             ]
           }
         ]
-      },
-      {
-        "organization": {
-          "name": "Sistemas de Datos"
-        },
-        "roles": [
-          {
-            "name": "Prácticas en Empresa",
-            "startDate": "2005-12-01",
-            "finishDate": "2006-08-31",
-            "challenges": [
-              {
-                "description": "Prácticas en empresa, que consistían en la realización de un sistemas de CRM en una plataforma J2EE, para la empresa Sistemas de Datos. Prácticas en empresa, que consistían en la realización de un sistemas de CRM en una plataforma J2EE, para la empresa Sistemas de Datos."
-              }
-            ]
-          }
-        ]
       }
     ],
     "projects": [
@@ -266,6 +250,20 @@
           {
             "name": "Developer",
             "startDate": "2021-11-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Qiskit VSCode",
+          "description": "",
+          "URL": "https://github.com/Qiskit/qiskit-vscode"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2018-06-01"
           }
         ]
       },
@@ -288,95 +286,18 @@
             ]
           }
         ]
-      },
-      {
-        "details": {
-          "name": "Qiskit VSCode",
-          "URL": "https://github.com/Qiskit/qiskit-vscode"
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2018-06-01"
-          }
-        ]
-      }
-    ],
-    "publicArtifacts": [
-      {
-        "details": {
-          "name": "This is a good test highlight",
-          "description": "A good description is very valuable, but I have no time ^_^",
-          "URL": "https://www.google.com"
-        },
-        "type": "talk",
-        "publishingDate": "2022-10-05",
-        "relatedCompetences": [
-          {
-            "name": "Git",
-            "type": "technology"
-          },
-          {
-            "name": "HTML",
-            "type": "technology"
-          },
-          {
-            "name": "Pulumi",
-            "type": "technology"
-          },
-          {
-            "name": "React",
-            "type": "technology"
-          },
-          {
-            "name": "Vue",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "This is a good test highlight",
-          "description": "A good description is very valuable, but I have no time ^_^",
-          "URL": "https://www.google.com"
-        },
-        "type": "talk",
-        "publishingDate": "2022-10-05",
-        "relatedCompetences": [
-          {
-            "name": "Git",
-            "type": "technology"
-          },
-          {
-            "name": "HTML",
-            "type": "technology"
-          },
-          {
-            "name": "Pulumi",
-            "type": "technology"
-          },
-          {
-            "name": "React",
-            "type": "technology"
-          },
-          {
-            "name": "Vue",
-            "type": "technology"
-          }
-        ]
       }
     ]
   },
   "knowledge": {
     "languages": [
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
-      },
-      {
         "name": "English",
         "level": "Full professional proficiency"
+      },
+      {
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
@@ -503,6 +424,20 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "ScrumMaster del Universe certified de verdad de la buena",
+        "startDate": "2010-01-01",
+        "institution": {
+          "name": "Mi casa, teléfono ET a",
+          "description": "The title says everything :-P ",
+          "image": {
+            "alt": "ET_3147094k.jpg",
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/09/08/1d76f654-e7a6-4b8b-ad8a-dfd4bbf857f0_et_3147094k.jpg"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Idiot certified",
         "startDate": "1980-12-01",
         "institution": {
@@ -518,24 +453,11 @@
         "finishDate": "2004-12-31",
         "institution": {
           "name": "Universidad de La Laguna",
+          "description": "",
           "URL": "https://www.linkedin.com/school/universidad-de-la-laguna/?trk=public_profile_school_profile-section-card_full-click",
           "image": {
             "alt": "fc625ede-5bfc-4c40-87af-3a7d79ac93de_16-9-aspect-ratio_default_0.jpg",
             "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/09/08/992660be-8991-423d-9289-12acbae4f6ec_fc625ede-5bfc-4c40-8.jpg"
-          }
-        }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "ScrumMaster del Universe certified de verdad de la buena",
-        "startDate": "2010-01-01",
-        "institution": {
-          "name": "Mi casa, teléfono ET a",
-          "description": "The title says everything :-P ",
-          "image": {
-            "alt": "ET_3147094k.jpg",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/09/08/1d76f654-e7a6-4b8b-ad8a-dfd4bbf857f0_et_3147094k.jpg"
           }
         }
       }
