@@ -237,7 +237,8 @@
       {
         "details": {
           "name": "StackOverflow scraper",
-          "description": "That's it! A scraper for StackOverflow."
+          "description": "That's it! A scraper for StackOverflow.",
+          "URL": "https://github.com/getmanfred/dev-story-scraper"
         },
         "type": "openSource",
         "roles": [
