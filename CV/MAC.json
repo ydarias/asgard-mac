@@ -33,10 +33,6 @@
         "fact": "An MSX"
       },
       {
-        "topic": "Foo",
-        "fact": "Bar"
-      },
-      {
         "topic": "Favorite phrase from David Bonilla",
         "fact": "If you have data we go with your data, if you have a preferences we go with mines. "
       }
