@@ -238,7 +238,11 @@
         "details": {
           "name": "StackOverflow scraper",
           "description": "That's it! A scraper for StackOverflow.",
-          "URL": "https://github.com/getmanfred/dev-story-scraper"
+          "URL": "https://github.com/getmanfred/dev-story-scraper",
+          "image": {
+            "alt": "general-overview.png",
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/04/17/56f39f1f-60e1-426e-8068-89a0217425ea_general-overview.png"
+          }
         },
         "type": "openSource",
         "roles": [
