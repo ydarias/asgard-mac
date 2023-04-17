@@ -285,6 +285,34 @@
           }
         ]
       }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "Best scraper from 2022",
+          "description": "I didn't receive any award, but hey, this is a CV so let me decorate it a little bit.",
+          "URL": "https://www.github.com"
+        },
+        "type": "achievement",
+        "publishingDate": "2022-09-01",
+        "relatedCompetences": [
+          {
+            "name": "Amazon SQS",
+            "type": "technology"
+          },
+          {
+            "name": "Lambda",
+            "type": "technology"
+          },
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          }
+        ],
+        "tags": [
+          "Development"
+        ]
+      }
     ]
   },
   "knowledge": {
