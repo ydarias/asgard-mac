@@ -191,6 +191,29 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "La vida",
+          "URL": "https://www.github.com"
+        },
+        "roles": [
+          {
+            "name": "Pamplinas",
+            "startDate": "1980-02-01",
+            "challenges": [
+              {
+                "description": "Esto es una prueba de experiencia laboral"
+              }
+            ],
+            "competences": [
+              {
+                "name": ".NET",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ],
     "projects": [
