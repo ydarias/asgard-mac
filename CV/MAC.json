@@ -236,6 +236,26 @@
     "projects": [
       {
         "details": {
+          "name": "StackOverflow scraper",
+          "description": "That's it! A scraper for StackOverflow."
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-02-01",
+            "finishDate": "2022-03-01",
+            "competences": [
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Qiskit VSCode",
           "URL": "https://github.com/Qiskit/qiskit-vscode"
         },
@@ -258,26 +278,6 @@
           {
             "name": "Developer",
             "startDate": "2021-11-01"
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "StackOverflow scraper",
-          "description": "That's it! A scraper for StackOverflow."
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2022-02-01",
-            "finishDate": "2022-03-01",
-            "competences": [
-              {
-                "name": "TypeScript",
-                "type": "technology"
-              }
-            ]
           }
         ]
       }
