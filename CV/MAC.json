@@ -93,28 +93,6 @@
     "jobs": [
       {
         "organization": {
-          "name": "ManfredTech"
-        },
-        "roles": [
-          {
-            "name": "Scraper bot v3",
-            "startDate": "2022-03-01",
-            "challenges": [
-              {
-                "description": "I scrape things"
-              }
-            ],
-            "competences": [
-              {
-                "name": "TypeScript",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Manfred"
         },
         "roles": [
