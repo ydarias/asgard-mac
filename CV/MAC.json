@@ -15,6 +15,8 @@
         "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/09/08/0ab0c885-6b87-4e6c-897c-e29dde413d3e_rick-and-morty.jpg"
       },
       "location": {
+        "country": "Estados Unidos",
+        "region": "Massachusetts",
         "notes": "Autocompleted using Google Maps API"
       }
     },
