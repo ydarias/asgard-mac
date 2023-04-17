@@ -437,8 +437,13 @@
         "name": "Idiot certified",
         "startDate": "1980-12-01",
         "institution": {
-          "name": "Lifee",
-          "description": "I am officially an idiot certified human."
+          "name": "Life",
+          "description": "I am officially an idiot certified human.",
+          "URL": "https://google.com",
+          "image": {
+            "alt": "384680.jpg-r_1280_720-f_jpg-q_x-xxyxx.jpg",
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/04/17/0b56ffbc-b3e0-44f0-aa65-68c5ced1100b_384680.jpg"
+          }
         }
       },
       {
