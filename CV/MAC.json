@@ -30,6 +30,10 @@
         "URL": "https://stackoverflow.com/users/bar"
       },
       {
+        "type": "twitter",
+        "URL": "https://twitter.com/ydarias"
+      },
+      {
         "type": "other",
         "URL": "https://www.google.com"
       }
@@ -488,7 +492,7 @@
       "publicProfiles": [
         {
           "type": "linkedin",
-          "URL": "linkedin.com/in/pedro-manfredo"
+          "URL": "linkedin.com/in/pedro-manfredoa"
         },
         {
           "type": "stackoverflow",
@@ -497,6 +501,10 @@
         {
           "type": "other",
           "URL": "https://github.com/ydarias"
+        },
+        {
+          "type": "other",
+          "URL": "https://twitter.com/ydarias"
         },
         {
           "type": "other",
