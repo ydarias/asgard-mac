@@ -93,22 +93,6 @@
     "jobs": [
       {
         "organization": {
-          "name": "Manfred"
-        },
-        "roles": [
-          {
-            "name": "LinkedIn scraper bot",
-            "startDate": "2022-02-01",
-            "challenges": [
-              {
-                "description": "They have me all the time scraping LinkedIn pages in terrible conditions!!! :-D "
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Manfred "
         },
         "roles": [
