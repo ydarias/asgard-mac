@@ -24,6 +24,10 @@
       {
         "type": "other",
         "URL": "https://stackoverflow.com/users/bar"
+      },
+      {
+        "type": "other",
+        "URL": "https://www.google.com"
       }
     ],
     "interestingFacts": [
@@ -485,6 +489,10 @@
         {
           "type": "stackoverflow",
           "URL": "https://stackoverflow.com/users/bar"
+        },
+        {
+          "type": "other",
+          "URL": "https://www.google.com"
         }
       ]
     },
