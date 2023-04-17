@@ -6,8 +6,8 @@
   },
   "aboutMe": {
     "profile": {
-      "name": "Pedro",
-      "surnames": "Manfredo",
+      "name": "Ricardo",
+      "surnames": "Julio",
       "title": "Pedro Manfredo best scrapper in Manfred's history",
       "description": "I am a physical representation of a virtual entity, a tool required to export data from LinkedIn ;-) ",
       "avatar": {
@@ -15,9 +15,6 @@
         "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/09/08/0ab0c885-6b87-4e6c-897c-e29dde413d3e_rick-and-morty.jpg"
       },
       "location": {
-        "country": "España",
-        "region": "Canarias",
-        "municipality": "Santa Cruz de Tenerife",
         "notes": "Autocompleted using Google Maps API"
       }
     },
