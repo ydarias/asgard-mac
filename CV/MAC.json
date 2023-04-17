@@ -22,6 +22,10 @@
     },
     "relevantLinks": [
       {
+        "type": "github",
+        "URL": "https://github.com/ydarias"
+      },
+      {
         "type": "other",
         "URL": "https://stackoverflow.com/users/bar"
       },
@@ -489,6 +493,10 @@
         {
           "type": "stackoverflow",
           "URL": "https://stackoverflow.com/users/bar"
+        },
+        {
+          "type": "other",
+          "URL": "https://github.com/ydarias"
         },
         {
           "type": "other",
