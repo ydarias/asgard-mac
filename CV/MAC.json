@@ -468,6 +468,14 @@
     ]
   },
   "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "linkedin.com/in/pedro-manfredo"
+        }
+      ]
+    },
     "preferences": {
       "preferredCompetences": [
         {
