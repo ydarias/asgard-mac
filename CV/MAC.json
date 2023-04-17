@@ -20,6 +20,12 @@
         "notes": "Autocompleted using Google Maps API"
       }
     },
+    "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "https://stackoverflow.com/users/bar"
+      }
+    ],
     "interestingFacts": [
       {
         "topic": "My first computer was a ...",
@@ -475,6 +481,10 @@
         {
           "type": "linkedin",
           "URL": "linkedin.com/in/pedro-manfredo"
+        },
+        {
+          "type": "stackoverflow",
+          "URL": "https://stackoverflow.com/users/bar"
         }
       ]
     },
