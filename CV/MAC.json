@@ -64,19 +64,6 @@
         ]
       },
       {
-        "title": "Nuestro patrón Jimmy Fallon (faro de la Tarugoconf sofa edition)",
-        "type": "other",
-        "URL": "https://www.youtube.com/watch?v=VoW0mXIsBmQ",
-        "summary": "A video",
-        "authors": [
-          {
-            "name": "Jimmy",
-            "surnames": "Fallon",
-            "title": "Author"
-          }
-        ]
-      },
-      {
         "title": "Technical Debt",
         "type": "reading",
         "URL": "https://holub.com/technical-debt/",
