@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -24,6 +24,10 @@
       {
         "type": "github",
         "URL": "https://github.com/ydarias"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/pedro-manfredo"
       },
       {
         "type": "other",
@@ -191,29 +195,6 @@
             ]
           }
         ]
-      },
-      {
-        "organization": {
-          "name": "La vida",
-          "URL": "https://www.github.com"
-        },
-        "roles": [
-          {
-            "name": "Pamplinas",
-            "startDate": "1980-02-01",
-            "challenges": [
-              {
-                "description": "Esto es una prueba de experiencia laboral"
-              }
-            ],
-            "competences": [
-              {
-                "name": ".NET",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
       }
     ],
     "projects": [
@@ -269,49 +250,17 @@
           }
         ]
       }
-    ],
-    "publicArtifacts": [
-      {
-        "details": {
-          "name": "Best scraper from 2022",
-          "description": "I didn't receive any award, but hey, this is a CV so let me decorate it a little bit.",
-          "URL": "https://www.github.com"
-        },
-        "type": "achievement",
-        "publishingDate": "2022-09-01",
-        "relatedCompetences": [
-          {
-            "name": "Amazon SQS",
-            "type": "technology"
-          },
-          {
-            "name": "Lambda",
-            "type": "technology"
-          },
-          {
-            "name": "NodeJS",
-            "type": "technology"
-          }
-        ],
-        "tags": [
-          "Development"
-        ]
-      }
     ]
   },
   "knowledge": {
     "languages": [
       {
-        "name": "English",
+        "name": "Inglés",
         "level": "Full professional proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "Español",
         "level": "Native or bilingual proficiency"
-      },
-      {
-        "name": "Arabic",
-        "level": "Professional working proficiency"
       }
     ],
     "hardSkills": [
@@ -486,7 +435,7 @@
       "publicProfiles": [
         {
           "type": "linkedin",
-          "URL": "linkedin.com/in/pedro-manfredo"
+          "URL": "https://linkedin.com/in/pedro-manfredo"
         },
         {
           "type": "stackoverflow",
@@ -651,7 +600,7 @@
         "Account Executive"
       ]
     },
-    "status": "notAvailable"
+    "status": "searchingActively"
   },
   "asgardPreferences": {
     "mainStackTechs": [
