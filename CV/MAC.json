@@ -638,7 +638,8 @@
     "desiredJobDescription": "Make things, make them better!\n* TDD\n* Hexagonal Architecture\n* Blah blah blah blah asfasdf",
     "otherLinks": [
       {
-        "url": "https://www.google.com"
+        "url": "https://www.google.com",
+        "desc": "A personal page fake"
       }
     ],
     "projects": [
