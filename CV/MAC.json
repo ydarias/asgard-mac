@@ -403,16 +403,6 @@
         }
       },
       {
-        "studyType": "unaccredited",
-        "degreeAchieved": false,
-        "name": "Foo",
-        "startDate": "1980-05-01",
-        "institution": {
-          "name": "lñkasjdflñajsk lñañosolkdfjñaoiewjfupoqwaie ñoasi jñoajsfopeqiwj opasdkjfpo qawijepo ijañlskdñjfpoqwie jñlaksd pñoawiej lñkajsdfopijaweoñ jaopefnaelñkjfoi ññanmelñkfjaoiejf ñlkanelafewaf. ",
-          "description": "Foo"
-        }
-      },
-      {
         "studyType": "certification",
         "degreeAchieved": false,
         "name": "Idiot certified",
