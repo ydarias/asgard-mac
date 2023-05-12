@@ -11,13 +11,13 @@
       "title": "Pedro Manfredo best scrapper in Manfred's history",
       "description": "I am a physical representation of a virtual entity, a tool required to export data from LinkedIn ;-) d",
       "avatar": {
-        "alt": "Rick-and-Morty.jpg",
-        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/09/08/0ab0c885-6b87-4e6c-897c-e29dde413d3e_rick-and-morty.jpg"
+        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/09/08/0ab0c885-6b87-4e6c-897c-e29dde413d3e_rick-and-morty.jpg",
+        "alt": "Rick-and-Morty.jpg"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJ_b9z6W1l44kRHA2DVTbQxkU)",
         "country": "Estados Unidos",
-        "region": "Massachusetts",
-        "notes": "Autocompleted using Google Maps API (id: ChIJ_b9z6W1l44kRHA2DVTbQxkU)"
+        "region": "Massachusetts"
       }
     },
     "interestingFacts": [
@@ -68,6 +68,13 @@
             "title": "Author"
           }
         ]
+      }
+    ],
+    "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "https://www.google.com",
+        "description": "A personal page fake"
       }
     ]
   },
@@ -182,8 +189,8 @@
           "description": "That's it! A scraper for StackOverflow.",
           "URL": "https://github.com/getmanfred/dev-story-scraper",
           "image": {
-            "alt": "general-overview.png",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/04/17/56f39f1f-60e1-426e-8068-89a0217425ea_general-overview.png"
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/04/17/56f39f1f-60e1-426e-8068-89a0217425ea_general-overview.png",
+            "alt": "general-overview.png"
           }
         },
         "type": "openSource",
@@ -191,13 +198,13 @@
           {
             "name": "Developer",
             "startDate": "2022-02-01",
-            "finishDate": "2022-03-01",
             "competences": [
               {
                 "name": "TypeScript",
                 "type": "technology"
               }
-            ]
+            ],
+            "finishDate": "2022-03-01"
           }
         ]
       },
@@ -266,27 +273,15 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Inglés",
-        "level": "Full professional proficiency"
-      },
-      {
         "name": "Español",
         "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "Inglés",
+        "level": "Full professional proficiency"
       }
     ],
     "hardSkills": [
-      {
-        "skill": {
-          "name": "NodeJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "TypeScript",
-          "type": "technology"
-        }
-      },
       {
         "skill": {
           "name": "AWS",
@@ -295,13 +290,19 @@
       },
       {
         "skill": {
-          "name": "TypeORM",
+          "name": "Airflow",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "JavaScript",
+          "name": "Azure",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
           "type": "technology"
         }
       },
@@ -313,13 +314,13 @@
       },
       {
         "skill": {
-          "name": "Nest",
+          "name": "JAVA",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "JAVA",
+          "name": "JavaScript",
           "type": "technology"
         }
       },
@@ -337,13 +338,31 @@
       },
       {
         "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Nest",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "PHP",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Azure",
+          "name": "Python",
           "type": "technology"
         }
       },
@@ -355,31 +374,19 @@
       },
       {
         "skill": {
-          "name": "Docker",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MongoDB",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Terraform",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Airflow",
+          "name": "TypeORM",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Python",
+          "name": "TypeScript",
           "type": "technology"
         }
       }
@@ -396,6 +403,16 @@
         }
       },
       {
+        "studyType": "unaccredited",
+        "degreeAchieved": false,
+        "name": "Foo",
+        "startDate": "1980-05-01",
+        "institution": {
+          "name": "lñkasjdflñajsk lñañosolkdfjñaoiewjfupoqwaie ñoasi jñoajsfopeqiwj opasdkjfpo qawijepo ijañlskdñjfpoqwie jñlaksd pñoawiej lñkajsdfopijaweoñ jaopefnaelñkjfoi ññanmelñkfjaoiejf ñlkanelafewaf. ",
+          "description": "Foo"
+        }
+      },
+      {
         "studyType": "certification",
         "degreeAchieved": false,
         "name": "Idiot certified",
@@ -405,8 +422,8 @@
           "description": "I am officially an idiot certified human.",
           "URL": "https://google.com",
           "image": {
-            "alt": "384680.jpg-r_1280_720-f_jpg-q_x-xxyxx.jpg",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/04/17/0b56ffbc-b3e0-44f0-aa65-68c5ced1100b_384680.jpg"
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/23/04/17/0b56ffbc-b3e0-44f0-aa65-68c5ced1100b_384680.jpg",
+            "alt": "384680.jpg-r_1280_720-f_jpg-q_x-xxyxx.jpg"
           }
         }
       },
@@ -415,15 +432,15 @@
         "degreeAchieved": true,
         "name": "Ingeniero Técnico Informática de Gestión",
         "startDate": "1998-01-01",
-        "finishDate": "2004-12-31",
         "institution": {
           "name": "Universidad de La Laguna",
           "URL": "https://www.linkedin.com/school/universidad-de-la-laguna/?trk=public_profile_school_profile-section-card_full-click",
           "image": {
-            "alt": "fc625ede-5bfc-4c40-87af-3a7d79ac93de_16-9-aspect-ratio_default_0.jpg",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/09/08/992660be-8991-423d-9289-12acbae4f6ec_fc625ede-5bfc-4c40-8.jpg"
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/09/08/992660be-8991-423d-9289-12acbae4f6ec_fc625ede-5bfc-4c40-8.jpg",
+            "alt": "fc625ede-5bfc-4c40-87af-3a7d79ac93de_16-9-aspect-ratio_default_0.jpg"
           }
-        }
+        },
+        "finishDate": "2004-12-31"
       },
       {
         "studyType": "certification",
@@ -434,9 +451,29 @@
           "name": "Mi casa, teléfono ET a",
           "description": "The title says everything :-P ",
           "image": {
-            "alt": "ET_3147094k.jpg",
-            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/09/08/1d76f654-e7a6-4b8b-ad8a-dfd4bbf857f0_et_3147094k.jpg"
+            "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/09/08/1d76f654-e7a6-4b8b-ad8a-dfd4bbf857f0_et_3147094k.jpg",
+            "alt": "ET_3147094k.jpg"
           }
+        }
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Atención al detalle",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Gestión de equipo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Pensamiento analítico",
+          "type": "practice"
         }
       }
     ]
@@ -445,20 +482,20 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://linkedin.com/in/pedro-manfredo"
+          "URL": "https://linkedin.com/in/pedro-manfredo",
+          "type": "linkedin"
         },
         {
-          "type": "stackoverflow",
-          "URL": "https://stackoverflow.com/users/bar"
+          "URL": "https://stackoverflow.com/users/bar",
+          "type": "stackoverflow"
         },
         {
-          "type": "other",
-          "URL": "https://github.com/ydarias"
+          "URL": "https://github.com/ydarias",
+          "type": "other"
         },
         {
-          "type": "other",
-          "URL": "https://twitter.com/ydarias"
+          "URL": "https://twitter.com/ydarias",
+          "type": "other"
         }
       ],
       "contactMails": [
@@ -613,11 +650,11 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "NodeJS",
+        "name": "Nest",
         "type": "technology"
       },
       {
-        "name": "TypeScript",
+        "name": "NodeJS",
         "type": "technology"
       },
       {
@@ -625,32 +662,21 @@
         "type": "technology"
       },
       {
-        "name": "Nest",
+        "name": "TypeScript",
         "type": "technology"
       }
     ],
-    "goodPractices": "Use the li_la cookie to log into Linkedin instead of the scraper from login page, much much safer option ;-)  ",
-    "softSkills": [
-      "Atención al detalle",
-      "Gestión de equipo",
-      "Pensamiento analítico"
-    ],
     "desiredJobDescription": "Make things, make them better!\n* TDD\n* Hexagonal Architecture\n* Blah blah blah blah asfasdf",
-    "otherLinks": [
-      {
-        "url": "https://www.google.com",
-        "desc": "A personal page fake"
-      }
-    ],
+    "goodPractices": "Use the li_la cookie to log into Linkedin instead of the scraper from login page, much much safer option ;-)  ",
     "projects": [
-      {
-        "name": "xk6-nats"
-      },
       {
         "name": "Qiskit VSCode"
       },
       {
         "name": "StackOverflow scraper"
+      },
+      {
+        "name": "xk6-nats"
       }
     ]
   }
