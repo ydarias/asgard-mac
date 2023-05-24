@@ -6,8 +6,8 @@
   },
   "aboutMe": {
     "profile": {
-      "name": "Yeray",
-      "surnames": "Darias",
+      "name": "Pedrito",
+      "surnames": "Manfredito",
       "title": "Pedro Manfredo best scrapper in Manfred's history",
       "description": "I am a physical representation of a virtual entity, a tool required to export data from LinkedIn ;-)",
       "avatar": {
@@ -15,9 +15,10 @@
         "alt": "Rick-and-Morty.jpg"
       },
       "location": {
-        "notes": "Autocompleted using Google Maps API (id: ChIJ_b9z6W1l44kRHA2DVTbQxkU)",
+        "notes": "Autocompleted using Google Maps API (id: ChIJGzE9DS1l44kRoOhiASS_fHg)",
         "country": "Estados Unidos",
-        "region": "Massachusetts"
+        "region": "Massachusetts",
+        "municipality": "Boston"
       }
     },
     "interestingFacts": [
@@ -469,30 +470,12 @@
   },
   "careerPreferences": {
     "contact": {
-      "publicProfiles": [
-        {
-          "URL": "https://linkedin.com/in/pedro-manfredo",
-          "type": "linkedin"
-        },
-        {
-          "URL": "https://stackoverflow.com/users/bar",
-          "type": "stackoverflow"
-        },
-        {
-          "URL": "https://github.com/ydarias",
-          "type": "other"
-        },
-        {
-          "URL": "https://twitter.com/ydarias",
-          "type": "other"
-        }
-      ],
       "contactMails": [
         "ydarias@gmail.com"
       ],
       "phoneNumbers": [
         {
-          "number": "666666666",
+          "number": "666666655",
           "countryCode": "+34"
         }
       ]
