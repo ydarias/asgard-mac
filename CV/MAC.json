@@ -612,6 +612,9 @@
           "name": "PHP",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Backend Developer"
       ]
     },
     "status": "searchingActively"
