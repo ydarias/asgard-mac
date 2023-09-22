@@ -273,12 +273,12 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Español",
-        "level": "Native or bilingual proficiency"
+        "name": "EN",
+        "level": "Full professional proficiency"
       },
       {
-        "name": "Inglés",
-        "level": "Full professional proficiency"
+        "name": "ES",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
@@ -470,6 +470,12 @@
   },
   "careerPreferences": {
     "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://linkedin.com/in/ydarias",
+          "type": "linkedin"
+        }
+      ],
       "contactMails": [
         "ydarias@gmail.com"
       ],
@@ -614,7 +620,8 @@
         }
       ],
       "preferredRoles": [
-        "Backend Developer"
+        "Backend Developer",
+        "Frontend Developer"
       ]
     },
     "status": "searchingActively"
@@ -649,6 +656,17 @@
       },
       {
         "name": "xk6-nats"
+      }
+    ],
+    "bookmarks": [
+      {
+        "name": "Dockerfile best practices"
+      },
+      {
+        "name": "La web de San Martin de Fowler"
+      },
+      {
+        "name": "Technical Debt"
       }
     ]
   }
