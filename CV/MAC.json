@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "ES",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -72,6 +72,10 @@
       }
     ],
     "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/ydarias"
+      },
       {
         "type": "other",
         "URL": "https://www.google.com"
@@ -210,19 +214,6 @@
       },
       {
         "details": {
-          "name": "Qiskit VSCode",
-          "URL": "https://github.com/Qiskit/qiskit-vscode"
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2018-06-01"
-          }
-        ]
-      },
-      {
-        "details": {
           "name": "xk6-nats",
           "description": "Pluging for xk6 to support NATS asynchronous tests.",
           "URL": "https://github.com/ydarias/xk6-nats"
@@ -232,6 +223,19 @@
           {
             "name": "Developer",
             "startDate": "2021-11-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Qiskit VSCode",
+          "URL": "https://github.com/Qiskit/qiskit-vscode"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2018-06-01"
           }
         ]
       }
@@ -274,10 +278,12 @@
     "languages": [
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Full professional proficiency"
       },
       {
         "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       }
     ],
