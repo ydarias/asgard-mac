@@ -259,10 +259,6 @@
             "type": "technology"
           },
           {
-            "name": "Pulumi",
-            "type": "technology"
-          },
-          {
             "name": "React",
             "type": "technology"
           },
@@ -308,7 +304,19 @@
       },
       {
         "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Analytics",
           "type": "technology"
         }
       },
@@ -369,6 +377,12 @@
       {
         "skill": {
           "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
           "type": "technology"
         }
       },
@@ -484,12 +498,6 @@
       ],
       "contactMails": [
         "ydarias@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "666666655",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
