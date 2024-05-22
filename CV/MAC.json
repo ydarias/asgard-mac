@@ -6,13 +6,13 @@
   },
   "aboutMe": {
     "profile": {
-      "name": "Pedrito",
-      "surnames": "Manfredito",
-      "title": "Pedro Manfredo best scrapper in Manfred's history",
-      "description": "I am a physical representation of a virtual entity, a tool required to export data from LinkedIn ;-)",
+      "name": "Yeray",
+      "surnames": "Darias Camacho",
+      "title": "Software Developer @ Manfred",
+      "description": "Me dedico principalmente al desarrollo web con tecnología Java, aunque he trabajado mucho con JavaScript y he tenido la oportunidad de usar otras tecnologías en los múltiples proyectos en los que he trabajado.\n\nDesde hace bastante tiempo me interesa el factor humano del desarrollo de software y defiendo los principios del manifiesto ágil, así como la calidad del código y el producto final que se le entregan a los clientes.",
       "avatar": {
-        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/09/08/0ab0c885-6b87-4e6c-897c-e29dde413d3e_rick-and-morty.jpg",
-        "alt": "Rick-and-Morty.jpg"
+        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/24/05/22/e2497370-c672-459a-9ae4-7b2d30e6371f_linkedin-photo-193.linkedin-photo-193",
+        "alt": "24/05/22/e2497370-c672-459a-9ae4-7b2d30e6371f_linkedin-photo-193.linkedin-photo-193"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
@@ -36,7 +36,6 @@
         "title": "Dockerfile best practices",
         "type": "reading",
         "URL": "https://snyk.io/wp-content/uploads/10-best-practices-to-containerize-Node.js-web-applications-with-Docker.pdf",
-        "summary": "Blah blah blah",
         "authors": [
           {
             "name": "Someone",
@@ -61,7 +60,6 @@
         "title": "Technical Debt",
         "type": "reading",
         "URL": "https://holub.com/technical-debt/",
-        "summary": "Lorem ipsum y tal y cual para comprobar el update.",
         "authors": [
           {
             "name": "Allen",
@@ -83,109 +81,6 @@
     ]
   },
   "experience": {
-    "jobs": [
-      {
-        "organization": {
-          "name": "Manfred "
-        },
-        "roles": [
-          {
-            "name": "Software Developer",
-            "startDate": "2022-02-01",
-            "challenges": [
-              {
-                "description": "I've joined Manfred to help change the world of technical recruitment. It is too soon, but I hope we can create technology that makes it more human, focusing on people instead of processes and volume.\nI've joined Manfred to help change the world of technical recruitment. It is too soon, but I hope we can create technology that makes it more human, focusing on people instead of processes and volume."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "IBM"
-        },
-        "roles": [
-          {
-            "name": "Software Developer @ IBM Research",
-            "startDate": "2018-02-01",
-            "finishDate": "2022-02-28",
-            "challenges": [
-              {
-                "description": "As part of the ETX team, my job is to build new products with awesome brand new technologies from the IBM Research labs. From Visual Studio Code plugins helping developers to create Quantum programs to a diversity of applications based in the last studies about AI. We work in different technologies, and we use the most suitable one for each situation, but my expertise is backend development with Java technologies, from monolithic architectures to microservices depending on the necessities."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Fon"
-        },
-        "roles": [
-          {
-            "name": "Software developer",
-            "startDate": "2017-03-01",
-            "finishDate": "2018-02-28",
-            "challenges": [
-              {
-                "description": "Me he incorporado al equipo de innovación de Fon para desarrollar el backend de su producto de Home WiFi. Somos un equipo multidisciplinar que engloba todos los roles necesarios para construir el nuevo producto y en el que apenas hay jerarquía. A nivel tecnológico estamos usando Java 8 y 9 para el desarrollo de una arquitectura de microservicios en el que Spring Boot juega un papel fundamental y a menor escala Vert.x. Se hace uso intensivo de buenas prácticas como TDD, despliegue continuo y revisiones de código entre otras. El sistema se despliega en Amazon ECS haciendo uso de contenedores."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Otogami"
-        },
-        "roles": [
-          {
-            "name": "Desarrollador de software",
-            "startDate": "2014-01-01",
-            "finishDate": "2017-02-28",
-            "challenges": [
-              {
-                "description": "Me he unido al equipo de Otogami para ayudar en las labores de desarrollo de software, pero como el primero de los empleados de esta startup quiero aportar mi granito de arena a su cultura y forma de hacer las cosas. Programo principalmente en entorno Java, pero tengo cierta experiencia en desarrollo JavaScript y me gustan ciertos lenguajes que corren en la JVM como Groovy o Scala. Me he unido al equipo de Otogami para ayudar en las labores de desarrollo de software, pero como el primero de los empleados de esta startup quiero aportar mi granito de arena a su cultura y forma de hacer las cosas. Programo principalmente en entorno Java, pero tengo cierta experiencia en desarrollo JavaScript y me gustan ciertos lenguajes que corren en la JVM como Groovy o Scala."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "AvanTIC Estudio de Ingenieros"
-        },
-        "roles": [
-          {
-            "name": "Desarrollador de software",
-            "startDate": "2007-10-01",
-            "finishDate": "2014-01-31",
-            "challenges": [
-              {
-                "description": "En esta pequeña compañía he tenido la oportunidad de evolucionar y aprender, no sólo participando en pequeños desarrollos, sino encargándome del desarrollo de aplicaciones completas para algunos de nuestros clientes. En los primeros años evolucionamos pasando de hacer uso de JSF a un enfoque de arquitectura hexagonal, haciendo uso de Spring MVC y sistemas REST para nuestras soluciones lo que nos otorgó mucha más flexibilidad. Durante el año 2010 tome el rol de evangelista de metodologías ágiles en la empresa y me encargue de su introducción, lo que consolidó nuestra relaciones con nuestros cliente e incrementó la calidad de nuestros productos."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "General de Software de Canarias"
-        },
-        "roles": [
-          {
-            "name": "Programador",
-            "startDate": "2007-03-01",
-            "finishDate": "2007-10-31",
-            "challenges": [
-              {
-                "description": "Trabajé en un sistema de tramitación de expedientes basado en tecnología Java con Spring, MyFaces y Hibernate como frameworks. Guiado por el líder técnico del proyecto me encargue de implementar el sistema de seguridad así como los flujos de navegación de la aplicación basado en soluciones de SpringSource. Trabajé en un sistema de tramitación de expedientes basado en tecnología Java con Spring, MyFaces y Hibernate como frameworks. Guiado por el líder técnico del proyecto me encargue de implementar el sistema de seguridad así como los flujos de navegación de la aplicación basado en soluciones de SpringSource."
-              }
-            ]
-          }
-        ]
-      }
-    ],
     "projects": [
       {
         "details": {
