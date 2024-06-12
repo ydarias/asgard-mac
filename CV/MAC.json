@@ -412,6 +412,12 @@
       },
       {
         "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "jQuery",
           "type": "technology"
         }
@@ -607,6 +613,24 @@
     "status": "searchingActively"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Hibernate",
+        "type": "technology"
+      },
+      {
+        "name": "JAVA",
+        "type": "technology"
+      },
+      {
+        "name": "Spring",
+        "type": "technology"
+      },
+      {
+        "name": "TypeScript",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "Make things, make them better!\n* TDD\n* Hexagonal Architecture\n* Blah blah blah blah asfasdf",
     "goodPractices": "Use the li_la cookie to log into Linkedin instead of the scraper from login page, much much safer option ;-)  ",
     "projects": [
